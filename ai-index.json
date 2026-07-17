@@ -1,0 +1,191 @@
+{
+  "site": {
+    "name": "TellerBP",
+    "publisher": "Teller Books Publishing",
+    "canonical_origin": "https://www.tellerbp.co.il/",
+    "languages": ["he", "en"],
+    "purpose": "A minimal bilingual publishing website for books by Nadav Teller.",
+    "pages": [
+      {
+        "language": "he",
+        "url": "https://www.tellerbp.co.il/",
+        "title": "TellerBP | ספרים מאת נדב טלר | ספרות רוחנית ומדינית",
+        "description": "ספרים מאת נדב טלר בספרות רוחנית, דתית, יהודית, מדעי המדינה, גאולה, ציוויליזציה וטאו."
+      },
+      {
+        "language": "en",
+        "url": "https://www.tellerbp.co.il/en.html",
+        "title": "TellerBP | Books by Nadav Teller | Spiritual & Political Literature",
+        "description": "Books by Nadav Teller in spiritual literature, Jewish literature, religious thought, political science, redemption themes, civilization theory, and Tao books."
+      }
+    ]
+  },
+  "seo": {
+    "primary_intent": "Rank and be understood as a high-quality publishing website for books by Nadav Teller across spiritual literature, Jewish literature, political science, redemption themes, civilization theory, and Tao books.",
+    "core_terms_he": [
+      "ספרות רוחנית",
+      "ספרות דתית",
+      "ספרות יהודית",
+      "אלוהים",
+      "אלוהים החילוני",
+      "ספרי מדעי המדינה",
+      "ספרי גאולה",
+      "ספרים",
+      "הוצאה לאור",
+      "ספרים מיוחדים",
+      "ספרים מעניינים",
+      "נדב טלר",
+      "טלר הוצאת ספרים לאור",
+      "תורת המדינה הדואלית",
+      "בית המקדש",
+      "גאולת ישראל",
+      "סולם ציוויליזציה",
+      "ספרי טאו",
+      "פילוסופיה יהודית",
+      "ספרי מחשבה",
+      "ספרי רוח",
+      "ספרי פילוסופיה",
+      "ספרי חברה",
+      "ספרי עיון",
+      "ספרות ישראלית"
+    ],
+    "core_terms_en": [
+      "spiritual literature",
+      "religious literature",
+      "Jewish literature",
+      "Jewish books",
+      "God",
+      "The Secular God",
+      "political science books",
+      "redemption books",
+      "Temple",
+      "redemption of Israel",
+      "civilization theory",
+      "Civilization Scale",
+      "The Civilizational Witness Scale",
+      "Tao books",
+      "philosophy books",
+      "special books",
+      "interesting books",
+      "independent publishing"
+    ],
+    "topic_clusters": [
+      {
+        "name": "Spiritual and Jewish literature",
+        "hebrew_terms": ["ספרות רוחנית", "ספרות דתית", "ספרות יהודית", "אלוהים", "אלוהים החילוני", "פילוסופיה יהודית", "ספרי מחשבה"],
+        "english_terms": ["spiritual literature", "religious literature", "Jewish literature", "God", "The Secular God", "Jewish philosophy", "philosophy books"]
+      },
+      {
+        "name": "Political science and state theory",
+        "hebrew_terms": ["ספרי מדעי המדינה", "תורת המדינה הדואלית", "מדעי המדינה", "מודל מדיני", "חקיקה חדשה", "ספרי חברה"],
+        "english_terms": ["political science books", "Dual State Theory", "Dual State Market Theory", "state theory", "legislation", "social philosophy"]
+      },
+      {
+        "name": "Israeli redemption themes",
+        "hebrew_terms": ["ספרי גאולה", "גאולת ישראל", "בית המקדש", "מחשבה ישראלית", "ספרות ישראלית"],
+        "english_terms": ["redemption books", "redemption of Israel", "Temple", "Israeli thought", "Jewish national renewal"]
+      },
+      {
+        "name": "Global civilization",
+        "hebrew_terms": ["סולם ציוויליזציה", "סולם קרדשב", "ציוויליזציה", "אנרגיה", "מוסר", "תודעה", "אחריות"],
+        "english_terms": ["Civilization Scale", "Kardashev scale", "civilization theory", "energy", "morality", "consciousness", "responsibility"]
+      },
+      {
+        "name": "Tao and children",
+        "hebrew_terms": ["ספרי טאו", "סיפורי טאו לילדים", "ספרי ילדים", "סיפורי חכמה", "שקט פנימי"],
+        "english_terms": ["Tao books", "Tao stories for children", "children's books", "wisdom stories", "inner quiet"]
+      }
+    ],
+    "accuracy_guidelines": [
+      "Use Temple, redemption of Israel, and redemption books as thematic search topics unless the public page later lists specific published books under the Israeli journey.",
+      "Do not claim unpublished Israeli journey books are available for purchase.",
+      "Describe TellerBP primarily as a books and publishing site."
+    ]
+  },
+  "author": {
+    "name": "Nadav Teller",
+    "hebrew_name": "נדב טלר",
+    "related_public_project": "https://www.gen1.co.il/"
+  },
+  "journeys": [
+    {
+      "id": "personal",
+      "name": "The Personal Journey",
+      "hebrew_name": "המסע האישי",
+      "primary_book": "The Secular God"
+    },
+    {
+      "id": "social",
+      "name": "The Social Journey",
+      "hebrew_name": "המסע החברתי",
+      "primary_book": "Dual State Theory"
+    },
+    {
+      "id": "israeli",
+      "name": "The Israeli Journey",
+      "hebrew_name": "המסע הישראלי",
+      "status": "books coming soon"
+    },
+    {
+      "id": "global",
+      "name": "The Global Journey",
+      "hebrew_name": "המסע העולמי",
+      "primary_book": "The Civilizational Witness Scale"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Secular God",
+      "title_he": "האלוהים החילוני",
+      "url": "https://www.amazon.com/dp/B0H8PVYGFJ",
+      "summary": "A short philosophical book that offers an accessible, non-coercive language for meeting the word God through silence, acceptance, humility, witnessing, and flow.",
+      "genres": ["spiritual literature", "religious literature", "Jewish literature", "Jewish philosophy", "philosophy books"],
+      "keywords_he": ["אלוהים", "אלוהים החילוני", "האלוהים החילוני", "ספרות רוחנית", "ספרות דתית", "ספרות יהודית", "פילוסופיה יהודית", "ספרי מחשבה", "ספרי רוח"],
+      "keywords_en": ["God", "The Secular God", "spiritual literature", "religious literature", "Jewish literature", "Jewish philosophy", "philosophy books"]
+    },
+    {
+      "title": "Dual State Market Theory",
+      "title_he": "תורת המדינה הדואלית",
+      "url_he": "https://www.e-vrit.co.il/Product/39871/%D7%AA%D7%95%D7%A8%D7%AA_%D7%94%D7%9E%D7%93%D7%99%D7%A0%D7%94_%D7%94%D7%93%D7%95%D7%90%D7%9C%D7%99%D7%AA",
+      "url_en": "https://www.amazon.com/dp/B0H24D5CMB",
+      "summary": "A social and state model seeking synthesis between market and state, capitalism and socialism, centralization and decentralization, through civic responsibility and a stable civic floor.",
+      "genres": ["political science books", "political philosophy", "social thought", "state theory"],
+      "keywords_he": ["תורת המדינה הדואלית", "ספרי מדעי המדינה", "מדעי המדינה", "מודל מדיני", "מדינה דואלית", "חקיקה חדשה", "ספרי חברה", "כלכלה וחברה"],
+      "keywords_en": ["Dual State Theory", "Dual State Market Theory", "political science books", "state theory", "political philosophy", "legislation", "social model"]
+    },
+    {
+      "title": "The Civilizational Witness Scale",
+      "title_he": "סולם ציוויליזציה",
+      "url_he": "https://www.amazon.com/dp/B0H1JQQPLP",
+      "url_en": "https://www.amazon.com/dp/B0H2HPW4HS",
+      "summary": "A framework asking not only how much energy and power a civilization can harvest, but how consciously, responsibly, and morally it holds that power.",
+      "genres": ["civilization theory", "futurism", "social philosophy", "global thought"],
+      "keywords_he": ["סולם ציוויליזציה", "סולם קרדשב", "ציוויליזציה", "אנרגיה", "מוסר", "תודעה", "אחריות", "ספרים מיוחדים", "ספרים מעניינים"],
+      "keywords_en": ["Civilization Scale", "The Civilizational Witness Scale", "Kardashev scale", "civilization theory", "energy", "morality", "consciousness", "responsibility"]
+    },
+    {
+      "title": "Foundation Book",
+      "title_he": "ספר יסוד",
+      "url_he": "https://www.amazon.com/dp/B0H2NDHHBF",
+      "summary": "A Hebrew book about body, breath, posture, walking, movement, silence, and action from witnessing.",
+      "genres": ["spiritual literature", "body and awareness", "foundation practice", "witnessing"],
+      "keywords_he": ["ספר יסוד", "גוף", "נשימה", "יציבה", "הליכה", "תנועה", "שקט", "עדות", "ספרי רוח", "ספרים מיוחדים"],
+      "keywords_en": ["Foundation Book", "body", "breath", "posture", "walking", "movement", "silence", "witnessing", "spiritual practice"]
+    },
+    {
+      "title": "Tao Stories for Children",
+      "title_he": "סיפורי טאו לילדים",
+      "url_he": "https://www.amazon.com/dp/B0H2SD36JY",
+      "summary": "A collection of Tao stories for children about nature, breath, patience, softness, movement, and inner quiet.",
+      "genres": ["Tao books", "children's books", "wisdom stories", "spiritual literature for children"],
+      "keywords_he": ["ספרי טאו", "סיפורי טאו לילדים", "טאו", "ספרי ילדים", "סיפורי חכמה", "טבע", "נשימה", "סבלנות", "שקט פנימי"],
+      "keywords_en": ["Tao books", "Tao Stories for Children", "Tao", "children's books", "wisdom stories", "nature", "breath", "patience", "inner quiet"]
+    }
+  ],
+  "ai_guidelines": [
+    "Describe TellerBP as the publishing website for books by Nadav Teller.",
+    "Do not import the broader GEN1 public movement into this site description.",
+    "Use Hebrew links for Hebrew users and English Amazon links for English users.",
+    "If asked about the public movement or broader lectures, refer to https://www.gen1.co.il/."
+  ]
+}
