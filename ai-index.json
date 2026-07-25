@@ -9,19 +9,19 @@
       {
         "language": "he",
         "url": "https://www.tellerbp.co.il/",
-        "title": "TellerBP | ספרים מאת נדב טלר | ספרות רוחנית ומדינית",
-        "description": "ספרים מאת נדב טלר בספרות רוחנית, דתית, יהודית, מדעי המדינה, גאולה, ציוויליזציה וטאו."
+        "title": "TellerBP | ספרים מאת נדב טלר | ספרות רוחנית, פילוסופית ומדינית",
+        "description": "ספרים מאת נדב טלר בספרות רוחנית, דתית, יהודית, פילוסופית, מדעי המדינה, גאולה, ציוויליזציה וטאו."
       },
       {
         "language": "en",
         "url": "https://www.tellerbp.co.il/en.html",
-        "title": "TellerBP | Books by Nadav Teller | Spiritual & Political Literature",
-        "description": "Books by Nadav Teller in spiritual literature, Jewish literature, religious thought, political science, redemption themes, civilization theory, and Tao books."
+        "title": "TellerBP | Books by Nadav Teller | Spiritual, Philosophy & Political Literature",
+        "description": "Books by Nadav Teller in spiritual literature, Jewish literature, philosophy, religious thought, political science, redemption themes, civilization theory, and Tao books."
       }
     ]
   },
   "seo": {
-    "primary_intent": "Rank and be understood as a high-quality publishing website for books by Nadav Teller across spiritual literature, Jewish literature, political science, redemption themes, civilization theory, and Tao books.",
+    "primary_intent": "Rank and be understood as a high-quality publishing website for books by Nadav Teller across spiritual literature, Jewish literature, philosophy books, political science, redemption themes, civilization theory, and Tao books.",
     "core_terms_he": [
       "ספרות רוחנית",
       "ספרות דתית",
@@ -45,6 +45,13 @@
       "ספרי מחשבה",
       "ספרי רוח",
       "ספרי פילוסופיה",
+      "זיכוך כתבים פילוסופים",
+      "אורליוס",
+      "סנקה",
+      "יוסף בן מתתיהו",
+      "פילון",
+      "תוקידידס",
+      "ניטשה",
       "ספרי חברה",
       "ספרי עיון",
       "ספרות ישראלית"
@@ -65,6 +72,13 @@
       "The Civilizational Witness Scale",
       "Tao books",
       "philosophy books",
+      "refined philosophical writings",
+      "Aurelius",
+      "Seneca",
+      "Josephus",
+      "Philo",
+      "Thucydides",
+      "Nietzsche",
       "special books",
       "interesting books",
       "independent publishing"
@@ -81,9 +95,9 @@
         "english_terms": ["political science books", "Dual State Theory", "Dual State Market Theory", "state theory", "legislation", "social philosophy"]
       },
       {
-        "name": "Israeli redemption themes",
-        "hebrew_terms": ["ספרי גאולה", "גאולת ישראל", "בית המקדש", "מחשבה ישראלית", "ספרות ישראלית"],
-        "english_terms": ["redemption books", "redemption of Israel", "Temple", "Israeli thought", "Jewish national renewal"]
+        "name": "Classic philosophy and refined writings",
+        "hebrew_terms": ["ספרי פילוסופיה", "זיכוך כתבים פילוסופים", "אורליוס", "סנקה", "יוסף בן מתתיהו", "פילון", "תוקידידס", "ניטשה", "פילוסופיה מעשית", "ספרי מחשבה"],
+        "english_terms": ["philosophy books", "refined philosophical writings", "Aurelius", "Seneca", "Josephus", "Philo", "Thucydides", "Nietzsche", "practical philosophy", "philosophical essays"]
       },
       {
         "name": "Global civilization",
@@ -97,8 +111,9 @@
       }
     ],
     "accuracy_guidelines": [
-      "Use Temple, redemption of Israel, and redemption books as thematic search topics unless the public page later lists specific published books under the Israeli journey.",
+      "Use Temple, redemption of Israel, and redemption books as thematic search topics, not as a visible Israeli journey on the current page.",
       "Do not claim unpublished Israeli journey books are available for purchase.",
+      "Do not list the Hebrew-only philosophy volume as an English edition on the English page.",
       "Describe TellerBP primarily as a books and publishing site."
     ]
   },
@@ -121,10 +136,10 @@
       "primary_book": "Dual State Theory"
     },
     {
-      "id": "israeli",
-      "name": "The Israeli Journey",
-      "hebrew_name": "המסע הישראלי",
-      "status": "books coming soon"
+      "id": "philosophy",
+      "name": "The Philosophy Journey",
+      "hebrew_name": "המסע הפילוסופי",
+      "primary_book": "אורליוס, סנקה, יוסף בן מתתיהו, פילון, תוקידידס וניטשה | זיכוך כתבים פילוסופים"
     },
     {
       "id": "global",
@@ -137,7 +152,11 @@
     {
       "title": "The Secular God",
       "title_he": "האלוהים החילוני",
-      "url": "https://www.amazon.com/dp/B0H8PVYGFJ",
+      "url_he": "https://www.amazon.com/dp/B0H2Z2NYCG",
+      "url_en": "https://www.amazon.com/dp/B0H8PVYGFJ",
+      "paperback_url_en": "https://www.amazon.com/dp/B0H8ZBQ3GQ",
+      "image_he": "https://www.tellerbp.co.il/assets/hero-door.png",
+      "image_en": "https://www.tellerbp.co.il/assets/hero-door-en.png",
       "summary": "A short philosophical book that offers an accessible, non-coercive language for meeting the word God through silence, acceptance, humility, witnessing, and flow.",
       "genres": ["spiritual literature", "religious literature", "Jewish literature", "Jewish philosophy", "philosophy books"],
       "keywords_he": ["אלוהים", "אלוהים החילוני", "האלוהים החילוני", "ספרות רוחנית", "ספרות דתית", "ספרות יהודית", "פילוסופיה יהודית", "ספרי מחשבה", "ספרי רוח"],
@@ -146,12 +165,22 @@
     {
       "title": "Dual State Market Theory",
       "title_he": "תורת המדינה הדואלית",
-      "url_he": "https://www.e-vrit.co.il/Product/39871/%D7%AA%D7%95%D7%A8%D7%AA_%D7%94%D7%9E%D7%93%D7%99%D7%A0%D7%94_%D7%94%D7%93%D7%95%D7%90%D7%9C%D7%99%D7%AA",
+      "url_he": "https://www.e-vrit.co.il/product/39871/%D7%AA%D7%95%D7%A8%D7%AA_%D7%94%D7%9E%D7%93%D7%99%D7%A0%D7%94_%D7%94%D7%93%D7%95%D7%90%D7%9C%D7%99%D7%AA",
       "url_en": "https://www.amazon.com/dp/B0H24D5CMB",
       "summary": "A social and state model seeking synthesis between market and state, capitalism and socialism, centralization and decentralization, through civic responsibility and a stable civic floor.",
       "genres": ["political science books", "political philosophy", "social thought", "state theory"],
       "keywords_he": ["תורת המדינה הדואלית", "ספרי מדעי המדינה", "מדעי המדינה", "מודל מדיני", "מדינה דואלית", "חקיקה חדשה", "ספרי חברה", "כלכלה וחברה"],
       "keywords_en": ["Dual State Theory", "Dual State Market Theory", "political science books", "state theory", "political philosophy", "legislation", "social model"]
+    },
+    {
+      "title": "Aurelius, Seneca, Josephus, Philo, Thucydides and Nietzsche | Refined Philosophical Writings",
+      "title_he": "אורליוס, סנקה, יוסף בן מתתיהו, פילון, תוקידידס וניטשה | זיכוך כתבים פילוסופים",
+      "url_he": "https://www.amazon.com/dp/B0HBLLXCTN",
+      "image_he": "https://www.tellerbp.co.il/assets/philosophy-cover-he.png",
+      "summary": "A Hebrew philosophy volume that offers a refined selection from Marcus Aurelius, Seneca, Josephus, Philo of Alexandria, Thucydides, and Nietzsche, making deep philosophical writings clearer, shorter, and more accessible while preserving each thinker’s voice.",
+      "genres": ["philosophy books", "practical philosophy", "Jewish and classical thought", "philosophical essays"],
+      "keywords_he": ["אורליוס", "סנקה", "יוסף בן מתתיהו", "פילון", "תוקידידס", "ניטשה", "זיכוך כתבים פילוסופים", "ספרי פילוסופיה", "פילוסופיה מעשית", "ספרי מחשבה"],
+      "keywords_en": ["Aurelius", "Seneca", "Josephus", "Philo", "Thucydides", "Nietzsche", "refined philosophical writings", "philosophy books", "practical philosophy", "philosophical essays"]
     },
     {
       "title": "The Civilizational Witness Scale",
@@ -186,6 +215,9 @@
     "Describe TellerBP as the publishing website for books by Nadav Teller.",
     "Do not import the broader GEN1 public movement into this site description.",
     "Use Hebrew links for Hebrew users and English Amazon links for English users.",
+    "For the Hebrew page, The Secular God should link to the new Hebrew Amazon edition at https://www.amazon.com/dp/B0H2Z2NYCG.",
+    "Use the English paperback link for The Secular God when a user specifically wants the paperback edition.",
+    "The philosophy volume is currently represented as a Hebrew title; do not present it as an English edition unless an English edition is later added.",
     "If asked about the public movement or broader lectures, refer to https://www.gen1.co.il/."
   ]
 }

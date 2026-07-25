@@ -8,6 +8,9 @@
   --muted: #6f6254;
   --line: rgba(105, 77, 42, 0.22);
   --blue: #415d66;
+  --sky: #4ea0ce;
+  --leaf: #6c8f3e;
+  --blossom: #d28b84;
   --shadow: rgba(58, 40, 18, 0.18);
   --hero-x: 50%;
   --hero-y: 50%;
@@ -27,7 +30,8 @@ body {
   min-width: 320px;
   background:
     linear-gradient(90deg, rgba(255, 255, 255, 0.48) 1px, transparent 1px) 0 0 / 78px 78px,
-    linear-gradient(180deg, rgba(124, 85, 28, 0.06), transparent 260px),
+    linear-gradient(180deg, rgba(78, 160, 206, 0.09), transparent 240px),
+    linear-gradient(140deg, transparent 0 58%, rgba(108, 143, 62, 0.08) 58% 72%, transparent 72%),
     var(--paper);
   color: var(--ink);
   font-family: "Segoe UI", Arial, sans-serif;
@@ -193,12 +197,26 @@ img {
   filter: drop-shadow(0 26px 42px rgba(92, 60, 22, 0.18));
 }
 
+.hero-gate {
+  display: grid;
+  place-items: center;
+  min-height: 42vh;
+}
+
+.hero-gate-button.button {
+  min-width: min(270px, 76vw);
+  min-height: 56px;
+  padding: 14px 30px;
+  font-size: 1.08rem;
+  box-shadow: 0 18px 48px rgba(46, 36, 27, 0.24);
+}
+
 .hero-cover-he {
   width: min(48vw, 560px, calc((100svh - 132px) * 0.6666));
 }
 
 .hero-cover-en {
-  width: min(48vw, 560px, calc((100svh - 132px) * 0.6952));
+  width: min(48vw, 560px, calc((100svh - 132px) * 0.6666));
 }
 
 .hero-cover {
@@ -339,8 +357,16 @@ h2 {
 
 .section-alt {
   background:
-    linear-gradient(180deg, rgba(65, 93, 102, 0.06), transparent 42%),
+    linear-gradient(180deg, rgba(78, 160, 206, 0.08), transparent 42%),
     rgba(255, 250, 240, 0.68);
+}
+
+.anchor-alias {
+  position: relative;
+  top: -88px;
+  display: block;
+  height: 0;
+  overflow: hidden;
 }
 
 .section-meta {
@@ -377,6 +403,34 @@ h2 {
   min-height: 320px;
   display: grid;
   place-items: center;
+}
+
+.philosophy-section {
+  background:
+    linear-gradient(180deg, rgba(78, 160, 206, 0.14), rgba(255, 250, 240, 0.72) 42%, rgba(108, 143, 62, 0.1)),
+    var(--paper);
+}
+
+.philosophy-section .section-kicker {
+  color: #526f2f;
+}
+
+.book-visual {
+  min-height: 360px;
+}
+
+.book-visual img {
+  width: min(275px, 56vw);
+  height: auto;
+  max-height: 430px;
+  object-fit: contain;
+  border-radius: 7px;
+  border: 1px solid rgba(167, 122, 46, 0.24);
+  box-shadow: 0 26px 58px rgba(58, 40, 18, 0.2);
+}
+
+.personal-book-visual img {
+  width: min(285px, 58vw);
 }
 
 .pendulum {
@@ -433,7 +487,10 @@ h2 {
 
 .books {
   padding: 72px 7vw;
-  background: #fbf3e5;
+  background:
+    linear-gradient(180deg, rgba(210, 139, 132, 0.08), transparent 36%),
+    linear-gradient(90deg, rgba(78, 160, 206, 0.08), transparent 34%, rgba(108, 143, 62, 0.08)),
+    #fbf3e5;
   scroll-margin-top: 88px;
 }
 
@@ -463,6 +520,31 @@ h2 {
   box-shadow: 0 18px 50px rgba(58, 40, 18, 0.08);
 }
 
+.book-card.has-cover {
+  min-height: 330px;
+}
+
+.book-cover-thumb {
+  width: min(118px, 48%);
+  aspect-ratio: 2 / 3;
+  object-fit: cover;
+  border-radius: 6px;
+  border: 1px solid rgba(167, 122, 46, 0.22);
+  box-shadow: 0 14px 32px rgba(58, 40, 18, 0.13);
+}
+
+.book-card.cover-card {
+  padding: 12px;
+}
+
+.cover-card .book-cover-thumb {
+  width: 100%;
+  max-height: 430px;
+  aspect-ratio: auto;
+  object-fit: contain;
+  background: rgba(255, 250, 240, 0.52);
+}
+
 .tag {
   color: var(--gold-deep);
   font-size: 0.78rem;
@@ -483,6 +565,16 @@ h2 {
   align-self: end;
   color: var(--gold-deep);
   font-weight: 700;
+}
+
+.book-card-links {
+  align-self: end;
+  display: grid;
+  gap: 4px;
+}
+
+.book-card-links a {
+  align-self: auto;
 }
 
 .about-contact {
@@ -702,7 +794,7 @@ h2 {
   }
 
   .hero-cover-en {
-    width: min(91vw, 430px, calc((100svh - 106px) * 0.6952));
+    width: min(91vw, 430px, calc((100svh - 106px) * 0.6666));
   }
 
   .hero-cover {
@@ -716,6 +808,16 @@ h2 {
     min-height: 40px;
     padding: 8px 16px;
     font-size: 0.88rem;
+  }
+
+  .hero-gate {
+    min-height: 48vh;
+  }
+
+  .hero-gate-button.button {
+    width: auto;
+    min-width: min(250px, 78vw);
+    min-height: 52px;
   }
 
   .section,
@@ -745,6 +847,23 @@ h2 {
 
   .button {
     width: 100%;
+  }
+
+  .book-visual {
+    min-height: auto;
+  }
+
+  .book-visual img {
+    width: min(230px, 70vw);
+  }
+
+  .book-cover-thumb {
+    width: min(128px, 54%);
+  }
+
+  .cover-card .book-cover-thumb {
+    width: 100%;
+    max-height: none;
   }
 
   .section-copy p,

@@ -10,7 +10,7 @@ The site is intentionally quiet, simple, and book-focused. It includes a Hebrew 
 
 - The Personal Journey
 - The Social Journey
-- The Israeli Journey
+- The Philosophy Journey
 - The Global Journey
 
 ## Main Files
@@ -28,7 +28,7 @@ The site is intentionally quiet, simple, and book-focused. It includes a Hebrew 
 
 ## Search and AI
 
-The site includes structured metadata for books, publishing, spiritual literature, Jewish literature, political science books, redemption themes, civilization theory, Tao books, and the author Nadav Teller.
+The site includes structured metadata for books, publishing, spiritual literature, Jewish literature, philosophy books, political science books, redemption themes, civilization theory, Tao books, and the author Nadav Teller.
 
 The AI and search files are intended to help search engines, language models, and agents understand the site accurately while keeping the public pages minimal.
 
