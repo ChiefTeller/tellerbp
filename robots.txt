@@ -1,4 +1,11 @@
 User-agent: *
 Allow: /
+Allow: /knowledge/
+Allow: /ai/
+Allow: /ai-index.json
+Allow: /llms.txt
+Allow: /llms-full.txt
+Allow: /ai.txt
 
-Sitemap: https://www.tellerbp.co.il/sitemap.xml
+Sitemap: https://www.gen1.co.il/sitemap.xml
+
