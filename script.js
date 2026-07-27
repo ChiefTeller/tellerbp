@@ -1,4 +1,7 @@
 const root = document.documentElement;
+const body = document.body;
+const menuToggle = document.querySelector("[data-menu-toggle]");
+const nav = document.querySelector("[data-nav]");
 const backTop = document.querySelector("[data-back-top]");
 const hero = document.querySelector(".hero");
 const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
@@ -19,7 +22,22 @@ function setPointer(event) {
   root.style.setProperty("--hero-y", `${Math.max(0, Math.min(100, y))}%`);
 }
 
+menuToggle?.addEventListener("click", () => {
+  const open = !body.classList.contains("menu-open");
+  body.classList.toggle("menu-open", open);
+  menuToggle.setAttribute("aria-expanded", String(open));
+});
+
+nav?.addEventListener("click", (event) => {
+  if (event.target instanceof HTMLAnchorElement) {
+    body.classList.remove("menu-open");
+    menuToggle?.setAttribute("aria-expanded", "false");
+  }
+});
+
 backTop?.addEventListener("click", () => {
+  body.classList.remove("menu-open");
+  menuToggle?.setAttribute("aria-expanded", "false");
   window.scrollTo({ top: 0, behavior: reduceMotion ? "auto" : "smooth" });
 });
 

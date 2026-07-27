@@ -1,0 +1,15 @@
+Nadav Teller | TellerBP
+
+Author: Nadav Teller
+Publisher: Teller Books Publishing
+Email: nadavtlr@gmail.com
+WhatsApp: https://wa.me/972546287677
+
+This website presents a minimal bilingual journey through Nadav Teller's work:
+the personal journey, the social journey, and the global/civilizational journey.
+
+Primary AI reference file: /llms.txt
+Expanded AI context: /llms-full.txt
+AI policy: /ai.txt
+Structured AI index: /ai-index.json
+Machine knowledge map: /ai/knowledge-map.json
