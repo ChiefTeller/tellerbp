@@ -11,6 +11,8 @@ TellerBP is the publishing home for books by Nadav Teller. The website is intent
 - The site presents books across four visible journeys: personal, social, philosophy, and global.
 - Zuga Theory Hebrew page: https://www.tellerbp.co.il/zuga-theory.html
 - Zuga Theory English page: https://www.tellerbp.co.il/zuga-theory-en.html
+- Zuga Structure: Zuga = Z = זוגא. Z = (Z1, Z2, R, τ, I, P). Z1 = תופעה Z. Z2 = Z phenomenon. R = יחסים / Relations. τ = מתח / Tension. I = מידע / Information. P = אפשרויות / Possibilities. |P| = ∞. α = מצב אלפא / Alpha state. β = מצב בטא / Beta state. Δ = שינוי / Change. ⇒ = מעבר / Transition.
+- Zuga Movement: (Zα ⇒ ΔR,Δτ,ΔI ⇒ Zβ) ∈ P.
 
 ## SEO Topic Map for Search and AI
 
