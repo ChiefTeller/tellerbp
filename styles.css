@@ -220,19 +220,15 @@ img {
 }
 
 .hero-cover-zuga {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  align-items: center;
-  width: min(48vw, 560px, calc((100svh - 132px) * 0.6666));
-  min-height: min(70svh, 640px);
-  padding: clamp(42px, 7svh, 78px) 0 clamp(44px, 7svh, 74px);
-  border: 1px solid rgba(167, 122, 46, 0.26);
-  border-radius: 8px;
-  background:
-    linear-gradient(180deg, rgba(255, 253, 247, 0.94), rgba(247, 237, 218, 0.74)),
-    radial-gradient(circle at 50% 18%, rgba(255, 237, 196, 0.52), transparent 260px);
-  box-shadow: 0 22px 60px rgba(58, 40, 18, 0.12);
+  display: grid;
+  place-items: center;
+  width: min(560px, 90vw);
+  min-height: 42vh;
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  box-shadow: none;
 }
 
 .hero-cover {
@@ -611,7 +607,23 @@ h2 {
 
 .books-head {
   width: min(900px, 100%);
-  margin: 0 auto 24px;
+  margin: 0 auto 18px;
+  text-align: center;
+}
+
+.book-sector {
+  width: min(1120px, 100%);
+  margin: 0 auto;
+}
+
+.book-sector + .book-sector {
+  margin-top: 28px;
+}
+
+.book-sector-title {
+  margin: 0 0 14px;
+  color: var(--ink);
+  font-size: clamp(1.65rem, 3vw, 2.35rem);
   text-align: center;
 }
 
@@ -1183,9 +1195,9 @@ h2 {
   }
 
   .hero-cover-zuga {
-    width: min(91vw, 430px, calc((100svh - 106px) * 0.6666));
-    min-height: min(72svh, 620px);
-    padding: 34px 0 38px;
+    width: min(91vw, 430px);
+    min-height: 42vh;
+    padding: 0;
   }
 
   .hero-cover {
