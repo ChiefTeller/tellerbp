@@ -1,10 +1,40 @@
 const root = document.documentElement;
-const body = document.body;
-const menuToggle = document.querySelector("[data-menu-toggle]");
-const nav = document.querySelector("[data-nav]");
 const backTop = document.querySelector("[data-back-top]");
 const hero = document.querySelector(".hero");
 const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+const zugaTheoryCopyText = `[Zuga Structure = מבנה זוגא]
+**Zuga = Z= (Z1, Z2, R, τ, I, P)**
+
+**Z1= Z Phenomenon | Z2= Z Phenomenon;**
+
+**R= Relations | τ= Tension | I= Information;**
+
+**P = Infinite Possibilities and States, |P| = ∞ ;**
+
+**α= Alpha State, β= Beta State…;**
+
+**Δ= Change;**
+
+**⇄ = Transition and mutual influence;**
+
+**Ω={Z1,Z2,Z3,…},∣Ω∣=∞ ;**
+
+**∀Zx∈Ω:Zx=(Zx1,Zx2,Rx,τx,Ix,Px);**
+
+
+Zuga Movement
+**(Zα ⇄ ΔR,Δτ,ΔI ⇄ Zβ) ∈ P**
+
+זוגא נעה מ־Alpha state אל Beta state דרך שינוי ביחסים, במתח ובמידע, בתוך שדה של אינסוף אפשרויות.
+
+
+**Zuga Definition**
+
+**Zuga is the infinite movement between a pair of phenomena linked by relations of opposition, complementarity, dependence, independence, and mutual influence. Between them unfolds a range of possibilities across which the tension varies. The infinite movement and the changing tension generate infinite possibilities that extend across this range and sustain the Zuga.**
+
+**Understanding Zuga allows us to recognize that we, too, move within Zuga structures and to examine the relations and tensions acting upon us.**
+
+**[Zuga structure]**`;
 
 function updateProgress() {
   const max = document.documentElement.scrollHeight - window.innerHeight;
@@ -22,23 +52,50 @@ function setPointer(event) {
   root.style.setProperty("--hero-y", `${Math.max(0, Math.min(100, y))}%`);
 }
 
-menuToggle?.addEventListener("click", () => {
-  const open = !body.classList.contains("menu-open");
-  body.classList.toggle("menu-open", open);
-  menuToggle.setAttribute("aria-expanded", String(open));
-});
-
-nav?.addEventListener("click", (event) => {
-  if (event.target instanceof HTMLAnchorElement) {
-    body.classList.remove("menu-open");
-    menuToggle?.setAttribute("aria-expanded", "false");
-  }
-});
-
 backTop?.addEventListener("click", () => {
-  body.classList.remove("menu-open");
-  menuToggle?.setAttribute("aria-expanded", "false");
   window.scrollTo({ top: 0, behavior: reduceMotion ? "auto" : "smooth" });
+});
+
+async function copyText(text) {
+  if (navigator.clipboard?.writeText) {
+    try {
+      await navigator.clipboard.writeText(text);
+      return;
+    } catch (error) {
+      // Continue to the fallback below for local file previews and stricter browsers.
+    }
+  }
+
+  const copyField = document.createElement("textarea");
+  copyField.value = text;
+  copyField.setAttribute("readonly", "");
+  copyField.style.position = "fixed";
+  copyField.style.opacity = "0";
+  copyField.style.pointerEvents = "none";
+  document.body.appendChild(copyField);
+  copyField.select();
+  document.execCommand("copy");
+  copyField.remove();
+}
+
+document.querySelectorAll("[data-copy-zuga]").forEach((button) => {
+  const status = button.parentElement?.querySelector("[data-copy-zuga-status]");
+  const originalText = button.textContent.trim();
+
+  button.addEventListener("click", async () => {
+    try {
+      await copyText(zugaTheoryCopyText);
+      const successText = button.dataset.copySuccess || "Copied";
+      button.textContent = successText;
+      if (status) status.textContent = successText;
+      window.setTimeout(() => {
+        button.textContent = originalText;
+        if (status) status.textContent = "";
+      }, 1800);
+    } catch (error) {
+      if (status) status.textContent = "לא ניתן להעתיק אוטומטית";
+    }
+  });
 });
 
 const revealObserver = new IntersectionObserver(

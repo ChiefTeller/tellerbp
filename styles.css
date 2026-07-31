@@ -799,6 +799,26 @@ h2 {
   font-size: clamp(1.85rem, 4vw, 3.2rem);
 }
 
+.copy-zuga-actions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+  margin-top: -2px;
+}
+
+.copy-zuga-button {
+  min-width: min(100%, 230px);
+}
+
+.copy-zuga-status {
+  min-height: 1.4em;
+  color: var(--gold-deep);
+  font-size: 0.95rem;
+  font-weight: 800;
+}
+
 .formula-stack {
   display: grid;
   grid-template-columns: minmax(0, 1.15fr) minmax(280px, 0.85fr);
