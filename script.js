@@ -3,7 +3,7 @@ const backTop = document.querySelector("[data-back-top]");
 const hero = document.querySelector(".hero");
 const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 const zugaTheoryCopyText = `[Zuga Structure = מבנה זוגא]
-**Zuga = Z= (Z1, Z2, R, τ, I, P)**
+**∞ = Zuga = Z= (Z1, Z2, R, τ, I, P)**
 
 **Z1= Z Phenomenon | Z2= Z Phenomenon;**
 
@@ -23,7 +23,7 @@ const zugaTheoryCopyText = `[Zuga Structure = מבנה זוגא]
 
 
 Zuga Movement
-**(Zα ⇄ ΔR,Δτ,ΔI ⇄ Zβ) ∈ P**
+**(∞⇄Zα⇄ΔR,Δτ,ΔI⇄Zβ⇄∞)∈P**
 
 זוגא נעה מ־Alpha state אל Beta state דרך שינוי ביחסים, במתח ובמידע, בתוך שדה של אינסוף אפשרויות.
 
@@ -33,6 +33,10 @@ Zuga Movement
 **Zuga is the infinite movement between a pair of phenomena linked by relations of opposition, complementarity, dependence, independence, and mutual influence. Between them unfolds a range of possibilities across which the tension varies. The infinite movement and the changing tension generate infinite possibilities that extend across this range and sustain the Zuga.**
 
 **Understanding Zuga allows us to recognize that we, too, move within Zuga structures and to examine the relations and tensions acting upon us.**
+
+**APPLY META ZUGA. WITNESS THE TRANSITION AND LET THE CHANGE BE THE EVIDENCE.**
+
+**Zself = Witness(Zα, Zβ); Zβ → ΔZself → Zγ;**
 
 **[Zuga structure]**`;
 
@@ -97,6 +101,47 @@ document.querySelectorAll("[data-copy-zuga]").forEach((button) => {
     }
   });
 });
+
+const zugaLab = document.querySelector("[data-zuga-lab]");
+
+if (zugaLab) {
+  const deck = zugaLab.querySelector("[data-lab-deck]");
+  const title = zugaLab.querySelector("[data-lab-title]");
+  const z1 = zugaLab.querySelector("[data-lab-z1]");
+  const z2 = zugaLab.querySelector("[data-lab-z2]");
+  const tension = zugaLab.querySelector("[data-lab-tension]");
+  const trend = zugaLab.querySelector("[data-lab-trend]");
+  const meter = zugaLab.querySelector("[data-lab-meter]");
+  const stage = zugaLab.querySelector(".lab-stage");
+
+  function setCentralZuga(name, first, second, tau, trendText) {
+    title.textContent = name;
+    z1.textContent = first;
+    z2.textContent = second;
+    tension.textContent = tau;
+    trend.textContent = trendText;
+    const value = tau.match(/(\d+)/)?.[1] || "88";
+    meter.style.setProperty("--tension", `${Math.min(100, Number(value))}%`);
+    stage.scrollIntoView({ behavior: reduceMotion ? "auto" : "smooth", block: "start" });
+  }
+
+  zugaLab.querySelector("[data-lab-root]")?.addEventListener("click", () => {
+    deck.hidden = false;
+    setCentralZuga("ישראל - העולם", "ישראל", "העולם", "τ=80-95/100", "תתי הזוגא של ישראל פתוחות לבחינה");
+  });
+
+  zugaLab.querySelectorAll("[data-inner-zuga]").forEach((button) => {
+    button.addEventListener("click", () => {
+      const pair = button.dataset.innerZuga;
+      const [first, second] = pair.split("⇄").map((part) => part.trim());
+      const card = button.closest(".lab-card");
+      const tau = `τ=${card?.dataset.tension || "88"}/100`;
+      const trendText = card?.dataset.trend ? `מגמה: ${card.dataset.trend}` : "זוגא פנימית";
+      deck.hidden = false;
+      setCentralZuga(pair, first, second, tau, trendText);
+    });
+  });
+}
 
 const revealObserver = new IntersectionObserver(
   (entries) => {
