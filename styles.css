@@ -847,6 +847,82 @@ h2 {
   background: #fffdf8;
 }
 
+.zuga-full-page {
+  min-height: 100vh;
+  padding-top: 76px;
+}
+
+.zuga-full-hero {
+  width: min(1180px, 100%);
+  margin: 0 auto;
+  padding: 54px 7vw 26px;
+  display: grid;
+  grid-template-columns: minmax(220px, 420px) minmax(0, 1fr);
+  align-items: center;
+  gap: 34px;
+}
+
+.zuga-full-hero img {
+  width: 100%;
+  border-radius: 8px;
+  border: 1px solid rgba(167, 122, 46, 0.22);
+  box-shadow: 0 22px 58px rgba(58, 40, 18, 0.13);
+}
+
+.zuga-full-hero h1 {
+  margin: 8px 0 12px;
+  color: var(--ink);
+  font-size: clamp(2.4rem, 6vw, 4.8rem);
+  line-height: 1.06;
+}
+
+.zuga-full-hero p {
+  max-width: 720px;
+  margin: 0;
+  color: var(--muted);
+  font-size: clamp(1.04rem, 2vw, 1.22rem);
+}
+
+.zuga-full-article {
+  width: min(880px, calc(100% - 36px));
+  margin: 10px auto 76px;
+  padding: clamp(22px, 4vw, 46px);
+  border: 1px solid rgba(124, 85, 28, 0.16);
+  border-radius: 8px;
+  background: rgba(255, 253, 248, 0.92);
+  box-shadow: 0 22px 70px rgba(58, 40, 18, 0.1);
+}
+
+.zuga-full-article h1,
+.zuga-full-article h2,
+.zuga-full-article h3 {
+  color: var(--ink);
+  line-height: 1.25;
+}
+
+.zuga-full-article h1 {
+  margin: 0 0 24px;
+  font-size: clamp(2rem, 5vw, 3.2rem);
+}
+
+.zuga-full-article h2 {
+  margin: 44px 0 14px;
+  font-size: clamp(1.55rem, 3vw, 2.25rem);
+}
+
+.zuga-full-article h3 {
+  margin: 32px 0 10px;
+  color: var(--gold-deep);
+  font-size: clamp(1.22rem, 2.3vw, 1.62rem);
+}
+
+.zuga-full-article p {
+  margin: 0 0 18px;
+  color: var(--ink);
+  font-size: 1.08rem;
+  line-height: 1.95;
+}
+
 .about-contact {
   padding: 76px 7vw 56px;
   scroll-margin-top: 88px;
@@ -1613,6 +1689,20 @@ h2 {
 }
 
 @media (max-width: 1040px) {
+  .zuga-full-hero {
+    grid-template-columns: 1fr;
+    text-align: center;
+  }
+
+  .zuga-full-hero img {
+    width: min(100%, 520px);
+    justify-self: center;
+  }
+
+  .zuga-full-hero p {
+    margin-inline: auto;
+  }
+
   .reader-hero {
     grid-template-columns: 1fr;
     text-align: center;
@@ -1655,6 +1745,29 @@ h2 {
 }
 
 @media (max-width: 720px) {
+  .zuga-full-page {
+    padding-top: 64px;
+  }
+
+  .zuga-full-hero {
+    padding: 34px 22px 20px;
+    gap: 22px;
+  }
+
+  .zuga-full-hero h1 {
+    font-size: clamp(2rem, 12vw, 3rem);
+  }
+
+  .zuga-full-article {
+    width: calc(100% - 24px);
+    padding: 20px;
+  }
+
+  .zuga-full-article p {
+    font-size: 1rem;
+    line-height: 1.85;
+  }
+
   .reader-page {
     padding-top: 64px;
   }

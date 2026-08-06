@@ -1,11 +1,7 @@
-﻿User-agent: *
+User-agent: *
 Allow: /
-Allow: /knowledge/
-Allow: /ai/
-Allow: /ai-index.json
-Allow: /llms.txt
-Allow: /llms-full.txt
-Allow: /ai.txt
+Allow: /zuga-full.html
+Allow: /zuga-full.md
+Allow: /zuga-book-reader.html
 
-Sitemap: https://tellerbp.co.il/sitemap.xml
-
+Sitemap: https://www.tellerbp.co.il/sitemap.xml

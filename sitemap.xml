@@ -19,11 +19,21 @@
   </url>
   <url>
     <loc>https://www.tellerbp.co.il/zuga-theory.html</loc>
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-08-06</lastmod>
     <priority>0.95</priority>
     <xhtml:link rel="alternate" hreflang="he" href="https://www.tellerbp.co.il/zuga-theory.html" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.tellerbp.co.il/zuga-theory-en.html" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.tellerbp.co.il/zuga-theory.html" />
+  </url>
+  <url>
+    <loc>https://www.tellerbp.co.il/zuga-full.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.98</priority>
+  </url>
+  <url>
+    <loc>https://www.tellerbp.co.il/zuga-full.md</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.92</priority>
   </url>
   <url>
     <loc>https://www.tellerbp.co.il/zuga-theory-en.html</loc>
