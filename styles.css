@@ -702,12 +702,149 @@ h2 {
 
 .book-card-links {
   align-self: end;
-  display: grid;
-  gap: 4px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
 }
 
 .book-card-links a {
   align-self: auto;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 38px;
+  padding: 8px 14px;
+  border: 1px solid rgba(167, 122, 46, 0.28);
+  border-radius: 999px;
+  background: rgba(255, 250, 240, 0.82);
+  color: var(--gold-deep);
+  font-weight: 800;
+  line-height: 1.2;
+}
+
+.reader-page {
+  min-height: 100vh;
+  padding-top: 76px;
+}
+
+.reader-hero {
+  width: min(1120px, 100%);
+  margin: 0 auto;
+  padding: 54px 7vw 26px;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(180px, 310px);
+  align-items: center;
+  gap: 34px;
+}
+
+.reader-hero-copy h1 {
+  margin: 8px 0 12px;
+  color: var(--ink);
+  font-size: clamp(2.4rem, 7vw, 5rem);
+  line-height: 1.05;
+}
+
+.reader-hero-copy p {
+  max-width: 720px;
+  margin: 0;
+  color: var(--muted);
+  font-size: clamp(1.05rem, 2vw, 1.22rem);
+}
+
+.reader-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 22px;
+}
+
+.reader-cover {
+  margin: 0;
+  justify-self: center;
+}
+
+.reader-cover img {
+  max-height: 420px;
+  border-radius: 8px;
+  border: 1px solid rgba(167, 122, 46, 0.24);
+  box-shadow: 0 24px 70px rgba(58, 40, 18, 0.16);
+}
+
+.reader-shell {
+  width: min(1160px, calc(100% - 32px));
+  margin: 0 auto 64px;
+  padding: 14px;
+  border: 1px solid rgba(124, 85, 28, 0.18);
+  border-radius: 8px;
+  background: rgba(255, 250, 240, 0.86);
+  box-shadow: 0 22px 65px rgba(58, 40, 18, 0.12);
+}
+
+.reader-toolbar {
+  display: grid;
+  grid-template-columns: auto auto minmax(220px, 1fr) auto;
+  gap: 10px;
+  align-items: center;
+  padding: 0 0 12px;
+}
+
+.reader-control,
+.reader-chapter-label select {
+  min-height: 42px;
+  border: 1px solid rgba(124, 85, 28, 0.24);
+  border-radius: 999px;
+  background: #fffaf0;
+  color: var(--ink);
+  font: inherit;
+  font-weight: 800;
+}
+
+.reader-control {
+  cursor: pointer;
+  padding: 9px 16px;
+  color: var(--paper);
+  background: linear-gradient(135deg, var(--gold), var(--gold-deep));
+  box-shadow: 0 10px 24px rgba(124, 85, 28, 0.16);
+}
+
+.reader-control.secondary {
+  color: var(--gold-deep);
+  background: rgba(255, 250, 240, 0.95);
+  box-shadow: none;
+}
+
+.reader-chapter-label {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  gap: 8px;
+  align-items: center;
+  color: var(--muted);
+  font-weight: 800;
+}
+
+.reader-chapter-label select {
+  width: 100%;
+  padding: 8px 14px;
+}
+
+.reader-status {
+  min-height: 26px;
+  color: var(--muted);
+  font-size: 0.94rem;
+  font-weight: 700;
+}
+
+.reader-viewer {
+  height: min(72vh, 760px);
+  min-height: 520px;
+  overflow: hidden;
+  border: 1px solid rgba(124, 85, 28, 0.16);
+  border-radius: 8px;
+  background: #fffdf8;
+}
+
+.reader-viewer iframe {
+  background: #fffdf8;
 }
 
 .about-contact {
@@ -1476,6 +1613,31 @@ h2 {
 }
 
 @media (max-width: 1040px) {
+  .reader-hero {
+    grid-template-columns: 1fr;
+    text-align: center;
+  }
+
+  .reader-hero-copy p {
+    margin-inline: auto;
+  }
+
+  .reader-actions {
+    justify-content: center;
+  }
+
+  .reader-cover img {
+    max-height: 340px;
+  }
+
+  .reader-toolbar {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .reader-chapter-label {
+    grid-column: 1 / -1;
+  }
+
   .section-inner,
   .section.no-visual .section-inner,
   .about-grid {
@@ -1493,6 +1655,61 @@ h2 {
 }
 
 @media (max-width: 720px) {
+  .reader-page {
+    padding-top: 64px;
+  }
+
+  .reader-hero {
+    padding: 34px 22px 20px;
+    gap: 22px;
+  }
+
+  .reader-hero-copy h1 {
+    font-size: clamp(2.1rem, 13vw, 3.2rem);
+  }
+
+  .reader-cover img {
+    max-height: 280px;
+  }
+
+  .reader-shell {
+    width: calc(100% - 24px);
+    margin-bottom: 46px;
+    padding: 10px;
+  }
+
+  .reader-toolbar {
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+  }
+
+  .reader-control,
+  .reader-chapter-label select {
+    min-height: 40px;
+    border-radius: 8px;
+    font-size: 0.92rem;
+  }
+
+  .reader-control.secondary,
+  .reader-chapter-label {
+    grid-column: 1 / -1;
+  }
+
+  .reader-chapter-label {
+    grid-template-columns: 1fr;
+    gap: 4px;
+  }
+
+  .reader-viewer {
+    height: 66svh;
+    min-height: 360px;
+  }
+
+  .book-card-links {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
   .topbar {
     padding: 12px 16px;
     align-items: flex-start;
