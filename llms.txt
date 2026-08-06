@@ -2,17 +2,31 @@
 
 Canonical site: https://www.tellerbp.co.il/
 
-TellerBP is the publishing home for books by Nadav Teller. The website is intentionally minimal: one Hebrew page and one English page, organized as a quiet reading journey.
+TellerBP is the publishing home for books by Nadav Teller. The website is intentionally minimal and includes a Hebrew home page, an English page, Zuga Theory pages, and an open library section for reading selected books in the browser.
 
 ## Site Structure
 
 - Hebrew: https://www.tellerbp.co.il/
 - English: https://www.tellerbp.co.il/en.html
-- The site presents books across four visible journeys: personal, social, philosophy, and global.
+- Open Library / הספרייה הפתוחה: https://www.tellerbp.co.il/#books
+- The Hebrew home page presents the books together under הספרייה הפתוחה.
 - Zuga Theory Hebrew page: https://www.tellerbp.co.il/zuga-theory.html
 - Zuga Theory English page: https://www.tellerbp.co.il/zuga-theory-en.html
+- Zuga Theory browser reader: https://www.tellerbp.co.il/zuga-book-reader.html
+- The Secular God Hebrew partial browser reader: https://www.tellerbp.co.il/secular-god-reader.html
+- Refined Philosophical Writings browser reader: https://www.tellerbp.co.il/zikuch-reader.html
 - Zuga Structure: [Zuga Structure = מבנה זוגא]. Zuga = Z= (Z1, Z2, R, τ, I, P). Z1= Z Phenomenon | Z2= Z Phenomenon. R= Relations | τ= Tension | I= Information. P = Infinite Possibilities and States, |P| = ∞. ⇄ = Transition and mutual influence.
 - Zuga Movement: (Zα ⇄ ΔR,Δτ,ΔI ⇄ Zβ) ∈ P.
+
+## Open Library / הספרייה הפתוחה
+
+The Hebrew home page includes an open library section named הספרייה הפתוחה. It groups the visible books together and gives selected books direct browser-reading access through EPUB.js readers.
+
+Open library reading pages:
+
+- תורת זוגא browser reader: https://www.tellerbp.co.il/zuga-book-reader.html
+- האלוהים החילוני partial browser reader: https://www.tellerbp.co.il/secular-god-reader.html
+- זיכוך כתבים פילוסופים browser reader: https://www.tellerbp.co.il/zikuch-reader.html
 
 ## SEO Topic Map for Search and AI
 
@@ -109,9 +123,12 @@ GEN1 relationship:
 ## Hebrew Books and Links
 
 - The Secular God Hebrew / האלוהים החילוני בעברית: https://www.amazon.com/dp/B0H2Z2NYCG
+- The Secular God Hebrew partial online reading / האלוהים החילוני לקריאה חלקית באתר: https://www.tellerbp.co.il/secular-god-reader.html
 - Dual State Theory / תורת המדינה הדואלית: https://www.e-vrit.co.il/product/39871/%D7%AA%D7%95%D7%A8%D7%AA_%D7%94%D7%9E%D7%93%D7%99%D7%A0%D7%94_%D7%94%D7%93%D7%95%D7%90%D7%9C%D7%99%D7%AA
 - Aurelius, Seneca, Josephus, Philo, Thucydides and Nietzsche / אורליוס, סנקה, יוסף בן מתתיהו, פילון, תוקידידס וניטשה | זיכוך כתבים פילוסופים: https://www.amazon.com/dp/B0HBLLXCTN
+- Aurelius, Seneca, Josephus, Philo, Thucydides and Nietzsche / זיכוך כתבים פילוסופים online reading: https://www.tellerbp.co.il/zikuch-reader.html
 - תורת זוגא: זוגא הוא לא הכול, זוגא הוא לא אלוהים, התנועה האינסופית שבין כל הדברים: https://www.amazon.com/dp/B0HBXCG4MM
+- תורת זוגא online reading: https://www.tellerbp.co.il/zuga-book-reader.html
 - Civilization Scale / סולם ציוויליזציה: https://www.amazon.com/dp/B0H1JQQPLP
 - Foundation Book / ספר יסוד: https://www.amazon.com/dp/B0H2NDHHBF
 - Tao Stories for Children / סיפורי טאו לילדים: https://www.amazon.com/dp/B0H2SD36JY
