@@ -426,6 +426,33 @@ h2 {
   grid-template-columns: 0.72fr minmax(0, 1.65fr);
 }
 
+.home-statement {
+  padding: 120px 7vw 24px;
+  background:
+    linear-gradient(180deg, rgba(255, 250, 240, 0.96), rgba(251, 243, 229, 0.96)),
+    var(--paper);
+  text-align: center;
+}
+
+.home-statement-inner {
+  width: min(900px, 100%);
+  margin: 0 auto;
+}
+
+.home-statement h1 {
+  margin: 0;
+  color: var(--ink);
+  font-size: clamp(2.6rem, 7vw, 6rem);
+  line-height: 1.08;
+}
+
+.home-statement p {
+  margin: 10px 0 0;
+  color: var(--gold-deep);
+  font-size: clamp(1.45rem, 3.6vw, 3rem);
+  font-weight: 800;
+}
+
 .personal-section {
   min-height: 70vh;
   padding-top: 58px;
@@ -603,12 +630,16 @@ h2 {
 }
 
 .books {
-  padding: 72px 7vw;
+  padding: 34px 7vw 72px;
   background:
     linear-gradient(180deg, rgba(210, 139, 132, 0.08), transparent 36%),
     linear-gradient(90deg, rgba(78, 160, 206, 0.08), transparent 34%, rgba(108, 143, 62, 0.08)),
     #fbf3e5;
   scroll-margin-top: 88px;
+}
+
+.library-main .books {
+  padding-top: 110px;
 }
 
 .books-head {
@@ -668,6 +699,32 @@ h2 {
 
 .book-card.cover-card {
   padding: 12px;
+}
+
+.open-library-grid .book-card:not(.has-cover) {
+  min-height: 168px;
+  align-content: center;
+}
+
+.book-title-row {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.editing-badge {
+  display: inline-flex;
+  align-items: center;
+  min-height: 30px;
+  padding: 5px 10px;
+  border: 1px solid rgba(167, 122, 46, 0.32);
+  border-radius: 999px;
+  background: rgba(255, 250, 240, 0.86);
+  color: var(--gold-deep);
+  font-size: 0.84rem;
+  font-weight: 800;
+  line-height: 1.2;
 }
 
 .cover-card .book-cover-thumb {

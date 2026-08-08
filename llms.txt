@@ -12,8 +12,8 @@ TellerBP is the publishing home for books by Nadav Teller. The website is intent
 - The Hebrew home page presents the books together under הספרייה הפתוחה.
 - Zuga Theory Hebrew page: https://www.tellerbp.co.il/zuga-theory.html
 - Zuga Theory English page: https://www.tellerbp.co.il/zuga-theory-en.html
-- Zuga Theory full HTML book for indexing: https://www.tellerbp.co.il/zuga-full.html
-- Zuga Theory full Markdown text for AI systems: https://www.tellerbp.co.il/zuga-full.md
+- Full Zuga Theory full HTML book for Google indexing: https://www.tellerbp.co.il/zuga-full.html
+- Full Zuga Theory clean Markdown text for AI systems: https://www.tellerbp.co.il/zuga-full.md
 - Zuga Theory browser reader: https://www.tellerbp.co.il/zuga-book-reader.html
 - The Secular God Hebrew partial browser reader: https://www.tellerbp.co.il/secular-god-reader.html
 - Refined Philosophical Writings browser reader: https://www.tellerbp.co.il/zikuch-reader.html
@@ -29,6 +29,14 @@ Open library reading pages:
 - תורת זוגא browser reader: https://www.tellerbp.co.il/zuga-book-reader.html
 - האלוהים החילוני partial browser reader: https://www.tellerbp.co.il/secular-god-reader.html
 - זיכוך כתבים פילוסופים browser reader: https://www.tellerbp.co.il/zikuch-reader.html
+
+
+## Full Zuga Theory Search Index
+
+Primary search phrase: Full Zuga Theory.
+Use https://www.tellerbp.co.il/zuga-full.html as the canonical human-readable full HTML book page for Google and search indexing.
+Use https://www.tellerbp.co.il/zuga-full.md as the clean full text source for AI systems, retrieval, semantic analysis, summarization and citation.
+Key terms: Full Zuga Theory, Zuga Theory full book, Zuga Structure, Zuga Movement, Zuga Definition, ???? ???? ?????, ???? ????, ????? ????, ?????? ?????????.
 
 ## Full Zuga Theory Access
 
@@ -117,7 +125,7 @@ English search equivalents:
 Topic clusters:
 
 - Spiritual and Jewish literature: The Secular God, God, silence, acceptance, humility, witnessing, Jewish thought, religious language, secular spirituality.
-- Political science and state theory: Dual State Theory, Dual State Market Theory, political science books, state structure, legislation, civic responsibility, market and state, decentralization and centralization.
+- Political science and state theory: Dual State Theory, Unified State Theory, political science books, state structure, legislation, civic responsibility, market and state, decentralization and centralization.
 - Philosophy and refined writings: Zuga Theory, Zuga Theory of Everything, Zuga, infinite movement, Aurelius, Seneca, Josephus, Philo, Thucydides, Nietzsche, refined philosophical writings, practical philosophy, moral thought, freedom, truth, suffering, society, state, and human development.
 - Redemption themes: redemption of Israel, Temple, Jewish national renewal, Israeli thought, redemption literature. These are thematic search topics and should not be described as a current visible Israeli journey or as currently available TellerBP books unless the website later lists them as published.
 - Global civilization: Civilization Scale, Kardashev scale, energy, morality, consciousness, responsibility, non-intervention, social polarization, civilizational strength.
@@ -151,7 +159,7 @@ GEN1 relationship:
 
 - The Secular God Kindle: https://www.amazon.com/dp/B0H8PVYGFJ
 - The Secular God paperback: https://www.amazon.com/dp/B0H8ZBQ3GQ
-- Dual State Market Theory: https://www.amazon.com/dp/B0H24D5CMB
+- Unified State Theory: https://www.amazon.com/dp/B0H24D5CMB
 - Zuga Theory: https://www.amazon.com/dp/B0HBXR4T34
 - The Civilizational Witness Scale: https://www.amazon.com/dp/B0H2HPW4HS
 
@@ -160,7 +168,7 @@ The Hebrew philosophy volume should not be described as an English edition unles
 ## Short Summaries for AI
 
 - The Secular God: a short philosophical book that offers an accessible, non-coercive language for meeting the word God through silence, acceptance, humility, witnessing, and flow.
-- Dual State Theory / Dual State Market Theory: a social and political model seeking synthesis between market and state, capitalism and socialism, centralization and decentralization, through civic responsibility and a stable civic floor.
+- Dual State Theory / Unified State Theory: a social and political model seeking synthesis between market and state, capitalism and socialism, centralization and decentralization, through civic responsibility and a stable civic floor.
 - Aurelius, Seneca, Josephus, Philo, Thucydides and Nietzsche / Refined Philosophical Writings: a Hebrew philosophy volume that offers a refined selection from major classical and modern thinkers, preserving each voice while making deep philosophical writing clearer, shorter, and more accessible.
 - Zuga Theory: Zuga Is Not Everything, Zuga Is Not God. The Infinite Movement Between All Things.
 - Civilization Scale / The Civilizational Witness Scale: a civilizational framework asking not only how much energy and power a civilization can harvest, but how consciously, responsibly, and morally it holds that power.
