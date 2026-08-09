@@ -68,6 +68,17 @@ img {
   transform: translateY(0);
 }
 
+.visually-hidden {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  overflow: hidden !important;
+  clip: rect(0, 0, 0, 0) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
+}
+
 .site-shell {
   position: relative;
   overflow: hidden;
@@ -2114,6 +2125,864 @@ h2 {
 
   .progress-rail {
     width: 3px;
+  }
+}
+
+body.teller-home {
+  min-height: 100svh;
+  background:
+    linear-gradient(90deg, rgba(124, 85, 28, 0.08) 1px, transparent 1px) 0 0 / 86px 86px,
+    linear-gradient(180deg, rgba(255, 250, 240, 0.82), rgba(247, 237, 218, 0.92)),
+    var(--paper);
+}
+
+body.teller-home::after {
+  position: fixed;
+  inset: 0;
+  z-index: 1;
+  pointer-events: none;
+  content: "";
+  background:
+    radial-gradient(circle at 50% 42%, rgba(255, 250, 240, 0.1), transparent 24%),
+    linear-gradient(90deg, rgba(65, 93, 102, 0.08), transparent 28%, transparent 68%, rgba(167, 122, 46, 0.12)),
+    linear-gradient(180deg, rgba(255, 250, 240, 0.14), transparent 36%, rgba(255, 250, 240, 0.72));
+}
+
+#teller-field {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  width: 100%;
+  height: 100%;
+  background: #fffaf0;
+}
+
+.teller-home .topbar,
+.teller-home .library-main,
+.teller-home .footer {
+  position: relative;
+  z-index: 2;
+}
+
+.teller-home .topbar {
+  position: fixed;
+  z-index: 25;
+  background: rgba(255, 250, 240, 0.64);
+  backdrop-filter: blur(20px);
+}
+
+.library-entrance {
+  position: relative;
+  display: grid;
+  min-height: 100vh;
+  min-height: 100svh;
+  grid-template-columns: minmax(0, 0.95fr) minmax(300px, 0.72fr);
+  align-items: center;
+  gap: clamp(28px, 5vw, 82px);
+  padding: 118px 7vw 58px;
+  overflow: hidden;
+}
+
+.library-hero-copy {
+  width: min(720px, 100%);
+  display: grid;
+  gap: 18px;
+  justify-items: start;
+}
+
+.library-hero-copy h1 {
+  margin: 0;
+  color: var(--ink);
+  direction: ltr;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(4.4rem, 12vw, 10.2rem);
+  font-weight: 500;
+  line-height: 0.84;
+}
+
+.library-hero-line {
+  max-width: 820px;
+  margin: 0;
+  color: var(--ink);
+  font-size: clamp(1.65rem, 3.6vw, 3.2rem);
+  font-weight: 750;
+  line-height: 1.12;
+  text-wrap: balance;
+}
+
+.library-formula {
+  width: min(660px, 100%);
+  margin: 0;
+  padding-inline-start: 18px;
+  border-inline-start: 1px solid rgba(167, 122, 46, 0.42);
+  color: rgba(46, 36, 27, 0.72);
+  font-family: "Cascadia Mono", "Segoe UI Mono", Consolas, monospace;
+  font-size: clamp(0.92rem, 1.4vw, 1.08rem);
+  overflow-wrap: anywhere;
+}
+
+.library-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 8px;
+}
+
+.library-signal-panel {
+  position: relative;
+  display: grid;
+  min-height: clamp(320px, 48vw, 560px);
+  align-content: center;
+  gap: 22px;
+  padding: clamp(20px, 4vw, 36px);
+}
+
+.library-signal-panel::before,
+.library-signal-panel::after {
+  position: absolute;
+  inset: 50% 8% auto;
+  height: 1px;
+  content: "";
+  background: linear-gradient(90deg, transparent, rgba(124, 85, 28, 0.66), transparent);
+  transform-origin: center;
+}
+
+.library-signal-panel::before {
+  transform: rotate(9deg);
+}
+
+.library-signal-panel::after {
+  transform: rotate(-9deg);
+}
+
+.signal-node {
+  position: relative;
+  z-index: 1;
+  width: min(210px, 72%);
+  display: grid;
+  gap: 4px;
+  padding: 18px;
+  border: 1px solid rgba(124, 85, 28, 0.2);
+  border-radius: 8px;
+  background:
+    linear-gradient(180deg, rgba(255, 253, 248, 0.74), rgba(247, 237, 218, 0.62));
+  box-shadow: 0 20px 58px rgba(58, 40, 18, 0.12);
+}
+
+.signal-node.alpha {
+  justify-self: end;
+}
+
+.signal-node.beta {
+  justify-self: start;
+}
+
+.signal-node span {
+  color: var(--gold);
+  direction: ltr;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 2.6rem;
+  line-height: 0.9;
+}
+
+.signal-node strong {
+  color: var(--ink);
+  font-size: 1.04rem;
+}
+
+.signal-books {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.signal-books span {
+  min-width: 72px;
+  padding: 8px 11px;
+  border: 1px solid rgba(65, 93, 102, 0.22);
+  border-radius: 8px;
+  background: rgba(255, 250, 240, 0.72);
+  color: var(--blue);
+  font-size: 0.86rem;
+  font-weight: 800;
+  text-align: center;
+  box-shadow: 0 10px 28px rgba(58, 40, 18, 0.08);
+}
+
+.teller-home .books {
+  position: relative;
+  min-height: 100svh;
+  padding: clamp(82px, 10vw, 132px) 7vw 92px;
+  overflow: hidden;
+  background:
+    radial-gradient(circle at 72% 20%, rgba(255, 250, 240, 0.72), transparent 330px),
+    linear-gradient(180deg, rgba(255, 250, 240, 0.2), rgba(251, 243, 229, 0.82) 62%, rgba(255, 250, 240, 0.76));
+  isolation: isolate;
+}
+
+.teller-home .books::before,
+.teller-home .books::after {
+  position: absolute;
+  inset-inline: 6vw;
+  top: 48%;
+  z-index: -1;
+  height: 1px;
+  content: "";
+  background: linear-gradient(90deg, transparent, rgba(124, 85, 28, 0.48), rgba(65, 93, 102, 0.34), transparent);
+  transform-origin: center;
+}
+
+.teller-home .books::before {
+  transform: rotate(7deg);
+}
+
+.teller-home .books::after {
+  transform: rotate(-7deg);
+}
+
+.teller-home .books-head {
+  position: relative;
+  width: min(960px, 100%);
+  margin-bottom: clamp(28px, 5vw, 54px);
+  text-align: right;
+}
+
+.teller-home .books-head h2 {
+  margin: 6px 0 0;
+  direction: ltr;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(3.8rem, 11vw, 8.6rem);
+  font-weight: 500;
+  line-height: 0.86;
+}
+
+.teller-home .books-head p {
+  max-width: 690px;
+  margin: 22px 0 0;
+  color: var(--ink);
+  font-size: clamp(1.16rem, 2.4vw, 1.82rem);
+  font-weight: 650;
+  line-height: 1.32;
+}
+
+.books-field-map {
+  width: min(760px, 100%);
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
+  align-items: center;
+  gap: 12px;
+  margin-top: 26px;
+  color: rgba(46, 36, 27, 0.7);
+  direction: ltr;
+  font-family: "Cascadia Mono", "Segoe UI Mono", Consolas, monospace;
+  font-size: clamp(0.78rem, 1.5vw, 1rem);
+}
+
+.books-field-map::before,
+.books-field-map::after {
+  height: 1px;
+  content: "";
+  background: linear-gradient(90deg, transparent, rgba(167, 122, 46, 0.62));
+}
+
+.books-field-map::after {
+  background: linear-gradient(90deg, rgba(65, 93, 102, 0.54), transparent);
+}
+
+.books-field-map span,
+.books-field-map i {
+  font-style: normal;
+  white-space: nowrap;
+}
+
+.books-field-map i {
+  padding: 8px 12px;
+  border: 1px solid rgba(124, 85, 28, 0.2);
+  border-radius: 8px;
+  background: rgba(255, 253, 248, 0.58);
+  color: var(--gold-deep);
+  box-shadow: 0 12px 34px rgba(58, 40, 18, 0.08);
+}
+
+.teller-home .book-sector {
+  position: relative;
+}
+
+.teller-home .book-sector::before {
+  position: absolute;
+  inset: 9% -3vw auto;
+  z-index: -1;
+  height: 56%;
+  content: "";
+  background:
+    radial-gradient(ellipse at 22% 50%, rgba(65, 93, 102, 0.12), transparent 42%),
+    radial-gradient(ellipse at 78% 50%, rgba(167, 122, 46, 0.18), transparent 42%);
+  filter: blur(2px);
+}
+
+.teller-home .book-grid {
+  grid-template-columns: repeat(6, minmax(0, 1fr));
+  gap: clamp(12px, 1.5vw, 18px);
+}
+
+.teller-home .book-card {
+  position: relative;
+  min-height: 236px;
+  grid-column: span 2;
+  overflow: hidden;
+  border-color: rgba(124, 85, 28, 0.22);
+  background:
+    linear-gradient(180deg, rgba(255, 253, 248, 0.72), rgba(247, 237, 218, 0.54)),
+    rgba(255, 250, 240, 0.58);
+  box-shadow: 0 22px 70px rgba(58, 40, 18, 0.1);
+  backdrop-filter: blur(12px);
+  transition: transform 220ms ease, border-color 220ms ease, box-shadow 220ms ease;
+}
+
+.teller-home .book-card::before {
+  position: absolute;
+  inset: 12px 12px auto auto;
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  content: "";
+  background: var(--gold);
+  box-shadow: 0 0 24px rgba(167, 122, 46, 0.46);
+}
+
+.teller-home .book-card::after {
+  position: absolute;
+  inset: auto -20% 18px;
+  height: 1px;
+  content: "";
+  background: linear-gradient(90deg, transparent, rgba(124, 85, 28, 0.34), transparent);
+  transform: rotate(-5deg);
+}
+
+.teller-home .book-card:hover,
+.teller-home .book-card:focus-within {
+  transform: translateY(-4px);
+  border-color: rgba(124, 85, 28, 0.38);
+  box-shadow: 0 28px 90px rgba(58, 40, 18, 0.14);
+}
+
+.teller-home .book-card.has-cover {
+  min-height: 0;
+  grid-column: span 2;
+  align-content: stretch;
+}
+
+.teller-home .book-card.primary-book {
+  grid-column: span 2;
+}
+
+.book-node-label {
+  position: absolute;
+  top: 13px;
+  left: 14px;
+  z-index: 2;
+  color: var(--gold);
+  direction: ltr;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.35rem;
+  line-height: 1;
+}
+
+.teller-home .cover-card .book-cover-thumb {
+  width: min(100%, 215px);
+  justify-self: center;
+  max-height: 310px;
+  border-color: rgba(124, 85, 28, 0.18);
+  background: rgba(255, 250, 240, 0.38);
+  filter: drop-shadow(0 18px 28px rgba(58, 40, 18, 0.12));
+}
+
+.teller-home .book-card h3 {
+  max-width: 12ch;
+  margin-top: 2px;
+  color: var(--ink);
+  font-size: clamp(1.35rem, 2.4vw, 2rem);
+  line-height: 1.06;
+}
+
+.teller-home .book-card p {
+  color: rgba(46, 36, 27, 0.72);
+  font-size: 0.96rem;
+  line-height: 1.55;
+}
+
+.teller-home .book-card-links a[href$=".md"] {
+  color: var(--blue);
+  border-color: rgba(65, 93, 102, 0.28);
+}
+
+.teller-home .book-card-links a,
+.teller-home .book-card > a {
+  border-radius: 8px;
+  background: rgba(255, 250, 240, 0.66);
+}
+
+body.book-long-page {
+  min-height: 100svh;
+  background:
+    linear-gradient(90deg, rgba(124, 85, 28, 0.07) 1px, transparent 1px) 0 0 / 76px 76px,
+    radial-gradient(circle at 50% 0%, rgba(255, 242, 211, 0.72), transparent 420px),
+    var(--paper);
+  color: var(--ink);
+}
+
+body.book-long-page::after {
+  position: fixed;
+  inset: 0;
+  z-index: 1;
+  pointer-events: none;
+  content: "";
+  background:
+    linear-gradient(180deg, rgba(255, 250, 240, 0.02), rgba(255, 250, 240, 0.54) 62%, rgba(255, 250, 240, 0.82)),
+    linear-gradient(90deg, rgba(65, 93, 102, 0.06), transparent 26%, transparent 70%, rgba(167, 122, 46, 0.08));
+}
+
+.book-long-page .site-shell {
+  overflow: visible;
+}
+
+.book-long-page .topbar,
+.book-long-page .long-book-main,
+.book-long-page .footer {
+  position: relative;
+  z-index: 2;
+}
+
+.book-long-page .topbar {
+  position: fixed;
+  z-index: 25;
+  background: rgba(255, 250, 240, 0.68);
+  backdrop-filter: blur(20px);
+}
+
+.teller-home .progress-rail,
+.book-long-page .progress-rail {
+  position: fixed;
+  z-index: 30;
+}
+
+.teller-home .back-top,
+.book-long-page .back-top {
+  position: fixed;
+  z-index: 22;
+}
+
+.long-book-main {
+  padding: 94px 0 78px;
+}
+
+.long-book-hero {
+  position: relative;
+  width: min(1180px, 100%);
+  margin: 0 auto;
+  padding: 48px 7vw 30px;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(180px, 310px);
+  align-items: center;
+  gap: 34px;
+}
+
+.long-book-hero::before {
+  position: absolute;
+  inset: 20px 5vw 0;
+  z-index: -1;
+  border-radius: 8px;
+  content: "";
+  background:
+    radial-gradient(circle at 72% 38%, rgba(255, 253, 248, 0.52), transparent 250px),
+    linear-gradient(90deg, rgba(255, 250, 240, 0.26), rgba(255, 250, 240, 0.08));
+}
+
+.long-book-hero-copy {
+  display: grid;
+  gap: 14px;
+  justify-items: start;
+}
+
+.long-book-hero h1 {
+  max-width: 12ch;
+  margin: 0;
+  color: var(--ink);
+  font-size: clamp(2.5rem, 7vw, 5.8rem);
+  line-height: 0.96;
+  text-wrap: balance;
+}
+
+.long-book-hero p {
+  max-width: 720px;
+  margin: 0;
+  color: var(--muted);
+  font-size: clamp(1.05rem, 2vw, 1.22rem);
+}
+
+.long-book-cover {
+  margin: 0;
+  justify-self: center;
+}
+
+.long-book-cover img {
+  max-height: 420px;
+  border: 1px solid rgba(124, 85, 28, 0.2);
+  border-radius: 8px;
+  box-shadow: 0 24px 70px rgba(58, 40, 18, 0.15);
+}
+
+.long-reader-layout {
+  width: min(1220px, calc(100% - 36px));
+  margin: 12px auto 0;
+  display: grid;
+  grid-template-columns: minmax(220px, 292px) minmax(0, 1fr);
+  gap: 22px;
+  align-items: start;
+}
+
+.long-book-toc {
+  position: sticky;
+  top: 96px;
+  max-height: calc(100svh - 118px);
+  overflow: auto;
+  display: grid;
+  gap: 8px;
+  padding: 18px;
+  border: 1px solid rgba(124, 85, 28, 0.16);
+  border-radius: 8px;
+  background: rgba(255, 253, 248, 0.82);
+  box-shadow: 0 18px 56px rgba(58, 40, 18, 0.08);
+  backdrop-filter: blur(12px);
+}
+
+.long-book-toc span {
+  color: var(--gold-deep);
+  font-size: 0.76rem;
+  font-weight: 900;
+  letter-spacing: 0;
+}
+
+.long-book-toc a {
+  padding: 7px 0;
+  border-top: 1px solid rgba(124, 85, 28, 0.1);
+  color: var(--muted);
+  font-size: 0.92rem;
+  font-weight: 700;
+  line-height: 1.45;
+}
+
+.long-book-toc a:hover,
+.long-book-toc a:focus-visible {
+  color: var(--ink);
+  outline: none;
+}
+
+.long-book-content {
+  padding: clamp(22px, 4vw, 52px);
+  border: 1px solid rgba(124, 85, 28, 0.16);
+  border-radius: 8px;
+  background:
+    linear-gradient(180deg, rgba(255, 253, 248, 0.96), rgba(255, 250, 240, 0.94)),
+    rgba(255, 253, 248, 0.94);
+  box-shadow: 0 22px 70px rgba(58, 40, 18, 0.1);
+}
+
+.long-book-content h1,
+.long-book-content h2,
+.long-book-content h3 {
+  color: var(--ink);
+  line-height: 1.24;
+}
+
+.long-book-content h1 {
+  margin: 0 0 24px;
+  font-size: clamp(2rem, 5vw, 3.3rem);
+}
+
+.long-book-content h2 {
+  margin: 48px 0 14px;
+  padding-top: 8px;
+  color: var(--gold-deep);
+  font-size: clamp(1.55rem, 3vw, 2.35rem);
+  scroll-margin-top: 110px;
+}
+
+.long-book-content h3 {
+  margin: 30px 0 10px;
+  color: var(--blue);
+  font-size: clamp(1.18rem, 2.2vw, 1.58rem);
+  scroll-margin-top: 110px;
+}
+
+.long-book-content p {
+  margin: 0 0 18px;
+  color: var(--ink);
+  font-size: 1.08rem;
+  line-height: 1.95;
+}
+
+.long-book-content .book-meta-line {
+  color: var(--muted);
+  font-size: 0.96rem;
+  line-height: 1.7;
+}
+
+.long-book-content .book-english-line {
+  direction: ltr;
+  text-align: left;
+  color: var(--muted);
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+.long-book-content .book-divider {
+  width: min(220px, 48%);
+  height: 1px;
+  margin: 34px auto;
+  border: 0;
+  background: linear-gradient(90deg, transparent, rgba(167, 122, 46, 0.56), transparent);
+}
+
+@media (max-width: 1040px) {
+  .library-entrance {
+    grid-template-columns: 1fr;
+    align-content: center;
+  }
+
+  .library-hero-copy {
+    justify-items: center;
+    margin-inline: auto;
+    text-align: center;
+  }
+
+  .library-formula {
+    padding-inline: 0;
+    border-inline: 0;
+    text-align: center;
+  }
+
+  .library-actions {
+    justify-content: center;
+  }
+
+  .library-signal-panel {
+    width: min(560px, 100%);
+    margin-inline: auto;
+  }
+
+  .teller-home .book-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .teller-home .book-card,
+  .teller-home .book-card.has-cover,
+  .teller-home .book-card.primary-book {
+    grid-column: span 1;
+  }
+
+  .long-book-hero,
+  .long-reader-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .long-book-hero {
+    text-align: center;
+  }
+
+  .long-book-hero-copy {
+    justify-items: center;
+  }
+
+  .long-book-toc {
+    position: relative;
+    top: auto;
+    max-height: none;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .long-book-toc span {
+    grid-column: 1 / -1;
+  }
+}
+
+@media (max-width: 720px) {
+  .teller-home .topbar {
+    gap: 10px;
+    padding: 13px 16px;
+  }
+
+  .teller-home .brand img {
+    width: 34px;
+    height: 34px;
+  }
+
+  .teller-home .brand small {
+    display: none;
+  }
+
+  .teller-home .language-nav {
+    flex: 1 1 auto;
+    justify-content: flex-start;
+    gap: 6px;
+    overflow-x: auto;
+    scrollbar-width: none;
+  }
+
+  .teller-home .language-nav::-webkit-scrollbar {
+    display: none;
+  }
+
+  .teller-home .nav a {
+    white-space: nowrap;
+    padding: 7px 9px;
+    font-size: 0.76rem;
+  }
+
+  .library-entrance {
+    min-height: 100svh;
+    padding: 92px 20px 46px;
+    gap: 12px;
+  }
+
+  .library-hero-copy h1 {
+    font-size: clamp(3.65rem, 20vw, 5rem);
+  }
+
+  .library-hero-line {
+    font-size: clamp(1.26rem, 7vw, 2rem);
+  }
+
+  .library-signal-panel {
+    min-height: 250px;
+    padding: 10px 0 0;
+  }
+
+  .signal-node {
+    width: min(178px, 74%);
+    padding: 13px;
+  }
+
+  .signal-node span {
+    font-size: 2rem;
+  }
+
+  .signal-books span {
+    min-width: 58px;
+    padding: 7px 8px;
+    font-size: 0.76rem;
+  }
+
+  .teller-home .books {
+    padding: 74px 20px 72px;
+  }
+
+  .teller-home .books-head {
+    text-align: center;
+  }
+
+  .teller-home .books-head p {
+    margin-inline: auto;
+  }
+
+  .books-field-map {
+    grid-template-columns: 1fr;
+    justify-items: center;
+    gap: 8px;
+  }
+
+  .books-field-map::before,
+  .books-field-map::after {
+    width: 1px;
+    height: 34px;
+    background: linear-gradient(180deg, transparent, rgba(167, 122, 46, 0.58), transparent);
+  }
+
+  .teller-home .book-grid {
+    grid-template-columns: 1fr;
+    gap: 14px;
+  }
+
+  .teller-home .book-card {
+    min-height: 0;
+  }
+
+  .teller-home .cover-card .book-cover-thumb {
+    width: min(100%, 185px);
+    max-height: 270px;
+  }
+
+  .long-book-main {
+    padding-top: 72px;
+  }
+
+  .long-book-hero {
+    padding: 34px 22px 20px;
+    gap: 22px;
+  }
+
+  .long-book-hero h1 {
+    font-size: clamp(2.05rem, 12vw, 3.25rem);
+  }
+
+  .long-reader-layout {
+    width: calc(100% - 24px);
+    gap: 14px;
+  }
+
+  .long-book-toc {
+    grid-template-columns: 1fr;
+    padding: 14px;
+  }
+
+  .long-book-content {
+    padding: 20px;
+  }
+
+  .long-book-content p {
+    font-size: 1rem;
+    line-height: 1.86;
+  }
+
+  .book-long-page .topbar {
+    gap: 10px;
+    padding: 13px 16px;
+  }
+
+  .book-long-page .brand img {
+    width: 34px;
+    height: 34px;
+  }
+
+  .book-long-page .brand span {
+    font-size: 0.96rem;
+  }
+
+  .book-long-page .brand small {
+    display: none;
+  }
+
+  .book-long-page .nav {
+    flex: 1 1 auto;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    gap: 6px;
+    min-width: 0;
+    overflow-x: auto;
+    scrollbar-width: none;
+  }
+
+  .book-long-page .nav::-webkit-scrollbar {
+    display: none;
+  }
+
+  .book-long-page .nav a {
+    flex: 0 0 auto;
+    padding: 7px 9px;
+    white-space: nowrap;
+    font-size: 0.76rem;
   }
 }
 

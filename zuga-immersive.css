@@ -86,6 +86,7 @@ a {
 
 .brand {
   display: inline-flex;
+  flex: 0 0 auto;
   align-items: center;
   gap: 9px;
   color: inherit;
@@ -121,8 +122,10 @@ a {
 .header-nav a {
   position: relative;
   text-decoration: none;
+  white-space: nowrap;
 }
 
+.header-nav .nav-home-link,
 .header-nav .nav-book-link {
   color: var(--ink);
   font-weight: 650;
@@ -774,11 +777,23 @@ html[data-depth="reading"] .signal-strip {
 @media (max-width: 760px) {
   .site-header {
     inset: 22px 20px auto 20px;
+    gap: 12px;
   }
 
   .header-nav {
-    gap: 14px;
+    flex: 1 1 auto;
+    justify-content: flex-start;
+    min-width: 0;
+    max-width: calc(100vw - 126px);
+    gap: 12px;
+    overflow-x: auto;
     font-size: 0.78rem;
+    scrollbar-width: none;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .header-nav::-webkit-scrollbar {
+    display: none;
   }
 
   .entrance {
@@ -950,7 +965,8 @@ html[data-depth="reading"] .signal-strip {
   }
 
   .header-nav {
-    gap: 10px;
+    max-width: calc(100vw - 116px);
+    gap: 9px;
   }
 }
 

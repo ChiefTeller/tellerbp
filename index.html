@@ -101,7 +101,7 @@
                   "alternateName": "Zuga Theory",
                   "author": { "@id": "https://www.tellerbp.co.il/#nadav-teller" },
                   "url": "https://www.amazon.com/dp/B0HBXCG4MM",
-                  "sameAs": ["https://www.tellerbp.co.il/zuga-book-reader.html", "https://www.tellerbp.co.il/zuga-full.html", "https://www.tellerbp.co.il/zuga-full.md"],
+                  "sameAs": ["https://www.tellerbp.co.il/zuga-full.html", "https://www.tellerbp.co.il/zuga-full.md"],
                   "image": "https://www.tellerbp.co.il/assets/zuga-theory-cover-he.jpg",
                   "inLanguage": "he",
                   "genre": ["ספרי פילוסופיה", "תורת זוגא", "Theory of Everything"],
@@ -183,11 +183,12 @@
         ]
       }
     </script>
-    <link rel="stylesheet" href="styles.css?v=20260807-simple-index">
+    <link rel="stylesheet" href="styles.css?v=20260809-zuga-field">
   </head>
-  <body dir="rtl">
+  <body dir="rtl" class="teller-home">
     <a class="skip-link" href="#books">דלג לתוכן</a>
     <div class="site-shell">
+      <canvas id="teller-field" aria-hidden="true"></canvas>
       <div class="progress-rail" aria-hidden="true"></div>
 
       <header class="topbar" id="top">
@@ -202,47 +203,88 @@
       </header>
 
       <main id="journey" class="library-main">
+        <section class="library-entrance" aria-label="TellerBP">
+          <div class="library-hero-copy reveal">
+            <span class="section-kicker">Teller Books Publishing</span>
+            <p class="library-hero-line">ספרייה חינמית המאפשרת תנועה חיה בין תורת זוגא, האדם והמידע שעובר ביניהם.</p>
+            <p class="library-formula" dir="ltr">Zα = Zuga Theory ⇄ I(Books) ⇄ Zβ = Human</p>
+          </div>
+
+          <div class="library-signal-panel" aria-hidden="true">
+            <div class="signal-node alpha">
+              <span>Zα</span>
+              <strong>תורת זוגא</strong>
+            </div>
+            <div class="signal-books">
+              <span>זוגא</span>
+              <span>זיכוך</span>
+              <span>אלוהים</span>
+            </div>
+            <div class="signal-node beta">
+              <span>Zβ</span>
+              <strong>האדם</strong>
+            </div>
+          </div>
+        </section>
+
         <section class="books" id="books">
           <div class="books-head reveal">
             <span class="section-kicker">הספרייה</span>
+            <h2>TellerBP</h2>
+            <p>הספרים הם המידע שנע בתוך השדה: זוגא כנקודת אלפא, האדם כנקודת בטא, והקריאה כתנועה בין שניהם.</p>
+            <div class="books-field-map" aria-hidden="true">
+              <span>Zα · תורת זוגא</span>
+              <i>ספרים = מידע</i>
+              <span>Zβ · האדם</span>
+            </div>
           </div>
           <div class="book-sector">
             <div class="book-grid open-library-grid">
-              <article class="book-card has-cover cover-card reveal">
+              <article class="book-card has-cover cover-card reveal primary-book">
+                <span class="book-node-label">Zα</span>
                 <img class="book-cover-thumb" src="assets/zuga-theory-cover-he.jpg?v=20260804" alt="כריכת תורת זוגא">
                 <h3>תורת זוגא</h3>
+                <p>מבנה התנועה: קשרים, מתח, מידע ואינסוף אפשרויות בין תופעות.</p>
                 <div class="book-card-links">
-                  <a href="zuga-book-reader.html">לקריאה</a>
+                  <a href="zuga-full.html">לקריאה בספר</a>
+                  <a href="zuga-full.md">MD לבינה</a>
                   <a href="https://www.amazon.com/dp/B0HBXCG4MM" target="_blank" rel="noopener noreferrer">לרכישה</a>
                 </div>
               </article>
               <article class="book-card has-cover cover-card reveal">
+                <span class="book-node-label">Zβ</span>
                 <img class="book-cover-thumb" src="assets/hero-door.png?v=20260725" alt="כריכת האלוהים החילוני">
                 <h3>האלוהים החילוני</h3>
+                <p>האדם מול שאלת האלוהים, הכאב, הדממה והעדות.</p>
                 <div class="book-card-links">
-                  <a href="secular-god-reader.html">לקריאה</a>
+                  <a href="secular-god-reader.html">לקריאה בספר</a>
                   <a href="https://www.amazon.com/dp/B0H2Z2NYCG" target="_blank" rel="noopener noreferrer">לרכישה</a>
                 </div>
               </article>
               <article class="book-card has-cover cover-card reveal">
+                <span class="book-node-label">I</span>
                 <img class="book-cover-thumb" src="assets/philosophy-cover-he.png?v=20260725" alt="כריכת זיכוך כתבים פילוסופים">
                 <h3>זיכוך כתבים פילוסופים</h3>
+                <p>מידע מזוקק מן הפילוסופים, עובר מחדש אל האדם הקורא.</p>
                 <div class="book-card-links">
-                  <a href="zikuch-reader.html">לקריאה</a>
+                  <a href="zikuch-reader.html">לקריאה בספר</a>
                   <a href="https://www.amazon.com/dp/B0HBLLXCTN" target="_blank" rel="noopener noreferrer">לרכישה</a>
                 </div>
               </article>
               <article class="book-card reveal">
+                <span class="book-node-label">Δ</span>
                 <div class="book-title-row">
                   <h3>תורת המדינה האחודה</h3>
                   <span class="editing-badge">הספר בעריכה</span>
                 </div>
               </article>
               <article class="book-card reveal">
+                <span class="book-node-label">τ</span>
                 <h3>סולם ציוויליזציה</h3>
                 <a href="https://www.amazon.com/dp/B0H1JQQPLP" target="_blank" rel="noopener noreferrer">Amazon</a>
               </article>
               <article class="book-card reveal">
+                <span class="book-node-label">P</span>
                 <h3>סיפורי טאו לילדים</h3>
                 <a href="https://www.amazon.com/dp/B0H2SD36JY" target="_blank" rel="noopener noreferrer">Amazon</a>
               </article>
@@ -271,6 +313,7 @@
         <span>© 2026 Nadav Teller · Teller Books Publishing</span>
       </footer>
     </div>
+    <script src="tellerbp-field.js"></script>
     <script src="script.js"></script>
   </body>
 </html>
