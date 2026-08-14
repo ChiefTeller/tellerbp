@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version='1.0' encoding='utf-8'?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.tellerbp.co.il/</loc>
-    <lastmod>2026-08-06</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="he" href="https://www.tellerbp.co.il/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.tellerbp.co.il/en.html" />
@@ -54,13 +53,18 @@
     <priority>0.85</priority>
   </url>
   <url>
+    <loc>https://www.tellerbp.co.il/ko-amar-eloah-reader.html</loc>
+    <lastmod>2026-08-14</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://www.tellerbp.co.il/llms.txt</loc>
-    <lastmod>2026-08-06</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://www.tellerbp.co.il/ai-index.json</loc>
-    <lastmod>2026-08-06</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.4</priority>
   </url>
 </urlset>

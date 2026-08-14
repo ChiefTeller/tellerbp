@@ -16,6 +16,7 @@ TellerBP is the publishing home for books by Nadav Teller. The website is intent
 - Full Zuga Theory clean Markdown text for AI systems: https://www.tellerbp.co.il/zuga-full.md
 - Zuga Theory browser reader: https://www.tellerbp.co.il/zuga-book-reader.html
 - The Secular God Hebrew full browser reader: https://www.tellerbp.co.il/secular-god-reader.html
+- Thus Spoke Eloah / כה אמר אלוה Aramaic-Hebrew full browser reader: https://www.tellerbp.co.il/ko-amar-eloah-reader.html
 - Refined Philosophical Writings browser reader: https://www.tellerbp.co.il/zikuch-reader.html
 - Zuga Structure: [Zuga Structure = מבנה זוגא]. Zuga = Z= (Z1, Z2, R, τ, I, P). Z1= Z Phenomenon | Z2= Z Phenomenon. R= Relations | τ= Tension | I= Information. P = Infinite Possibilities and States, |P| = ∞. ⇄ = Transition and mutual influence.
 - Zuga Movement: (Zα ⇄ ΔR,Δτ,ΔI ⇄ Zβ) ∈ P.
@@ -28,6 +29,7 @@ Open library reading pages:
 
 - תורת זוגא browser reader: https://www.tellerbp.co.il/zuga-book-reader.html
 - האלוהים החילוני full browser reader: https://www.tellerbp.co.il/secular-god-reader.html
+- כה אמר אלוה full browser reader: https://www.tellerbp.co.il/ko-amar-eloah-reader.html
 - זיכוך כתבים פילוסופים browser reader: https://www.tellerbp.co.il/zikuch-reader.html
 
 
@@ -144,6 +146,7 @@ GEN1 relationship:
 
 - The Secular God Hebrew / האלוהים החילוני בעברית: https://www.amazon.com/dp/B0H2Z2NYCG
 - The Secular God Hebrew full online reading / האלוהים החילוני לקריאה מלאה באתר: https://www.tellerbp.co.il/secular-god-reader.html
+- Thus Spoke Eloah / כה אמר אלוה Aramaic-Hebrew online reading: https://www.tellerbp.co.il/ko-amar-eloah-reader.html
 - Dual State Theory / תורת המדינה הדואלית: https://www.e-vrit.co.il/product/39871/%D7%AA%D7%95%D7%A8%D7%AA_%D7%94%D7%9E%D7%93%D7%99%D7%A0%D7%94_%D7%94%D7%93%D7%95%D7%90%D7%9C%D7%99%D7%AA
 - Aurelius, Seneca, Josephus, Philo, Thucydides and Nietzsche / אורליוס, סנקה, יוסף בן מתתיהו, פילון, תוקידידס וניטשה | זיכוך כתבים פילוסופים: https://www.amazon.com/dp/B0HBLLXCTN
 - Aurelius, Seneca, Josephus, Philo, Thucydides and Nietzsche / זיכוך כתבים פילוסופים online reading: https://www.tellerbp.co.il/zikuch-reader.html
