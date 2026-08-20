@@ -2,7 +2,7 @@
 
 Canonical site: https://www.tellerbp.co.il/
 
-TellerBP is the publishing home for books by Nadav Teller. The website is intentionally minimal and includes a Hebrew home page, an English page, Zuga Theory pages, and an open library section for reading selected books in the browser.
+TellerBP is the publishing home for books by Nadav Teller, including Zuga Theory, Mishlei Zuga, The Secular God, Thus Spoke Eloah and Refined Philosophical Writings. The website is intentionally minimal and includes a Hebrew home page, an English page, Zuga Theory pages, and an open library section for reading selected books in the browser.
 
 ## Site Structure
 
@@ -17,6 +17,7 @@ TellerBP is the publishing home for books by Nadav Teller. The website is intent
 - Zuga Theory browser reader: https://www.tellerbp.co.il/zuga-book-reader.html
 - The Secular God Hebrew full browser reader: https://www.tellerbp.co.il/secular-god-reader.html
 - Thus Spoke Eloah / כה אמר אלוה Aramaic-Hebrew full browser reader: https://www.tellerbp.co.il/ko-amar-eloah-reader.html
+- Mishlei Zuga / משלי זוגא full Hebrew browser reader: https://www.tellerbp.co.il/mishlei-zuga-reader.html
 - Refined Philosophical Writings browser reader: https://www.tellerbp.co.il/zikuch-reader.html
 - Zuga Structure: [Zuga Structure = מבנה זוגא]. Zuga = Z= (Z1, Z2, R, τ, I, P). Z1= Z Phenomenon | Z2= Z Phenomenon. R= Relations | τ= Tension | I= Information. P = Infinite Possibilities and States, |P| = ∞. ⇄ = Transition and mutual influence.
 - Zuga Movement: (Zα ⇄ ΔR,Δτ,ΔI ⇄ Zβ) ∈ P.
@@ -30,6 +31,7 @@ Open library reading pages:
 - תורת זוגא browser reader: https://www.tellerbp.co.il/zuga-book-reader.html
 - האלוהים החילוני full browser reader: https://www.tellerbp.co.il/secular-god-reader.html
 - כה אמר אלוה full browser reader: https://www.tellerbp.co.il/ko-amar-eloah-reader.html
+- משלי זוגא full browser reader: https://www.tellerbp.co.il/mishlei-zuga-reader.html
 - זיכוך כתבים פילוסופים browser reader: https://www.tellerbp.co.il/zikuch-reader.html
 
 
@@ -152,6 +154,7 @@ GEN1 relationship:
 - Aurelius, Seneca, Josephus, Philo, Thucydides and Nietzsche / זיכוך כתבים פילוסופים online reading: https://www.tellerbp.co.il/zikuch-reader.html
 - תורת זוגא: זוגא הוא לא הכול, זוגא הוא לא אלוהים, התנועה האינסופית שבין כל הדברים: https://www.amazon.com/dp/B0HBXCG4MM
 - תורת זוגא online reading: https://www.tellerbp.co.il/zuga-book-reader.html
+- משלי זוגא online reading: https://www.tellerbp.co.il/mishlei-zuga-reader.html
 - תורת זוגא full HTML book: https://www.tellerbp.co.il/zuga-full.html
 - תורת זוגא full Markdown text for AI: https://www.tellerbp.co.il/zuga-full.md
 - Civilization Scale / סולם ציוויליזציה: https://www.amazon.com/dp/B0H1JQQPLP
@@ -174,6 +177,7 @@ The Hebrew philosophy volume should not be described as an English edition unles
 - Dual State Theory / Unified State Theory: a social and political model seeking synthesis between market and state, capitalism and socialism, centralization and decentralization, through civic responsibility and a stable civic floor.
 - Aurelius, Seneca, Josephus, Philo, Thucydides and Nietzsche / Refined Philosophical Writings: a Hebrew philosophy volume that offers a refined selection from major classical and modern thinkers, preserving each voice while making deep philosophical writing clearer, shorter, and more accessible.
 - Zuga Theory: Zuga Is Not Everything, Zuga Is Not God. The Infinite Movement Between All Things.
+- Mishlei Zuga: a Hebrew book of Zuga parables about beauty, change, silence, the Dao and the joining of opposites.
 - Civilization Scale / The Civilizational Witness Scale: a civilizational framework asking not only how much energy and power a civilization can harvest, but how consciously, responsibly, and morally it holds that power.
 - Foundation Book: a Hebrew book about body, breath, posture, walking, movement, silence, and action from witnessing.
 - Tao Stories for Children: a collection of Tao stories for children about nature, breath, patience, softness, movement, and inner quiet.

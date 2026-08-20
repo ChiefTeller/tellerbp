@@ -14,7 +14,7 @@
     red: "rgba(190, 100, 88, 0.55)",
     paper: "rgba(255, 250, 240, 0.92)"
   };
-  const bookNames = ["זוגא", "זיכוך", "אלוהים", "אלוה", "מדינה", "טאו", "עדות"];
+  const bookNames = ["זוגא", "משלי", "זיכוך", "אלוהים", "אלוה", "מדינה", "טאו", "עדות"];
   const particles = Array.from({ length: 82 }, (_, index) => ({
     t: Math.random(),
     lane: index % 9,

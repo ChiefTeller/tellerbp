@@ -2772,6 +2772,80 @@ body.book-long-page::after {
   line-height: 1.2;
 }
 
+
+.long-book-content .book-front-matter {
+  margin: 0 0 34px;
+  padding: clamp(16px, 3vw, 24px);
+  border: 1px solid rgba(124, 85, 28, 0.14);
+  border-radius: 8px;
+  background: rgba(255, 250, 240, 0.54);
+}
+
+.long-book-content .book-front-matter p {
+  margin: 0 0 10px;
+  color: rgba(46, 36, 27, 0.76);
+  font-size: 0.98rem;
+  line-height: 1.75;
+}
+
+.long-book-content .book-front-matter p:last-child {
+  margin-bottom: 0;
+}
+
+.long-book-content .book-front-matter .book-front-title {
+  color: var(--gold-deep);
+  font-size: 1.12rem;
+  font-weight: 900;
+}
+
+.long-book-content .book-aramaic-block {
+  margin: 0 0 20px;
+  padding: clamp(15px, 3vw, 24px);
+  border: 1px solid rgba(167, 122, 46, 0.26);
+  border-inline-start: 4px solid rgba(167, 122, 46, 0.62);
+  border-radius: 8px;
+  background:
+    linear-gradient(180deg, rgba(255, 250, 240, 0.76), rgba(247, 237, 218, 0.46)),
+    rgba(255, 250, 240, 0.66);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.58);
+}
+
+.long-book-content .book-aramaic-block .book-aramaic-line {
+  margin: 0 0 14px;
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  box-shadow: none;
+}
+
+.long-book-content .book-aramaic-block .book-aramaic-line:last-child {
+  margin-bottom: 0;
+}
+
+.long-book-content .book-translation-block {
+  margin: 0 0 24px;
+}
+
+.long-book-content .book-translation-block p {
+  margin-bottom: 12px;
+}
+
+.long-book-content .book-poem-block {
+  margin: 0 0 34px;
+  padding: clamp(8px, 1.8vw, 14px) 0;
+}
+
+.long-book-content .book-poem-block p {
+  margin-bottom: 10px;
+  font-size: clamp(1.05rem, 1.8vw, 1.18rem);
+  line-height: 1.9;
+}
+
+.mishlei-zuga-page .long-book-cover img {
+  background: rgba(255, 250, 240, 0.58);
+}
+
 .ko-amar-page .long-book-cover img {
   background: rgba(255, 250, 240, 0.58);
 }
@@ -2872,9 +2946,13 @@ body.book-long-page::after {
   }
 
   .library-entrance {
-    min-height: 100svh;
-    padding: 92px 20px 46px;
-    gap: 12px;
+    min-height: auto;
+    padding: 96px 20px 58px;
+    gap: 18px;
+  }
+
+  #teller-field {
+    opacity: 0.24;
   }
 
   .library-hero-copy h1 {
@@ -2882,12 +2960,13 @@ body.book-long-page::after {
   }
 
   .library-hero-line {
-    font-size: clamp(1.26rem, 7vw, 2rem);
+    font-size: clamp(1.18rem, 6.2vw, 1.82rem);
+    line-height: 1.18;
   }
 
   .library-signal-panel {
-    min-height: 250px;
-    padding: 10px 0 0;
+    min-height: 232px;
+    padding: 12px 0 0;
   }
 
   .signal-node {
