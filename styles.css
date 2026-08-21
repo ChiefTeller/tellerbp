@@ -2846,6 +2846,26 @@ body.book-long-page::after {
   background: rgba(255, 250, 240, 0.58);
 }
 
+
+.unified-state-page .long-book-cover img {
+  background: rgba(230, 242, 252, 0.7);
+}
+
+.unified-state-page .long-book-content h3 {
+  margin-top: 34px;
+  padding-top: 4px;
+  border-top: 1px solid rgba(65, 93, 102, 0.1);
+}
+
+.unified-state-page .long-book-content .book-front-matter {
+  display: grid;
+  gap: 8px;
+}
+
+.unified-state-page .long-book-content .book-front-matter p {
+  margin-bottom: 0;
+}
+
 .ko-amar-page .long-book-cover img {
   background: rgba(255, 250, 240, 0.58);
 }

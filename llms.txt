@@ -2,7 +2,7 @@
 
 Canonical site: https://www.tellerbp.co.il/
 
-TellerBP is the publishing home for books by Nadav Teller, including Zuga Theory, Mishlei Zuga, The Secular God, Thus Spoke Eloah and Refined Philosophical Writings. The website is intentionally minimal and includes a Hebrew home page, an English page, Zuga Theory pages, and an open library section for reading selected books in the browser.
+TellerBP is the publishing home for books by Nadav Teller, including Zuga Theory, Zuga Unified State Theory, The Secular God, Mishlei Zuga, Thus Spoke Eloah and Refined Philosophical Writings. The website is intentionally minimal and includes a Hebrew home page, an English page, Zuga Theory pages, and an open library section for reading selected books in the browser.
 
 ## Site Structure
 
@@ -15,6 +15,7 @@ TellerBP is the publishing home for books by Nadav Teller, including Zuga Theory
 - Full Zuga Theory full HTML book for Google indexing: https://www.tellerbp.co.il/zuga-full.html
 - Full Zuga Theory clean Markdown text for AI systems: https://www.tellerbp.co.il/zuga-full.md
 - Zuga Theory browser reader: https://www.tellerbp.co.il/zuga-book-reader.html
+- Zuga Unified State Theory / תורת זוגא המדינה האחודה browser reader through chapter 13: https://www.tellerbp.co.il/unified-state-reader.html
 - The Secular God Hebrew full browser reader: https://www.tellerbp.co.il/secular-god-reader.html
 - Thus Spoke Eloah / כה אמר אלוה Aramaic-Hebrew full browser reader: https://www.tellerbp.co.il/ko-amar-eloah-reader.html
 - Mishlei Zuga / משלי זוגא full Hebrew browser reader: https://www.tellerbp.co.il/mishlei-zuga-reader.html
@@ -29,6 +30,7 @@ The Hebrew home page includes an open library section named הספרייה הפ�
 Open library reading pages:
 
 - תורת זוגא browser reader: https://www.tellerbp.co.il/zuga-book-reader.html
+- תורת זוגא המדינה האחודה browser reader through chapter 13: https://www.tellerbp.co.il/unified-state-reader.html
 - האלוהים החילוני full browser reader: https://www.tellerbp.co.il/secular-god-reader.html
 - כה אמר אלוה full browser reader: https://www.tellerbp.co.il/ko-amar-eloah-reader.html
 - משלי זוגא full browser reader: https://www.tellerbp.co.il/mishlei-zuga-reader.html
@@ -71,6 +73,7 @@ Core Hebrew search terms:
 - ספרים מעניינים
 - נדב טלר
 - טלר הוצאת ספרים לאור
+- תורת זוגא המדינה האחודה
 - תורת המדינה הדואלית
 - בית המקדש
 - גאולת ישראל
@@ -149,6 +152,7 @@ GEN1 relationship:
 - The Secular God Hebrew / האלוהים החילוני בעברית: https://www.amazon.com/dp/B0H2Z2NYCG
 - The Secular God Hebrew full online reading / האלוהים החילוני לקריאה מלאה באתר: https://www.tellerbp.co.il/secular-god-reader.html
 - Thus Spoke Eloah / כה אמר אלוה Aramaic-Hebrew online reading: https://www.tellerbp.co.il/ko-amar-eloah-reader.html
+- Zuga Unified State Theory / תורת זוגא המדינה האחודה online reading through chapter 13: https://www.tellerbp.co.il/unified-state-reader.html
 - Dual State Theory / תורת המדינה הדואלית: https://www.e-vrit.co.il/product/39871/%D7%AA%D7%95%D7%A8%D7%AA_%D7%94%D7%9E%D7%93%D7%99%D7%A0%D7%94_%D7%94%D7%93%D7%95%D7%90%D7%9C%D7%99%D7%AA
 - Aurelius, Seneca, Josephus, Philo, Thucydides and Nietzsche / אורליוס, סנקה, יוסף בן מתתיהו, פילון, תוקידידס וניטשה | זיכוך כתבים פילוסופים: https://www.amazon.com/dp/B0HBLLXCTN
 - Aurelius, Seneca, Josephus, Philo, Thucydides and Nietzsche / זיכוך כתבים פילוסופים online reading: https://www.tellerbp.co.il/zikuch-reader.html
@@ -174,7 +178,7 @@ The Hebrew philosophy volume should not be described as an English edition unles
 ## Short Summaries for AI
 
 - The Secular God: a short philosophical book that offers an accessible, non-coercive language for meeting the word God through silence, acceptance, humility, witnessing, and flow.
-- Dual State Theory / Unified State Theory: a social and political model seeking synthesis between market and state, capitalism and socialism, centralization and decentralization, through civic responsibility and a stable civic floor.
+- Zuga Unified State Theory / תורת זוגא המדינה האחודה: מודל מדיני ופוליטי זוגאי במבנה רב מסלולי, העוסק במדינה, דמוקרטיה, רשויות, הנהגה, רצפה אזרחית, קונצרן לאומי, חינוך ובריאות מונעת.
 - Aurelius, Seneca, Josephus, Philo, Thucydides and Nietzsche / Refined Philosophical Writings: a Hebrew philosophy volume that offers a refined selection from major classical and modern thinkers, preserving each voice while making deep philosophical writing clearer, shorter, and more accessible.
 - Zuga Theory: Zuga Is Not Everything, Zuga Is Not God. The Infinite Movement Between All Things.
 - Mishlei Zuga: a Hebrew book of Zuga parables about beauty, change, silence, the Dao and the joining of opposites.
