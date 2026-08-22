@@ -14,7 +14,7 @@ TellerBP is the publishing home for books by Nadav Teller, including Zuga Theory
 - Zuga Theory English page: https://tellerbp.co.il/zuga-theory-en.html
 - Full Zuga Theory full HTML book for Google indexing: https://tellerbp.co.il/zuga-full.html
 - Full Zuga Theory clean Markdown text for AI systems: https://tellerbp.co.il/zuga-full.md
-- Zuga Theory browser reader: https://tellerbp.co.il/zuga-book-reader.html
+- Zuga Theory full browser reading page: https://tellerbp.co.il/zuga-full.html
 - Zuga Unified State Theory / תורת זוגא המדינה האחודה browser reader through chapter 13: https://tellerbp.co.il/unified-state-reader.html
 - The Secular God Hebrew full browser reader: https://tellerbp.co.il/secular-god-reader.html
 - Thus Spoke Eloah / כה אמר אלוה Aramaic-Hebrew full browser reader: https://tellerbp.co.il/ko-amar-eloah-reader.html
@@ -29,7 +29,7 @@ The Hebrew home page includes an open library section named הספרייה הפ�
 
 Open library reading pages:
 
-- תורת זוגא browser reader: https://tellerbp.co.il/zuga-book-reader.html
+- תורת זוגא full HTML browser reader: https://tellerbp.co.il/zuga-full.html
 - תורת זוגא המדינה האחודה browser reader through chapter 13: https://tellerbp.co.il/unified-state-reader.html
 - האלוהים החילוני full browser reader: https://tellerbp.co.il/secular-god-reader.html
 - כה אמר אלוה full browser reader: https://tellerbp.co.il/ko-amar-eloah-reader.html
@@ -50,7 +50,6 @@ For search engines and AI systems, use the full Zuga Theory files:
 
 - Full HTML book: https://tellerbp.co.il/zuga-full.html
 - Full clean Markdown text: https://tellerbp.co.il/zuga-full.md
-- EPUB browser reader: https://tellerbp.co.il/zuga-book-reader.html
 
 The full HTML and Markdown files contain the complete Hebrew text of תורת זוגא - התנועה האינסופית for indexing, reading, retrieval, and AI interpretation.
 
@@ -157,7 +156,7 @@ GEN1 relationship:
 - Aurelius, Seneca, Josephus, Philo, Thucydides and Nietzsche / אורליוס, סנקה, יוסף בן מתתיהו, פילון, תוקידידס וניטשה | זיכוך כתבים פילוסופים: https://www.amazon.com/dp/B0HBLLXCTN
 - Aurelius, Seneca, Josephus, Philo, Thucydides and Nietzsche / זיכוך כתבים פילוסופים online reading: https://tellerbp.co.il/zikuch-reader.html
 - תורת זוגא: זוגא הוא לא הכול, זוגא הוא לא אלוהים, התנועה האינסופית שבין כל הדברים: https://www.amazon.com/dp/B0HBXCG4MM
-- תורת זוגא online reading: https://tellerbp.co.il/zuga-book-reader.html
+- תורת זוגא online reading: https://tellerbp.co.il/zuga-full.html
 - משלי זוגא online reading: https://tellerbp.co.il/mishlei-zuga-reader.html
 - תורת זוגא full HTML book: https://tellerbp.co.il/zuga-full.html
 - תורת זוגא full Markdown text for AI: https://tellerbp.co.il/zuga-full.md
