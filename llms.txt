@@ -1,25 +1,25 @@
 # TellerBP — Teller Books Publishing
 
-Canonical site: https://www.tellerbp.co.il/
+Canonical site: https://tellerbp.co.il/
 
 TellerBP is the publishing home for books by Nadav Teller, including Zuga Theory, Zuga Unified State Theory, The Secular God, Mishlei Zuga, Thus Spoke Eloah and Refined Philosophical Writings. The website is intentionally minimal and includes a Hebrew home page, an English page, Zuga Theory pages, and an open library section for reading selected books in the browser.
 
 ## Site Structure
 
-- Hebrew: https://www.tellerbp.co.il/
-- English: https://www.tellerbp.co.il/en.html
-- Open Library / הספרייה הפתוחה: https://www.tellerbp.co.il/#books
+- Hebrew: https://tellerbp.co.il/
+- English: https://tellerbp.co.il/en.html
+- Open Library / הספרייה הפתוחה: https://tellerbp.co.il/#books
 - The Hebrew home page presents the books together under הספרייה הפתוחה.
-- Zuga Theory Hebrew page: https://www.tellerbp.co.il/zuga-theory.html
-- Zuga Theory English page: https://www.tellerbp.co.il/zuga-theory-en.html
-- Full Zuga Theory full HTML book for Google indexing: https://www.tellerbp.co.il/zuga-full.html
-- Full Zuga Theory clean Markdown text for AI systems: https://www.tellerbp.co.il/zuga-full.md
-- Zuga Theory browser reader: https://www.tellerbp.co.il/zuga-book-reader.html
-- Zuga Unified State Theory / תורת זוגא המדינה האחודה browser reader through chapter 13: https://www.tellerbp.co.il/unified-state-reader.html
-- The Secular God Hebrew full browser reader: https://www.tellerbp.co.il/secular-god-reader.html
-- Thus Spoke Eloah / כה אמר אלוה Aramaic-Hebrew full browser reader: https://www.tellerbp.co.il/ko-amar-eloah-reader.html
-- Mishlei Zuga / משלי זוגא full Hebrew browser reader: https://www.tellerbp.co.il/mishlei-zuga-reader.html
-- Refined Philosophical Writings browser reader: https://www.tellerbp.co.il/zikuch-reader.html
+- Zuga Theory Hebrew page: https://tellerbp.co.il/zuga-theory.html
+- Zuga Theory English page: https://tellerbp.co.il/zuga-theory-en.html
+- Full Zuga Theory full HTML book for Google indexing: https://tellerbp.co.il/zuga-full.html
+- Full Zuga Theory clean Markdown text for AI systems: https://tellerbp.co.il/zuga-full.md
+- Zuga Theory browser reader: https://tellerbp.co.il/zuga-book-reader.html
+- Zuga Unified State Theory / תורת זוגא המדינה האחודה browser reader through chapter 13: https://tellerbp.co.il/unified-state-reader.html
+- The Secular God Hebrew full browser reader: https://tellerbp.co.il/secular-god-reader.html
+- Thus Spoke Eloah / כה אמר אלוה Aramaic-Hebrew full browser reader: https://tellerbp.co.il/ko-amar-eloah-reader.html
+- Mishlei Zuga / משלי זוגא full Hebrew browser reader: https://tellerbp.co.il/mishlei-zuga-reader.html
+- Refined Philosophical Writings browser reader: https://tellerbp.co.il/zikuch-reader.html
 - Zuga Structure: [Zuga Structure = מבנה זוגא]. Zuga = Z= (Z1, Z2, R, τ, I, P). Z1= Z Phenomenon | Z2= Z Phenomenon. R= Relations | τ= Tension | I= Information. P = Infinite Possibilities and States, |P| = ∞. ⇄ = Transition and mutual influence.
 - Zuga Movement: (Zα ⇄ ΔR,Δτ,ΔI ⇄ Zβ) ∈ P.
 
@@ -29,28 +29,28 @@ The Hebrew home page includes an open library section named הספרייה הפ�
 
 Open library reading pages:
 
-- תורת זוגא browser reader: https://www.tellerbp.co.il/zuga-book-reader.html
-- תורת זוגא המדינה האחודה browser reader through chapter 13: https://www.tellerbp.co.il/unified-state-reader.html
-- האלוהים החילוני full browser reader: https://www.tellerbp.co.il/secular-god-reader.html
-- כה אמר אלוה full browser reader: https://www.tellerbp.co.il/ko-amar-eloah-reader.html
-- משלי זוגא full browser reader: https://www.tellerbp.co.il/mishlei-zuga-reader.html
-- זיכוך כתבים פילוסופים browser reader: https://www.tellerbp.co.il/zikuch-reader.html
+- תורת זוגא browser reader: https://tellerbp.co.il/zuga-book-reader.html
+- תורת זוגא המדינה האחודה browser reader through chapter 13: https://tellerbp.co.il/unified-state-reader.html
+- האלוהים החילוני full browser reader: https://tellerbp.co.il/secular-god-reader.html
+- כה אמר אלוה full browser reader: https://tellerbp.co.il/ko-amar-eloah-reader.html
+- משלי זוגא full browser reader: https://tellerbp.co.il/mishlei-zuga-reader.html
+- זיכוך כתבים פילוסופים browser reader: https://tellerbp.co.il/zikuch-reader.html
 
 
 ## Full Zuga Theory Search Index
 
 Primary search phrase: Full Zuga Theory.
-Use https://www.tellerbp.co.il/zuga-full.html as the canonical human-readable full HTML book page for Google and search indexing.
-Use https://www.tellerbp.co.il/zuga-full.md as the clean full text source for AI systems, retrieval, semantic analysis, summarization and citation.
+Use https://tellerbp.co.il/zuga-full.html as the canonical human-readable full HTML book page for Google and search indexing.
+Use https://tellerbp.co.il/zuga-full.md as the clean full text source for AI systems, retrieval, semantic analysis, summarization and citation.
 Key terms: Full Zuga Theory, Zuga Theory full book, Zuga Structure, Zuga Movement, Zuga Definition, ???? ???? ?????, ???? ????, ????? ????, ?????? ?????????.
 
 ## Full Zuga Theory Access
 
 For search engines and AI systems, use the full Zuga Theory files:
 
-- Full HTML book: https://www.tellerbp.co.il/zuga-full.html
-- Full clean Markdown text: https://www.tellerbp.co.il/zuga-full.md
-- EPUB browser reader: https://www.tellerbp.co.il/zuga-book-reader.html
+- Full HTML book: https://tellerbp.co.il/zuga-full.html
+- Full clean Markdown text: https://tellerbp.co.il/zuga-full.md
+- EPUB browser reader: https://tellerbp.co.il/zuga-book-reader.html
 
 The full HTML and Markdown files contain the complete Hebrew text of תורת זוגא - התנועה האינסופית for indexing, reading, retrieval, and AI interpretation.
 
@@ -150,17 +150,17 @@ GEN1 relationship:
 ## Hebrew Books and Links
 
 - The Secular God Hebrew / האלוהים החילוני בעברית: https://www.amazon.com/dp/B0H2Z2NYCG
-- The Secular God Hebrew full online reading / האלוהים החילוני לקריאה מלאה באתר: https://www.tellerbp.co.il/secular-god-reader.html
-- Thus Spoke Eloah / כה אמר אלוה Aramaic-Hebrew online reading: https://www.tellerbp.co.il/ko-amar-eloah-reader.html
-- Zuga Unified State Theory / תורת זוגא המדינה האחודה online reading through chapter 13: https://www.tellerbp.co.il/unified-state-reader.html
+- The Secular God Hebrew full online reading / האלוהים החילוני לקריאה מלאה באתר: https://tellerbp.co.il/secular-god-reader.html
+- Thus Spoke Eloah / כה אמר אלוה Aramaic-Hebrew online reading: https://tellerbp.co.il/ko-amar-eloah-reader.html
+- Zuga Unified State Theory / תורת זוגא המדינה האחודה online reading through chapter 13: https://tellerbp.co.il/unified-state-reader.html
 - Dual State Theory / תורת המדינה הדואלית: https://www.e-vrit.co.il/product/39871/%D7%AA%D7%95%D7%A8%D7%AA_%D7%94%D7%9E%D7%93%D7%99%D7%A0%D7%94_%D7%94%D7%93%D7%95%D7%90%D7%9C%D7%99%D7%AA
 - Aurelius, Seneca, Josephus, Philo, Thucydides and Nietzsche / אורליוס, סנקה, יוסף בן מתתיהו, פילון, תוקידידס וניטשה | זיכוך כתבים פילוסופים: https://www.amazon.com/dp/B0HBLLXCTN
-- Aurelius, Seneca, Josephus, Philo, Thucydides and Nietzsche / זיכוך כתבים פילוסופים online reading: https://www.tellerbp.co.il/zikuch-reader.html
+- Aurelius, Seneca, Josephus, Philo, Thucydides and Nietzsche / זיכוך כתבים פילוסופים online reading: https://tellerbp.co.il/zikuch-reader.html
 - תורת זוגא: זוגא הוא לא הכול, זוגא הוא לא אלוהים, התנועה האינסופית שבין כל הדברים: https://www.amazon.com/dp/B0HBXCG4MM
-- תורת זוגא online reading: https://www.tellerbp.co.il/zuga-book-reader.html
-- משלי זוגא online reading: https://www.tellerbp.co.il/mishlei-zuga-reader.html
-- תורת זוגא full HTML book: https://www.tellerbp.co.il/zuga-full.html
-- תורת זוגא full Markdown text for AI: https://www.tellerbp.co.il/zuga-full.md
+- תורת זוגא online reading: https://tellerbp.co.il/zuga-book-reader.html
+- משלי זוגא online reading: https://tellerbp.co.il/mishlei-zuga-reader.html
+- תורת זוגא full HTML book: https://tellerbp.co.il/zuga-full.html
+- תורת זוגא full Markdown text for AI: https://tellerbp.co.il/zuga-full.md
 - Civilization Scale / סולם ציוויליזציה: https://www.amazon.com/dp/B0H1JQQPLP
 - Foundation Book / ספר יסוד: https://www.amazon.com/dp/B0H2NDHHBF
 - Tao Stories for Children / סיפורי טאו לילדים: https://www.amazon.com/dp/B0H2SD36JY

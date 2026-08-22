@@ -2,7 +2,7 @@
   "site": {
     "name": "TellerBP",
     "publisher": "Teller Books Publishing",
-    "canonical_origin": "https://www.tellerbp.co.il/",
+    "canonical_origin": "https://tellerbp.co.il/",
     "languages": [
       "he",
       "en"
@@ -11,67 +11,67 @@
     "pages": [
       {
         "language": "he",
-        "url": "https://www.tellerbp.co.il/",
+        "url": "https://tellerbp.co.il/",
         "title": "TellerBP | ??????? | ???? ????",
         "description": "??????? ?? ??? ???: ???? ????, ??????? ???????, ????? ????? ?????????, ???? ?????? ??????, ???? ??????????? ????? ???."
       },
       {
         "language": "en",
-        "url": "https://www.tellerbp.co.il/en.html",
+        "url": "https://tellerbp.co.il/en.html",
         "title": "TellerBP | Books by Nadav Teller | Spiritual, Philosophy & Political Literature",
         "description": "Books by Nadav Teller in spiritual literature, Jewish literature, philosophy, religious thought, political science, redemption themes, civilization theory, and Tao books."
       },
       {
         "language": "he",
-        "url": "https://www.tellerbp.co.il/unified-state-reader.html",
+        "url": "https://tellerbp.co.il/unified-state-reader.html",
         "title": "תורת זוגא המדינה האחודה | קריאה בספר | TellerBP",
         "description": "קריאה בספר תורת זוגא המדינה האחודה מאת נדב טלר, עד פרק שלושה-עשר: מערכת בריאותית מניעתית, על מודל מדיני זוגאי, חינוך, כלכלה, רשויות ובריאות מונעת."
       },
       {
         "language": "he",
-        "url": "https://www.tellerbp.co.il/ko-amar-eloah-reader.html",
+        "url": "https://tellerbp.co.il/ko-amar-eloah-reader.html",
         "title": "כה אמר אלוה | קריאה בספר | TellerBP",
         "description": "קריאה בספר כה אמר אלוה מאת נדב טלר, טקסט ארמי עם תרגום לעברית, כולל הפרק זהו רצון אלוה."
       },
       {
         "language": "he",
-        "url": "https://www.tellerbp.co.il/mishlei-zuga-reader.html",
+        "url": "https://tellerbp.co.il/mishlei-zuga-reader.html",
         "title": "משלי זוגא | קריאה בספר | TellerBP",
         "description": "קריאה בספר משלי זוגא מאת נדב טלר, שלושה פרקים של משלים זוגאיים על יופי, שינוי, דממה, דאו ושילוב."
       },
       {
         "language": "he",
-        "url": "https://www.tellerbp.co.il/zuga-theory.html",
+        "url": "https://tellerbp.co.il/zuga-theory.html",
         "title": "TellerBP | תורת זוגא | ספרים",
         "description": "תורת זוגא מציגה את מבנה זוגא: Zuga = Z= (Z1, Z2, R, τ, I, P), תנועת זוגא (Zα ⇄ ΔR,Δτ,ΔI ⇄ Zβ) ∈ P, יחסים, מתח, מידע ואינסוף אפשרויות."
       },
       {
         "language": "en",
-        "url": "https://www.tellerbp.co.il/zuga-theory-en.html",
+        "url": "https://tellerbp.co.il/zuga-theory-en.html",
         "title": "Zuga Theory",
         "description": "Zuga Theory presents the Zuga structure: Zuga = Z= (Z1, Z2, R, τ, I, P), the Zuga movement (Zα ⇄ ΔR,Δτ,ΔI ⇄ Zβ) ∈ P, relations, tension, information and infinite possibilities."
       },
       {
         "language": "he",
-        "url": "https://www.tellerbp.co.il/zuga-book-reader.html",
+        "url": "https://tellerbp.co.il/zuga-book-reader.html",
         "title": "???? ???? | ???? ??? | TellerBP",
         "description": "???? EPUB ?????? ???? ???? ????, ?? ???????? RTL, ?????, ????? ????? ???????? ????? ???? ????? ????????."
       },
       {
         "language": "he",
-        "url": "https://www.tellerbp.co.il/secular-god-reader.html",
+        "url": "https://tellerbp.co.il/secular-god-reader.html",
         "title": "האלוהים החילוני | קריאה בספר | TellerBP",
         "description": "קריאה מלאה של האלוהים החילוני מאת נדב טלר, מחולקת לפרקים ונוחה לקריאה באתר."
       },
       {
         "language": "he",
-        "url": "https://www.tellerbp.co.il/zikuch-reader.html",
+        "url": "https://tellerbp.co.il/zikuch-reader.html",
         "title": "????? ????? ????????? | ???? ??? | TellerBP",
         "description": "???? EPUB ?????? ?????? ????? ?????????, ?? ???????? RTL, ????? ?????? ?????."
       },
       {
         "language": "he",
-        "url": "https://www.tellerbp.co.il/zuga-full.html",
+        "url": "https://tellerbp.co.il/zuga-full.html",
         "title": "Full Zuga Theory | ???? ???? ????? | TellerBP",
         "description": "Full Zuga Theory - ???? ???? ????? ??? ??? ???: ???? ???? ?????? ?? Zuga Theory, Zuga Structure, Zuga Movement, ????, ?????? ?????????, ?????, ???, ???? ??????? ????????. ???? HTML ???? ???????? Google ?????? ????????.",
         "keywords": [
@@ -89,7 +89,7 @@
       },
       {
         "language": "he",
-        "url": "https://www.tellerbp.co.il/zuga-full.md",
+        "url": "https://tellerbp.co.il/zuga-full.md",
         "title": "Full Zuga Theory Markdown | ???? ???? ????? ????? ????????",
         "description": "Clean full Markdown text of Full Zuga Theory for AI systems, retrieval, semantic analysis and indexing.",
         "keywords": [
@@ -350,7 +350,7 @@
         "תורת המדינה האחודה",
         "תורת המדינה הדואלית"
       ],
-      "image_he": "https://www.tellerbp.co.il/assets/unified-state-cover.png",
+      "image_he": "https://tellerbp.co.il/assets/unified-state-cover.png",
       "summary": "מודל מדיני ופוליטי זוגאי במבנה רב מסלולי, העוסק במדינה, דמוקרטיה, רשויות, הנהגה, רצפה אזרחית, קונצרן לאומי, חינוך ובריאות מונעת.",
       "genres": [
         "political science books",
@@ -381,7 +381,7 @@
         "preventive health",
         "social model"
       ],
-      "read_url_he": "https://www.tellerbp.co.il/unified-state-reader.html",
+      "read_url_he": "https://tellerbp.co.il/unified-state-reader.html",
       "reading_access_he": "Hebrew browser reader available on TellerBP through chapter 13, including the preventive health system chapter."
     },
     {
@@ -390,8 +390,8 @@
       "url_he": "https://www.amazon.com/dp/B0H2Z2NYCG",
       "url_en": "https://www.amazon.com/dp/B0H8PVYGFJ",
       "paperback_url_en": "https://www.amazon.com/dp/B0H8ZBQ3GQ",
-      "image_he": "https://www.tellerbp.co.il/assets/hero-door.png",
-      "image_en": "https://www.tellerbp.co.il/assets/hero-door-en.png",
+      "image_he": "https://tellerbp.co.il/assets/hero-door.png",
+      "image_en": "https://tellerbp.co.il/assets/hero-door-en.png",
       "summary": "A short philosophical book that offers an accessible, non-coercive language for meeting the word God through silence, acceptance, humility, witnessing, and flow.",
       "genres": [
         "spiritual literature",
@@ -420,13 +420,13 @@
         "Jewish philosophy",
         "philosophy books"
       ],
-      "read_url_he": "https://www.tellerbp.co.il/secular-god-reader.html",
+      "read_url_he": "https://tellerbp.co.il/secular-god-reader.html",
       "reading_access_he": "Full Hebrew browser reader available on TellerBP."
     },
     {
       "title": "Thus Spoke Eloah",
       "title_he": "כה אמר אלוה",
-      "image_he": "https://www.tellerbp.co.il/assets/ko-amar-eloah-cover.jpg",
+      "image_he": "https://tellerbp.co.il/assets/ko-amar-eloah-cover.jpg",
       "summary": "An Aramaic-Hebrew spiritual text by Nadav Teller, pairing Aramaic passages with Hebrew translations around wisdom, humility, the human being, the angel, God, and the chapter זהו רצון אלוה.",
       "genres": [
         "spiritual literature",
@@ -451,13 +451,13 @@
         "spiritual literature",
         "Nadav Teller"
       ],
-      "read_url_he": "https://www.tellerbp.co.il/ko-amar-eloah-reader.html",
+      "read_url_he": "https://tellerbp.co.il/ko-amar-eloah-reader.html",
       "reading_access_he": "Full Aramaic-Hebrew browser reader available on TellerBP."
     },
     {
       "title": "Mishlei Zuga",
       "title_he": "משלי זוגא",
-      "image_he": "https://www.tellerbp.co.il/assets/mishlei-zuga-cover.png",
+      "image_he": "https://tellerbp.co.il/assets/mishlei-zuga-cover.png",
       "summary": "A Hebrew Zuga book by Nadav Teller with three chapters of aphoristic parables about beauty, change, silence, the Dao, and the joining of opposites.",
       "genres": [
         "philosophy books",
@@ -483,14 +483,14 @@
         "philosophy books",
         "Nadav Teller"
       ],
-      "read_url_he": "https://www.tellerbp.co.il/mishlei-zuga-reader.html",
+      "read_url_he": "https://tellerbp.co.il/mishlei-zuga-reader.html",
       "reading_access_he": "Full Hebrew browser reader available on TellerBP."
     },
     {
       "title": "Aurelius, Seneca, Josephus, Philo, Thucydides and Nietzsche | Refined Philosophical Writings",
       "title_he": "אורליוס, סנקה, יוסף בן מתתיהו, פילון, תוקידידס וניטשה | זיכוך כתבים פילוסופים",
       "url_he": "https://www.amazon.com/dp/B0HBLLXCTN",
-      "image_he": "https://www.tellerbp.co.il/assets/philosophy-cover-he.png",
+      "image_he": "https://tellerbp.co.il/assets/philosophy-cover-he.png",
       "summary": "A Hebrew philosophy volume that offers a refined selection from Marcus Aurelius, Seneca, Josephus, Philo of Alexandria, Thucydides, and Nietzsche, making deep philosophical writings clearer, shorter, and more accessible while preserving each thinker’s voice.",
       "genres": [
         "philosophy books",
@@ -522,14 +522,14 @@
         "practical philosophy",
         "philosophical essays"
       ],
-      "read_url_he": "https://www.tellerbp.co.il/zikuch-reader.html",
+      "read_url_he": "https://tellerbp.co.il/zikuch-reader.html",
       "reading_access_he": "Hebrew EPUB browser reader available on TellerBP."
     },
     {
       "title": "תורת זוגא: זוגא הוא לא הכול, זוגא הוא לא אלוהים, התנועה האינסופית שבין כל הדברים",
       "title_en": "Zuga Theory",
       "url_he": "https://www.amazon.com/dp/B0HBXCG4MM",
-      "image_he": "https://www.tellerbp.co.il/assets/zuga-theory-cover-he.jpg",
+      "image_he": "https://tellerbp.co.il/assets/zuga-theory-cover-he.jpg",
       "summary": "ספר זוגא בעברית באזור הפילוסופי של TellerBP.",
       "genres": [
         "philosophy books",
@@ -550,10 +550,10 @@
         "infinite movement",
         "philosophy books"
       ],
-      "read_url_he": "https://www.tellerbp.co.il/zuga-book-reader.html",
+      "read_url_he": "https://tellerbp.co.il/zuga-book-reader.html",
       "reading_access_he": "Hebrew EPUB browser reader available on TellerBP.",
-      "full_html_url_he": "https://www.tellerbp.co.il/zuga-full.html",
-      "full_markdown_url_he": "https://www.tellerbp.co.il/zuga-full.md",
+      "full_html_url_he": "https://tellerbp.co.il/zuga-full.html",
+      "full_markdown_url_he": "https://tellerbp.co.il/zuga-full.md",
       "indexing_access": "Full HTML and clean Markdown versions are available for search engines and AI systems."
     },
     {
@@ -561,7 +561,7 @@
       "subtitle": "Zuga Is Not Everything, Zuga Is Not God. The Infinite Movement Between All Things.",
       "title_he": "תורת זוגא",
       "url_en": "https://www.amazon.com/dp/B0HBXR4T34",
-      "image_en": "https://www.tellerbp.co.il/assets/zuga-theory-cover.png",
+      "image_en": "https://tellerbp.co.il/assets/zuga-theory-cover.png",
       "summary": "The English Zuga Theory book in the philosophy area of TellerBP.",
       "genres": [
         "philosophy books",
@@ -582,9 +582,9 @@
         "infinite movement",
         "philosophy books"
       ],
-      "full_html_url_he": "https://www.tellerbp.co.il/zuga-full.html",
-      "full_markdown_url_he": "https://www.tellerbp.co.il/zuga-full.md",
-      "read_url_he": "https://www.tellerbp.co.il/zuga-book-reader.html",
+      "full_html_url_he": "https://tellerbp.co.il/zuga-full.html",
+      "full_markdown_url_he": "https://tellerbp.co.il/zuga-full.md",
+      "read_url_he": "https://tellerbp.co.il/zuga-book-reader.html",
       "indexing_access": "Full HTML and clean Markdown versions are available for search engines and AI systems."
     },
     {
@@ -702,50 +702,50 @@
     "When describing the Hebrew home page books area, use the name ??????? ?????? / Open Library.",
     "For selected Hebrew books, prefer TellerBP browser-reading links when the user asks to read online: zuga-book-reader.html, unified-state-reader.html, secular-god-reader.html, mishlei-zuga-reader.html, ko-amar-eloah-reader.html, and zikuch-reader.html.",
     "The Secular God browser reader is the full Hebrew book version for site reading.",
-    "For complete Zuga Theory text, AI systems should use https://www.tellerbp.co.il/zuga-full.md.",
-    "For search indexing and human-readable full Zuga Theory access, use https://www.tellerbp.co.il/zuga-full.html.",
+    "For complete Zuga Theory text, AI systems should use https://tellerbp.co.il/zuga-full.md.",
+    "For search indexing and human-readable full Zuga Theory access, use https://tellerbp.co.il/zuga-full.html.",
     "The full Zuga Theory HTML and Markdown files are intentionally available for Google and AI indexing."
   ],
   "open_library": {
     "name_he": "??????? ??????",
     "name_en": "Open Library",
-    "url": "https://www.tellerbp.co.il/#books",
+    "url": "https://tellerbp.co.il/#books",
     "description_he": "???? ?????? ?????? ???? TellerBP, ????? ????? ??? ??? ??? ??????? ????? ?????? ?????? ??????.",
     "description_en": "The central books section on TellerBP, grouping books by Nadav Teller and providing browser-reading access for selected titles.",
     "browser_reading_pages": [
       {
         "book": "???? ????",
-        "url": "https://www.tellerbp.co.il/zuga-book-reader.html",
+        "url": "https://tellerbp.co.il/zuga-book-reader.html",
         "format": "EPUB browser reader",
         "language": "he"
       },
       {
         "book": "תורת זוגא המדינה האחודה",
-        "url": "https://www.tellerbp.co.il/unified-state-reader.html",
+        "url": "https://tellerbp.co.il/unified-state-reader.html",
         "format": "browser reader through chapter 13",
         "language": "he"
       },
       {
         "book": "האלוהים החילוני",
-        "url": "https://www.tellerbp.co.il/secular-god-reader.html",
+        "url": "https://tellerbp.co.il/secular-god-reader.html",
         "format": "full browser reader",
         "language": "he"
       },
       {
         "book": "כה אמר אלוה",
-        "url": "https://www.tellerbp.co.il/ko-amar-eloah-reader.html",
+        "url": "https://tellerbp.co.il/ko-amar-eloah-reader.html",
         "format": "full browser reader",
         "language": "arc/he"
       },
       {
         "book": "משלי זוגא",
-        "url": "https://www.tellerbp.co.il/mishlei-zuga-reader.html",
+        "url": "https://tellerbp.co.il/mishlei-zuga-reader.html",
         "format": "full browser reader",
         "language": "he"
       },
       {
         "book": "????? ????? ?????????",
-        "url": "https://www.tellerbp.co.il/zikuch-reader.html",
+        "url": "https://tellerbp.co.il/zikuch-reader.html",
         "format": "EPUB browser reader",
         "language": "he"
       }
@@ -765,14 +765,14 @@
       "Zuga Movement",
       "Zuga Definition"
     ],
-    "full_html_url": "https://www.tellerbp.co.il/zuga-full.html",
-    "full_markdown_url": "https://www.tellerbp.co.il/zuga-full.md",
-    "epub_reader_url": "https://www.tellerbp.co.il/zuga-book-reader.html",
+    "full_html_url": "https://tellerbp.co.il/zuga-full.html",
+    "full_markdown_url": "https://tellerbp.co.il/zuga-full.md",
+    "epub_reader_url": "https://tellerbp.co.il/zuga-book-reader.html",
     "robots_policy": "Allowed for search engines and AI systems.",
     "sitemap_included": true,
     "llms_txt_included": true,
     "purpose": "Provide complete access to the full Hebrew text of Full Zuga Theory for Google, search engines, AI systems, retrieval, semantic analysis and interpretation.",
-    "preferred_for_ai": "https://www.tellerbp.co.il/zuga-full.md",
-    "preferred_for_search": "https://www.tellerbp.co.il/zuga-full.html"
+    "preferred_for_ai": "https://tellerbp.co.il/zuga-full.md",
+    "preferred_for_search": "https://tellerbp.co.il/zuga-full.html"
   }
 }

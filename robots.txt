@@ -1,7 +1,4 @@
 User-agent: *
 Allow: /
-Allow: /zuga-full.html
-Allow: /zuga-full.md
-Allow: /zuga-book-reader.html
 
-Sitemap: https://www.tellerbp.co.il/sitemap.xml
+Sitemap: https://tellerbp.co.il/sitemap.xml

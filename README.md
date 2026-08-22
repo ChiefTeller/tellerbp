@@ -2,7 +2,7 @@
 
 TellerBP is the minimal bilingual website for Teller Books Publishing, the publishing home for books by Nadav Teller.
 
-Production domain: https://www.tellerbp.co.il/
+Production domain: https://tellerbp.co.il/
 
 ## Site Overview
 

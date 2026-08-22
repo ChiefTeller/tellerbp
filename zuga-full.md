@@ -1,8 +1,8 @@
 # תורת זוגא | מאת נדב טלר, ג'וניור והאינסוף
 
 מקור: TellerBP | נדב טלר
-גרסת HTML מלאה: https://www.tellerbp.co.il/zuga-full.html
-גרסת Markdown מלאה: https://www.tellerbp.co.il/zuga-full.md
+גרסת HTML מלאה: https://tellerbp.co.il/zuga-full.html
+גרסת Markdown מלאה: https://tellerbp.co.il/zuga-full.md
 
 ---
 
