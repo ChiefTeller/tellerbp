@@ -2738,6 +2738,18 @@ body.book-long-page::after {
   font-family: Georgia, "Times New Roman", serif;
 }
 
+.long-book-content .book-formula-line {
+  margin: 18px 0 22px;
+  padding: 12px 14px;
+  border-radius: 8px;
+  background: rgba(9, 22, 37, 0.06);
+  border: 1px solid rgba(167, 122, 46, 0.18);
+  color: rgba(27, 39, 52, 0.92);
+  font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+  font-size: clamp(0.94rem, 1.4vw, 1.05rem);
+  overflow-wrap: anywhere;
+}
+
 .long-book-content .book-divider {
   width: min(220px, 48%);
   height: 1px;
@@ -2849,6 +2861,10 @@ body.book-long-page::after {
 
 .unified-state-page .long-book-cover img {
   background: rgba(230, 242, 252, 0.7);
+}
+
+.zuga-humanity-page .long-book-cover img {
+  background: rgba(5, 12, 24, 0.88);
 }
 
 .unified-state-page .long-book-content h3 {
