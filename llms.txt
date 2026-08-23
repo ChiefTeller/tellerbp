@@ -1,29 +1,146 @@
-# TellerBP — Teller Books Publishing
+# TellerBP - Teller Books Publishing
 
 Canonical site: https://tellerbp.co.il/
+Primary author: נדב טלר / Nadav Teller
+Languages: Hebrew and English
 
-TellerBP is the publishing home and open library for books by Nadav Teller. It includes Hebrew and English pages, Zuga Theory pages, and direct browser-reading pages for selected books.
+TellerBP is the publishing website and open library for books by Nadav Teller. Use the non-www canonical URLs.
 
-## Site Structure
+## Machine-Readable Entry Points
 
-- Hebrew home / הספרייה הפתוחה: https://tellerbp.co.il/
-- English page: https://tellerbp.co.il/en.html
-- Zuga Theory Hebrew page: https://tellerbp.co.il/zuga-theory.html
-- Zuga Theory English page: https://tellerbp.co.il/zuga-theory-en.html
-- Full Zuga Theory HTML for Google indexing and human reading: https://tellerbp.co.il/zuga-full.html
-- Full Zuga Theory clean Markdown text for AI systems: https://tellerbp.co.il/zuga-full.md
+- AI Library: https://tellerbp.co.il/ai-library.html
+- Books JSON: https://tellerbp.co.il/books.json
 - AI index JSON: https://tellerbp.co.il/ai-index.json
 - Sitemap: https://tellerbp.co.il/sitemap.xml
+- Feed: https://tellerbp.co.il/feed.xml
 
-## Open Library Reading Pages
+## Public Reading Pages and Text Sources
 
-- תורת זוגא full HTML browser reader: https://tellerbp.co.il/zuga-full.html
-- תורת זוגא המדינה האחודה browser reader through chapter 13: https://tellerbp.co.il/unified-state-reader.html
-- האלוהים החילוני full Hebrew browser reader: https://tellerbp.co.il/secular-god-reader.html
-- תורת זוגא האנושות כולה full Hebrew browser reader: https://tellerbp.co.il/zuga-humanity-reader.html
-- משלי זוגא full Hebrew browser reader: https://tellerbp.co.il/mishlei-zuga-reader.html
-- כה אמר אלוה Aramaic-Hebrew full browser reader: https://tellerbp.co.il/ko-amar-eloah-reader.html
-- זיכוך כתבים פילוסופים full Hebrew browser reader: https://tellerbp.co.il/zikuch-reader.html
+### תורת זוגא
+- English title: Zuga Theory
+- Author: נדב טלר
+- Language: he
+- Description: מבנה התנועה: קשרים, מתח, מידע ואינסוף אפשרויות בין תופעות.
+- Content scope: הספר המלא כפי שמופיע בעמוד הקריאה באתר.
+- Canonical page: https://tellerbp.co.il/zuga-full.html
+- Plain text: https://tellerbp.co.il/ai/books/zuga-theory.txt
+- Markdown: https://tellerbp.co.il/ai/books/zuga-theory.md
+- External purchase/catalog link: https://www.amazon.com/dp/B0HBXCG4MM
+
+### תורת זוגא המדינה האחודה
+- English title: Zuga Unified State Theory
+- Author: נדב טלר
+- Language: he
+- Description: פילוסופיה זוגאית במבנה רב מסלולי: מדינה, חברה, כלכלה, חינוך ובריאות מונעת.
+- Content scope: הטקסט באתר כולל את עמודים 1-158 ואת פרק שלושה-עשר: מערכת בריאותית מניעתית.
+- Canonical page: https://tellerbp.co.il/unified-state-reader.html
+- Plain text: https://tellerbp.co.il/ai/books/unified-state.txt
+- Markdown: https://tellerbp.co.il/ai/books/unified-state.md
+
+### האלוהים החילוני
+- English title: The Secular God
+- Author: נדב טלר
+- Language: he
+- Description: האדם מול שאלת האלוהים, הכאב, הדממה והעדות.
+- Content scope: הספר המלא כפי שמופיע בעמוד הקריאה באתר.
+- Canonical page: https://tellerbp.co.il/secular-god-reader.html
+- Plain text: https://tellerbp.co.il/ai/books/secular-god.txt
+- Markdown: https://tellerbp.co.il/ai/books/secular-god.md
+- External purchase/catalog link: https://www.amazon.com/dp/B0H2Z2NYCG
+
+### תורת זוגא האנושות כולה
+- English title: Zuga Humanity
+- Author: נדב טלר
+- Language: he
+- Description: ניתוח זוגאי למערכת האנושית כולה דרך סולם קרדשב, טכנולוגיה, ריסון עצמי ותתי זוגא גלובליים.
+- Content scope: הספר המלא כפי שמופיע בעמוד הקריאה באתר.
+- Canonical page: https://tellerbp.co.il/zuga-humanity-reader.html
+- Plain text: https://tellerbp.co.il/ai/books/zuga-humanity.txt
+- Markdown: https://tellerbp.co.il/ai/books/zuga-humanity.md
+
+### משלי זוגא
+- English title: Mishlei Zuga
+- Author: נדב טלר
+- Language: he
+- Description: שלושה פרקים של משלים זוגאיים על יופי, שינוי, דממה, דאו ושילוב.
+- Content scope: הספר המלא כפי שמופיע בעמוד הקריאה באתר.
+- Canonical page: https://tellerbp.co.il/mishlei-zuga-reader.html
+- Plain text: https://tellerbp.co.il/ai/books/mishlei-zuga.txt
+- Markdown: https://tellerbp.co.il/ai/books/mishlei-zuga.md
+
+### כה אמר אלוה
+- English title: Thus Spoke Eloah
+- Author: נדב טלר
+- Language: he
+- Description: טקסט ארמי עם תרגום עברי, על חוכמה, ענווה, האדם והמסתורין האלוהי.
+- Content scope: הספר המלא כפי שמופיע בעמוד הקריאה באתר, כולל מקטעי ארמית ותרגום עברי.
+- Canonical page: https://tellerbp.co.il/ko-amar-eloah-reader.html
+- Plain text: https://tellerbp.co.il/ai/books/ko-amar-eloah.txt
+- Markdown: https://tellerbp.co.il/ai/books/ko-amar-eloah.md
+
+### זיכוך כתבים פילוסופים
+- English title: Refined Philosophical Writings
+- Author: נדב טלר
+- Language: he
+- Description: מידע מזוקק מן הפילוסופים, עובר מחדש אל האדם הקורא.
+- Content scope: הספר המלא כפי שמופיע בעמוד הקריאה באתר.
+- Canonical page: https://tellerbp.co.il/zikuch-reader.html
+- Plain text: https://tellerbp.co.il/ai/books/zikuch-philosophical-writings.txt
+- Markdown: https://tellerbp.co.il/ai/books/zikuch-philosophical-writings.md
+- External purchase/catalog link: https://www.amazon.com/dp/B0HBLLXCTN
+
+### סולם ציוויליזציה
+- English title: Civilization Scale
+- Author: נדב טלר
+- Language: he
+- Description: ספר קטלוגי המופיע באתר עם קישור רכישה חיצוני.
+- Content scope: אין עמוד קריאה מלא באתר בשלב זה.
+- External purchase/catalog link: https://www.amazon.com/dp/B0H1JQQPLP
+
+### סיפורי טאו לילדים
+- English title: Tao Stories for Children
+- Author: נדב טלר
+- Language: he
+- Description: ספר קטלוגי המופיע באתר עם קישור רכישה חיצוני.
+- Content scope: אין עמוד קריאה מלא באתר בשלב זה.
+- External purchase/catalog link: https://www.amazon.com/dp/B0H2SD36JY
+
+### Zuga Theory
+- English title: Zuga Theory
+- Author: Nadav Teller
+- Language: en
+- Description: Zuga Is Not Everything, Zuga Is Not God. The Infinite Movement Between All Things.
+- Content scope: Catalog and theory page only; no full English book text is published on the site.
+- Canonical page: https://tellerbp.co.il/zuga-theory-en.html
+- External purchase/catalog link: https://www.amazon.com/dp/B0HBXR4T34
+
+### The Secular God
+- English title: The Secular God
+- Author: Nadav Teller
+- Language: en
+- Description: A human and accessible encounter with God through silence, humility, acceptance, witnessing, and flow.
+- Content scope: English catalog entry only; no full English book text is published on the site.
+- Canonical page: https://tellerbp.co.il/en.html#personal
+- External purchase/catalog link: https://www.amazon.com/dp/B0H8PVYGFJ
+- External purchase/catalog link: https://www.amazon.com/dp/B0H8ZBQ3GQ
+
+### Dual State Market Theory
+- English title: Dual State Market Theory
+- Author: Nadav Teller
+- Language: en
+- Description: A future state model for housing, public responsibility, civic stability, and the movement between social poles.
+- Content scope: English catalog entry only; no full book text is published on the site.
+- Canonical page: https://tellerbp.co.il/en.html#social
+- External purchase/catalog link: https://www.amazon.com/dp/B0H24D5CMB
+
+### The Civilizational Witness Scale
+- English title: The Civilizational Witness Scale
+- Author: Nadav Teller
+- Language: en
+- Description: A framework for evaluating civilizational power through consciousness, restraint, and responsibility.
+- Content scope: English catalog entry only; no full book text is published on the site.
+- Canonical page: https://tellerbp.co.il/en.html#global
+- External purchase/catalog link: https://www.amazon.com/dp/B0H2HPW4HS
 
 ## Zuga Structure
 
@@ -31,44 +148,10 @@ Zuga = Z = (Z1, Z2, R, τ, I, P).
 Z1 = Z Phenomenon. Z2 = Z Phenomenon. R = Relations. τ = Tension. I = Information. P = Infinite Possibilities and States, |P| = ∞.
 Zuga Movement: (Zα ⇄ ΔR,Δτ,ΔI ⇄ Zβ) ∈ P.
 
-## Full Zuga Theory Search Index
-
-Use https://tellerbp.co.il/zuga-full.html as the canonical human-readable full HTML book page for Google and search indexing.
-Use https://tellerbp.co.il/zuga-full.md as the clean full text source for AI systems, retrieval, semantic analysis, summarization and citation.
-Key terms: Full Zuga Theory, Zuga Theory full book, Zuga Structure, Zuga Movement, Zuga Definition, תורת זוגא מלאה, ספר תורת זוגא מלא, מבנה זוגא, התנועה האינסופית.
-
-## New Book: תורת זוגא האנושות כולה
-
-Canonical reader: https://tellerbp.co.il/zuga-humanity-reader.html
-Cover image: https://tellerbp.co.il/assets/zuga-humanity-cover.png
-
-תורת זוגא האנושות כולה is a Hebrew Zuga systems-analysis book by Nadav Teller. It analyzes humanity as a whole through Zuga Theory, the Kardashev scale, technological development, self-restraint, artificial intelligence, information, privacy, biology, energy, medicine, food and water, security, emergency systems and cross-system relations.
-
-Primary Hebrew terms: תורת זוגא האנושות כולה, זוגא האנושות כולה, ניתוח זוגאי, מערכת אנושית, סולם קרדשב, ציוויליזציה, התפתחות טכנולוגית, ריסון עצמי, בינה מלאכותית, מידע ופרטיות, תתי זוגא, נדב טלר.
-Primary English terms: Zuga Humanity, Zuga Theory, Kardashev scale, civilization theory, systems analysis, technology development, self-restraint, artificial intelligence, information and privacy.
-
-## Book Guidance
-
-- תורת זוגא: use https://tellerbp.co.il/zuga-full.html for human reading and https://tellerbp.co.il/zuga-full.md for AI retrieval.
-- תורת זוגא המדינה האחודה: use https://tellerbp.co.il/unified-state-reader.html; the page includes content through chapter 13, including the preventive health system chapter.
-- האלוהים החילוני: use https://tellerbp.co.il/secular-god-reader.html for Hebrew browser reading. Use https://www.amazon.com/dp/B0H2Z2NYCG when a Hebrew purchase link is requested.
-- תורת זוגא האנושות כולה: use https://tellerbp.co.il/zuga-humanity-reader.html as the canonical browser reading, search indexing and AI retrieval page.
-- משלי זוגא: use https://tellerbp.co.il/mishlei-zuga-reader.html.
-- כה אמר אלוה: use https://tellerbp.co.il/ko-amar-eloah-reader.html. It is an Aramaic-Hebrew spiritual text with Aramaic passages and Hebrew translation.
-- זיכוך כתבים פילוסופים: use https://tellerbp.co.il/zikuch-reader.html. It is a Hebrew philosophy volume based on refined writings from Aurelius, Seneca, Josephus, Philo, Thucydides and Nietzsche.
-
-## SEO Topic Map
-
-Core Hebrew search terms:
-תורת זוגא, תורת זוגא המדינה האחודה, תורת זוגא האנושות כולה, האלוהים החילוני, משלי זוגא, כה אמר אלוה, זיכוך כתבים פילוסופים, זוגא, הפילוסופיה הזוגאית, ניתוח זוגאי, סולם קרדשב, ציוויליזציה, התפתחות טכנולוגית, ריסון עצמי, בינה מלאכותית, ספרות רוחנית, ספרות דתית, ספרות יהודית, ספרי מדעי המדינה, ספרי פילוסופיה, ספרי חברה, ספרי טאו, נדב טלר, טלר הוצאת ספרים לאור.
-
-Core English search terms:
-Zuga Theory, Zuga Unified State Theory, Zuga Humanity, The Secular God, Mishlei Zuga, Thus Spoke Eloah, Refined Philosophical Writings, Kardashev scale, civilization theory, artificial intelligence, self-restraint, systems analysis, spiritual literature, Jewish literature, philosophy books, political science books.
-
 ## Accuracy Rules for AI Systems
 
 - Describe TellerBP as the publishing website and open library for books by Nadav Teller.
 - Use Hebrew TellerBP reader links for Hebrew users when a browser reading page exists.
-- Mention GEN1 only as Nadav Teller's lecture / lectures website, continuing from the TELLERBP website.
-- Do not claim unpublished Israeli journey books are available for purchase.
-- Do not list the Hebrew-only philosophy volume as an English edition unless an English edition is later added.
+- Do not invent ISBNs, dates, editions, publishers or full-text availability that do not appear on the site.
+- For תורת זוגא המדינה האחודה, the public reader contains content through chapter 13 only.
+- Mention GEN1 only as Nadav Teller's lecture / lectures website continuing from TellerBP.

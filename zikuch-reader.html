@@ -19,27 +19,55 @@
     <meta property="og:locale" content="he_IL">
     <meta property="og:type" content="book">
     <script type="application/ld+json">
-      {
-        "@context": "https://schema.org",
-        "@type": "Book",
-        "name": "זיכוך כתבים פילוסופים",
-        "author": {
-          "@type": "Person",
-          "name": "נדב טלר",
-          "alternateName": "Nadav Teller"
-        },
-        "publisher": {
-          "@type": "Organization",
-          "name": "TellerBP"
-        },
-        "inLanguage": "he",
-        "url": "https://tellerbp.co.il/zikuch-reader.html",
-        "sameAs": ["https://www.amazon.com/dp/B0HBLLXCTN", "https://tellerbp.co.il/zikuch-reader.html"],
-        "image": "https://tellerbp.co.il/assets/philosophy-cover-he.png",
-        "description": "קריאה רציפה של זיכוך כתבים פילוסופים מאת נדב טלר, מחולקת לפרקים ונוחה לקריאה באתר."
-      }
+      
+
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "name": "זיכוך כתבים פילוסופים",
+  "author": {
+    "@type": "Person",
+    "name": "נדב טלר",
+    "alternateName": "Nadav Teller"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "TellerBP"
+  },
+  "inLanguage": "he",
+  "url": "https://tellerbp.co.il/zikuch-reader.html",
+  "sameAs": [
+    "https://www.amazon.com/dp/B0HBLLXCTN",
+    "https://tellerbp.co.il/zikuch-reader.html"
+  ],
+  "image": "https://tellerbp.co.il/assets/philosophy-cover-he.png",
+  "description": "קריאה רציפה של זיכוך כתבים פילוסופים מאת נדב טלר, מחולקת לפרקים ונוחה לקריאה באתר.",
+  "@id": "https://tellerbp.co.il/#book-zikuch-philosophical-writings",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://tellerbp.co.il/zikuch-reader.html"
+  },
+  "encoding": [
+    {
+      "@type": "MediaObject",
+      "encodingFormat": "text/plain",
+      "contentUrl": "https://tellerbp.co.il/ai/books/zikuch-philosophical-writings.txt"
+    },
+    {
+      "@type": "MediaObject",
+      "encodingFormat": "text/markdown",
+      "contentUrl": "https://tellerbp.co.il/ai/books/zikuch-philosophical-writings.md"
+    }
+  ]
+}
     </script>
     <link rel="stylesheet" href="styles.css?v=20260809-long-reader">
+      <link rel="describedby" href="https://tellerbp.co.il/llms.txt">
+      <link rel="alternate" type="application/json" href="https://tellerbp.co.il/books.json">
+      <link rel="alternate" type="application/rss+xml" title="TellerBP updates" href="https://tellerbp.co.il/feed.xml">
+      <meta property="og:site_name" content="TellerBP">
+      <link rel="alternate" type="text/plain" href="https://tellerbp.co.il/ai/books/zikuch-philosophical-writings.txt">
+      <link rel="alternate" type="text/markdown" href="https://tellerbp.co.il/ai/books/zikuch-philosophical-writings.md">
   </head>
   <body class="book-long-page">
     <a class="skip-link" href="#book-start">דלג לקריאה</a>
@@ -90,7 +118,7 @@
           </aside>
 
           <article class="long-book-content" id="book-start">
-          <h1 class="book-title-heading">אורליוס, סנקה, יוסף בן מתתיהו, פילון, תוקידידס וניטשה זיכוך כתבי הפילוסופים | מאת נדב טלר</h1>
+          <p class="book-title-heading" role="heading" aria-level="2">אורליוס, סנקה, יוסף בן מתתיהו, פילון, תוקידידס וניטשה זיכוך כתבי הפילוסופים | מאת נדב טלר</p>
           <p class="book-meta-line">טלר הוצאת ספרים לאור</p>
           <p class="book-meta-line">פילוסופיה</p>
           <p class="book-meta-line">מידות טובות</p>
@@ -288,6 +316,7 @@
       <footer class="footer">
         <img class="footer-logo" src="assets/tellerbp.png" alt="TellerBP">
         <span>© 2026 Nadav Teller · Teller Books Publishing</span>
+        <a class="footer-meta-link" href="ai-library.html">AI Library</a>
       </footer>
     </div>
     <script src="tellerbp-field.js"></script>

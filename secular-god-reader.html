@@ -19,31 +19,56 @@
     <meta property="og:locale" content="he_IL">
     <meta property="og:type" content="book">
     <script type="application/ld+json">
-      {
-      "@context": "https://schema.org",
-      "@type": "Book",
-      "name": "האלוהים החילוני",
-      "author": {
-            "@type": "Person",
-            "name": "נדב טלר",
-            "alternateName": "Nadav Teller"
-      },
-      "publisher": {
-            "@type": "Organization",
-            "name": "TellerBP"
-      },
-      "inLanguage": "he",
-      "isAccessibleForFree": true,
-      "url": "https://tellerbp.co.il/secular-god-reader.html",
-      "sameAs": [
-            "https://www.amazon.com/dp/B0H2Z2NYCG",
-            "https://tellerbp.co.il/secular-god-reader.html"
-      ],
-      "image": "https://tellerbp.co.il/assets/hero-door.png",
-      "description": "קריאה מלאה של האלוהים החילוני מאת נדב טלר, מחולקת לפרקים ונוחה לקריאה באתר."
+      
+
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "name": "האלוהים החילוני",
+  "author": {
+    "@type": "Person",
+    "name": "נדב טלר",
+    "alternateName": "Nadav Teller"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "TellerBP"
+  },
+  "inLanguage": "he",
+  "isAccessibleForFree": true,
+  "url": "https://tellerbp.co.il/secular-god-reader.html",
+  "sameAs": [
+    "https://www.amazon.com/dp/B0H2Z2NYCG",
+    "https://tellerbp.co.il/secular-god-reader.html"
+  ],
+  "image": "https://tellerbp.co.il/assets/hero-door.png",
+  "description": "קריאה מלאה של האלוהים החילוני מאת נדב טלר, מחולקת לפרקים ונוחה לקריאה באתר.",
+  "@id": "https://tellerbp.co.il/#book-secular-god",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://tellerbp.co.il/secular-god-reader.html"
+  },
+  "encoding": [
+    {
+      "@type": "MediaObject",
+      "encodingFormat": "text/plain",
+      "contentUrl": "https://tellerbp.co.il/ai/books/secular-god.txt"
+    },
+    {
+      "@type": "MediaObject",
+      "encodingFormat": "text/markdown",
+      "contentUrl": "https://tellerbp.co.il/ai/books/secular-god.md"
+    }
+  ]
 }
     </script>
     <link rel="stylesheet" href="styles.css?v=20260809-long-reader">
+      <link rel="describedby" href="https://tellerbp.co.il/llms.txt">
+      <link rel="alternate" type="application/json" href="https://tellerbp.co.il/books.json">
+      <link rel="alternate" type="application/rss+xml" title="TellerBP updates" href="https://tellerbp.co.il/feed.xml">
+      <meta property="og:site_name" content="TellerBP">
+      <link rel="alternate" type="text/plain" href="https://tellerbp.co.il/ai/books/secular-god.txt">
+      <link rel="alternate" type="text/markdown" href="https://tellerbp.co.il/ai/books/secular-god.md">
   </head>
   <body class="book-long-page">
     <a class="skip-link" href="#book-start">דלג לקריאה</a>
@@ -110,7 +135,7 @@
           </aside>
 
           <article class="long-book-content" id="book-start">
-          <h1 class="book-title-heading">האלוהים החילוני | מאת נדב טלר</h1>
+          <p class="book-title-heading" role="heading" aria-level="2">האלוהים החילוני | מאת נדב טלר</p>
           <p class="book-meta-line">טלר הוצאת ספרים לאור</p>
           <p class="book-meta-line">פילוסופיה</p>
           <p class="book-meta-line">תיאולוגיה</p>
@@ -397,6 +422,7 @@
       <footer class="footer">
         <img class="footer-logo" src="assets/tellerbp.png" alt="TellerBP">
         <span>© 2026 Nadav Teller · Teller Books Publishing</span>
+        <a class="footer-meta-link" href="ai-library.html">AI Library</a>
       </footer>
     </div>
     <script src="tellerbp-field.js"></script>
