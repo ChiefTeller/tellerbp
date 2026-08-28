@@ -144,9 +144,19 @@ TellerBP is the publishing website and open library for books by Nadav Teller. U
 
 ## Zuga Structure
 
-Zuga = Z = (Z1, Z2, R, τ, I, P).
-Z1 = Z Phenomenon. Z2 = Z Phenomenon. R = Relations. τ = Tension. I = Information. P = Infinite Possibilities and States, |P| = ∞.
-Zuga Movement: (Zα ⇄ ΔR,Δτ,ΔI ⇄ Zβ) ∈ P.
+[Zuga Structure = מבנה זוגא]
+Zuga = Z= (Z1, Z2, R, τ, I, P)
+Z1= Z Phenomenon | Z2= Z Phenomenon;
+R= Relations | τ= Tension | I= Information;
+P = Infinite Possibilities and States, |P| = ∞ ;
+α= Alpha State, β= Beta State…;
+Δ= Change;
+⇄ = Transition and mutual influence;
+Ω={Z1,Z2,Z3,…},∣Ω∣=∞ ;
+∀Zx∈Ω:Zx=(Zx1,Zx2,Rx,τx,Ix,Px);
+Z(0, ∞)
+Zuga Movement
+(∞⇄Zα⇄ΔR,Δτ,ΔI⇄Zβ⇄∞)∈P
 
 ## Accuracy Rules for AI Systems
 

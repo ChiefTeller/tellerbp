@@ -8,7 +8,7 @@
       "he",
       "en"
     ],
-    "generated": "2026-08-23"
+    "generated": "2026-08-28"
   },
   "machine_readable_entrypoints": {
     "ai_library": "https://tellerbp.co.il/ai-library.html",
@@ -37,7 +37,22 @@
       "cover_url": "https://tellerbp.co.il/assets/zuga-theory-cover-he.jpg",
       "txt_url": "https://tellerbp.co.il/ai/books/zuga-theory.txt",
       "markdown_url": "https://tellerbp.co.il/ai/books/zuga-theory.md",
-      "schema_id": "https://tellerbp.co.il/#book-zuga-theory"
+      "schema_id": "https://tellerbp.co.il/#book-zuga-theory",
+      "zuga_formula": [
+        "[Zuga Structure = מבנה זוגא]",
+        "Zuga = Z= (Z1, Z2, R, τ, I, P)",
+        "Z1= Z Phenomenon | Z2= Z Phenomenon;",
+        "R= Relations | τ= Tension | I= Information;",
+        "P = Infinite Possibilities and States, |P| = ∞ ;",
+        "α= Alpha State, β= Beta State…;",
+        "Δ= Change;",
+        "⇄ = Transition and mutual influence;",
+        "Ω={Z1,Z2,Z3,…},∣Ω∣=∞ ;",
+        "∀Zx∈Ω:Zx=(Zx1,Zx2,Rx,τx,Ix,Px);",
+        "Z(0, ∞)",
+        "Zuga Movement",
+        "(∞⇄Zα⇄ΔR,Δτ,ΔI⇄Zβ⇄∞)∈P"
+      ]
     },
     {
       "slug": "unified-state",
@@ -292,6 +307,21 @@
     "canonical_domain": "https://tellerbp.co.il/",
     "www_policy": "Use the non-www canonical URLs."
   },
+  "zuga_formula": [
+    "[Zuga Structure = מבנה זוגא]",
+    "Zuga = Z= (Z1, Z2, R, τ, I, P)",
+    "Z1= Z Phenomenon | Z2= Z Phenomenon;",
+    "R= Relations | τ= Tension | I= Information;",
+    "P = Infinite Possibilities and States, |P| = ∞ ;",
+    "α= Alpha State, β= Beta State…;",
+    "Δ= Change;",
+    "⇄ = Transition and mutual influence;",
+    "Ω={Z1,Z2,Z3,…},∣Ω∣=∞ ;",
+    "∀Zx∈Ω:Zx=(Zx1,Zx2,Rx,τx,Ix,Px);",
+    "Z(0, ∞)",
+    "Zuga Movement",
+    "(∞⇄Zα⇄ΔR,Δτ,ΔI⇄Zβ⇄∞)∈P"
+  ],
   "ai_accuracy_rules": [
     "Describe TellerBP as the publishing website and open library for books by Nadav Teller.",
     "Use the Hebrew reader links when a Hebrew full-text page exists.",
