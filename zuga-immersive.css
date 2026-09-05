@@ -639,6 +639,7 @@ blockquote {
 .book-content .book-title-heading,
 .book-content .book-title-heading,
 .book-content .book-title-heading,
+.book-content .book-title-heading,
 .book-content h1,
 .book-content h2,
 .book-content h3 {
@@ -647,6 +648,7 @@ blockquote {
   letter-spacing: 0;
 }
 
+.book-content .book-title-heading,
 .book-content .book-title-heading,
 .book-content .book-title-heading,
 .book-content .book-title-heading,
@@ -956,6 +958,7 @@ html[data-depth="reading"] .signal-strip {
     font-size: 0.88rem;
   }
 
+  .book-content .book-title-heading,
   .book-content .book-title-heading,
   .book-content .book-title-heading,
   .book-content .book-title-heading,

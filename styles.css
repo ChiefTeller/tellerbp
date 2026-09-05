@@ -2709,6 +2709,7 @@ body.book-long-page::after {
 .long-book-content .book-title-heading,
 .long-book-content .book-title-heading,
 .long-book-content .book-title-heading,
+.long-book-content .book-title-heading,
 .long-book-content h1,
 .long-book-content h2,
 .long-book-content h3 {
@@ -2716,6 +2717,7 @@ body.book-long-page::after {
   line-height: 1.24;
 }
 
+.long-book-content .book-title-heading,
 .long-book-content .book-title-heading,
 .long-book-content .book-title-heading,
 .long-book-content .book-title-heading,
