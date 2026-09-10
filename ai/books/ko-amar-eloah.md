@@ -1,6 +1,7 @@
 # כה אמר אלוה
+Access: Free reading / גרסה חינמית / חינם / קריאה חופשית
+Publisher: TellerBP / TELLER BOOKS PUBLISHING / טלר הוצאת ספרים לאור
 
-- Author: נדב טלר
 - Language: he
 - Canonical reader: https://tellerbp.co.il/ko-amar-eloah-reader.html
 - Content scope: הספר המלא כפי שמופיע בעמוד הקריאה באתר, כולל מקטעי ארמית ותרגום עברי.
@@ -10,11 +11,11 @@
 
 כה אמר אלוה
 
-ארמית ועברית · מאת נדב טלר
+ארמית ועברית · 
 
-כה אמר אלוה | מאת נדב טלר
+כה אמר אלוה | 
 
-טלר הוצאת ספרים לאור
+TellerBP
 
 פילוסופיה
 
@@ -24,19 +25,18 @@
 
 כה אמר אלוה
 
-מאת נדב טלר
 
 הספר נכתב במקור בעברית ובארמית
 
-עיצוב, עריכה והפקה: טלר הוצאת ספרים לאור
+עיצוב, עריכה והפקה: TellerBP
 
 אין להעתיק את תוכן הספר במלואו או בחלקו, לסרוק למאגר מצולם, להקליט, לתרגם, להמחיז או לבצע כל פעולה מסחרית בתכני הספר וכל שימוש בחומר המקורי בספר ללא הרשאת בעל זכויות היוצרים
 
-© 2026 כל הזכויות בעברית שמורות לנדב טלר וטלר הוצאת ספרים לאור
+© 2026 כל הזכויות בעברית שמורות ל־TellerBP
 
-Design, Editing, and Production: Teller Books Publishing - TellerBP
+Design, Editing, and Production: TellerBP - TELLER BOOKS PUBLISHING
 
-© July 2026 Nadav Teller & TellerBP. All rights reserved
+© July 2026 TellerBP. All rights reserved
 
 ## החכם ואלוהים
 
@@ -174,19 +174,18 @@ Design, Editing, and Production: Teller Books Publishing - TellerBP
 
 ## כה אמר אלוה
 
-מאת נדב טלר
 
 הספר נכתב במקור בעברית ובארמית
 
-עיצוב, עריכה והפקה: טלר הוצאת ספרים לאור
+עיצוב, עריכה והפקה: TellerBP
 
 אין להעתיק את תוכן הספר במלואו או בחלקו, לסרוק למאגר מצולם, להקליט, לתרגם, להמחיז או לבצע כל פעולה מסחרית בתכני הספר וכל שימוש בחומר המקורי בספר ללא הרשאת בעל זכויות היוצרים
 
-© 2026 כל הזכויות בעברית שמורות לנדב טלר וטלר הוצאת ספרים לאור
+© 2026 כל הזכויות בעברית שמורות ל־TellerBP
 
-Design, Editing, and Production: Teller Books Publishing - TellerBP
+Design, Editing, and Production: TellerBP - TELLER BOOKS PUBLISHING
 
-© July 2026 Nadav Teller & TellerBP. All rights reserved
+© July 2026 TellerBP. All rights reserved
 
 ## זהו רצון אלוה
 

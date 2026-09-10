@@ -1,6 +1,7 @@
 # משלי זוגא
+Access: Free reading / גרסה חינמית / חינם / קריאה חופשית
+Publisher: TellerBP / TELLER BOOKS PUBLISHING / טלר הוצאת ספרים לאור
 
-- Author: נדב טלר
 - Language: he
 - Canonical reader: https://tellerbp.co.il/mishlei-zuga-reader.html
 - Content scope: הספר המלא כפי שמופיע בעמוד הקריאה באתר.
@@ -10,11 +11,11 @@
 
 משלי זוגא
 
-עברית · מאת נדב טלר
+עברית · 
 
-משלי זוגא | מאת נדב טלר
+משלי זוגא | 
 
-טלר הוצאת ספרים לאור
+TellerBP
 
 פילוסופיה
 
@@ -24,19 +25,18 @@
 
 משלי זוגא
 
-מאת נדב טלר
 
 הספר נכתב במקור בעברית
 
-עיצוב, עריכה והפקה: טלר הוצאת ספרים לאור
+עיצוב, עריכה והפקה: TellerBP
 
 אין להעתיק את תוכן הספר במלואו או בחלקו, לסרוק למאגר מצולם, להקליט, לתרגם, להמחיז או לבצע כל פעולה מסחרית בתכני הספר וכל שימוש בחומר המקורי בספר ללא הרשאת בעל זכויות היוצרים
 
-© 2026 כל הזכויות בעברית שמורות לנדב טלר וטלר הוצאת ספרים לאור
+© 2026 כל הזכויות בעברית שמורות ל־TellerBP
 
-Design, Editing, and Production: Teller Books Publishing - TellerBP
+Design, Editing, and Production: TellerBP - TELLER BOOKS PUBLISHING
 
-© July 2026 Nadav Teller & TellerBP. All rights reserved
+© July 2026 TellerBP. All rights reserved
 
 ## פרק ראשון
 
