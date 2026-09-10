@@ -1,6 +1,6 @@
 # TellerBP
 
-TellerBP is the minimal bilingual website for Teller Books Publishing, the publishing home for books by Nadav Teller.
+TellerBP is the minimal bilingual website for TellerBP, the publishing home for books .
 
 Production domain: https://tellerbp.co.il/
 
@@ -28,7 +28,7 @@ The site is intentionally quiet, simple, and book-focused. It includes a Hebrew 
 
 ## Search and AI
 
-The site includes structured metadata for books, publishing, spiritual literature, Jewish literature, philosophy books, political science books, redemption themes, civilization theory, Tao books, and the author Nadav Teller.
+The site includes structured metadata for books, publishing, spiritual literature, Jewish literature, philosophy books, political science books, redemption themes, civilization theory, Tao books, and the author המחבר.
 
 The AI and search files are intended to help search engines, language models, and agents understand the site accurately while keeping the public pages minimal.
 

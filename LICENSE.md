@@ -1,6 +1,6 @@
 # License
 
-Copyright (c) 2026 Nadav Teller / TellerBP - Teller Books Publishing.
+Copyright (c) 2026 TellerBP - Teller Books Publishing.
 
 All rights reserved.
 

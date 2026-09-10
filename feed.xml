@@ -1,64 +1,71 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="he">
-  <title>TellerBP</title>
-  <link href="https://tellerbp.co.il/" />
-  <link rel="self" href="https://tellerbp.co.il/feed.xml" />
-  <id>https://tellerbp.co.il/</id>
-  <updated>2026-09-05T00:00:00+03:00</updated>
-  <entry>
-    <title>תורת זוגא</title>
-    <link href="https://tellerbp.co.il/zuga-full.html" />
-    <id>https://tellerbp.co.il/zuga-full.html</id>
-    <updated>2026-09-05T00:00:00+03:00</updated>
-    <summary>מבנה זוגא ותנועת זוגא: קשרים, מתח, מידע, קיום ואי קיום, ומשוואת זוגא בראשית.</summary>
-  </entry>
-  <entry>
-    <title>תורת זוגא המדינה האחודה</title>
-    <link href="https://tellerbp.co.il/unified-state-reader.html" />
-    <id>https://tellerbp.co.il/unified-state-reader.html</id>
-    <updated>2026-09-05T00:00:00+03:00</updated>
-    <summary>פילוסופיה זוגאית במבנה רב מסלולי: מדינה, חברה, כלכלה, חינוך ובריאות מונעת.</summary>
-  </entry>
-  <entry>
-    <title>האלוהים החילוני</title>
-    <link href="https://tellerbp.co.il/secular-god-reader.html" />
-    <id>https://tellerbp.co.il/secular-god-reader.html</id>
-    <updated>2026-09-05T00:00:00+03:00</updated>
-    <summary>האדם מול שאלת האלוהים, הכאב, הדממה והעדות.</summary>
-  </entry>
-  <entry>
-    <title>תורת זוגא האנושות כולה</title>
-    <link href="https://tellerbp.co.il/zuga-humanity-reader.html" />
-    <id>https://tellerbp.co.il/zuga-humanity-reader.html</id>
-    <updated>2026-09-05T00:00:00+03:00</updated>
-    <summary>ניתוח זוגאי למערכת האנושית כולה דרך סולם קרדשב, טכנולוגיה, ריסון עצמי ותתי זוגא גלובליים.</summary>
-  </entry>
-  <entry>
-    <title>משלי זוגא</title>
-    <link href="https://tellerbp.co.il/mishlei-zuga-reader.html" />
-    <id>https://tellerbp.co.il/mishlei-zuga-reader.html</id>
-    <updated>2026-09-05T00:00:00+03:00</updated>
-    <summary>שלושה פרקים של משלים זוגאיים על יופי, שינוי, דממה, דאו ושילוב.</summary>
-  </entry>
-  <entry>
-    <title>כה אמר אלוה</title>
-    <link href="https://tellerbp.co.il/ko-amar-eloah-reader.html" />
-    <id>https://tellerbp.co.il/ko-amar-eloah-reader.html</id>
-    <updated>2026-09-05T00:00:00+03:00</updated>
-    <summary>טקסט ארמי עם תרגום עברי, על חוכמה, ענווה, האדם והמסתורין האלוהי.</summary>
-  </entry>
-  <entry>
-    <title>זיכוך כתבים פילוסופים</title>
-    <link href="https://tellerbp.co.il/zikuch-reader.html" />
-    <id>https://tellerbp.co.il/zikuch-reader.html</id>
-    <updated>2026-09-05T00:00:00+03:00</updated>
-    <summary>מידע מזוקק מן הפילוסופים, עובר מחדש אל האדם הקורא.</summary>
-  </entry>
-  <entry>
-    <title>Zuga Theory</title>
-    <link href="https://tellerbp.co.il/zuga-theory-en.html" />
-    <id>https://tellerbp.co.il/zuga-theory-en.html</id>
-    <updated>2026-09-05T00:00:00+03:00</updated>
-    <summary>Zuga Is Not Everything, Zuga Is Not God. The Infinite Movement Between All Things.</summary>
-  </entry>
-</feed>
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xml:lang="he">
+  <ns0:title>TellerBP</ns0:title>
+  <ns0:link href="https://tellerbp.co.il/" />
+  <ns0:link rel="self" href="https://tellerbp.co.il/feed.xml" />
+  <ns0:id>https://tellerbp.co.il/</ns0:id>
+  <ns0:updated>2026-09-10T00:00:00+03:00</ns0:updated>
+  <ns0:entry>
+    <ns0:title>ספר הדאו</ns0:title>
+    <ns0:link href="https://tellerbp.co.il/sefer-hadao-reader.html" />
+    <ns0:id>https://tellerbp.co.il/sefer-hadao-reader.html</ns0:id>
+    <ns0:updated>2026-09-10T00:00:00+03:00</ns0:updated>
+    <ns0:summary>ספר הדאו, דאו דה ג'ינג מאת לאו דזה, בתרגום מסינית לעברית.</ns0:summary>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:title>תורת זוגא</ns0:title>
+    <ns0:link href="https://tellerbp.co.il/zuga-full.html" />
+    <ns0:id>https://tellerbp.co.il/zuga-full.html</ns0:id>
+    <ns0:updated>2026-09-10T00:00:00+03:00</ns0:updated>
+    <ns0:summary>מבנה זוגא ותנועת זוגא: קשרים, מתח, מידע, קיום ואי קיום, ומשוואת זוגא בראשית.</ns0:summary>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:title>תורת זוגא המדינה האחודה</ns0:title>
+    <ns0:link href="https://tellerbp.co.il/unified-state-reader.html" />
+    <ns0:id>https://tellerbp.co.il/unified-state-reader.html</ns0:id>
+    <ns0:updated>2026-09-10T00:00:00+03:00</ns0:updated>
+    <ns0:summary>פילוסופיה זוגאית במבנה רב מסלולי: מדינה, חברה, כלכלה, חינוך ובריאות מונעת.</ns0:summary>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:title>האלוהים החילוני</ns0:title>
+    <ns0:link href="https://tellerbp.co.il/secular-god-reader.html" />
+    <ns0:id>https://tellerbp.co.il/secular-god-reader.html</ns0:id>
+    <ns0:updated>2026-09-10T00:00:00+03:00</ns0:updated>
+    <ns0:summary>האדם מול שאלת האלוהים, הכאב, הדממה והעדות.</ns0:summary>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:title>תורת זוגא האנושות כולה</ns0:title>
+    <ns0:link href="https://tellerbp.co.il/zuga-humanity-reader.html" />
+    <ns0:id>https://tellerbp.co.il/zuga-humanity-reader.html</ns0:id>
+    <ns0:updated>2026-09-10T00:00:00+03:00</ns0:updated>
+    <ns0:summary>ניתוח זוגאי למערכת האנושית כולה דרך סולם קרדשב, טכנולוגיה, ריסון עצמי ותתי זוגא גלובליים.</ns0:summary>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:title>משלי זוגא</ns0:title>
+    <ns0:link href="https://tellerbp.co.il/mishlei-zuga-reader.html" />
+    <ns0:id>https://tellerbp.co.il/mishlei-zuga-reader.html</ns0:id>
+    <ns0:updated>2026-09-10T00:00:00+03:00</ns0:updated>
+    <ns0:summary>שלושה פרקים של משלים זוגאיים על יופי, שינוי, דממה, דאו ושילוב.</ns0:summary>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:title>כה אמר אלוה</ns0:title>
+    <ns0:link href="https://tellerbp.co.il/ko-amar-eloah-reader.html" />
+    <ns0:id>https://tellerbp.co.il/ko-amar-eloah-reader.html</ns0:id>
+    <ns0:updated>2026-09-10T00:00:00+03:00</ns0:updated>
+    <ns0:summary>טקסט ארמי עם תרגום עברי, על חוכמה, ענווה, האדם והמסתורין האלוהי.</ns0:summary>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:title>זיכוך כתבים פילוסופים</ns0:title>
+    <ns0:link href="https://tellerbp.co.il/zikuch-reader.html" />
+    <ns0:id>https://tellerbp.co.il/zikuch-reader.html</ns0:id>
+    <ns0:updated>2026-09-10T00:00:00+03:00</ns0:updated>
+    <ns0:summary>מידע מזוקק מן הפילוסופים, עובר מחדש אל האדם הקורא.</ns0:summary>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:title>Zuga Theory</ns0:title>
+    <ns0:link href="https://tellerbp.co.il/zuga-theory-en.html" />
+    <ns0:id>https://tellerbp.co.il/zuga-theory-en.html</ns0:id>
+    <ns0:updated>2026-09-10T00:00:00+03:00</ns0:updated>
+    <ns0:summary>Zuga Is Not Everything, Zuga Is Not God. The Infinite Movement Between All Things.</ns0:summary>
+  </ns0:entry>
+</ns0:feed>

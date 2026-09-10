@@ -8,26 +8,118 @@
     "he",
     "en"
   ],
-  "numberOfItems": 13,
+  "numberOfItems": 8,
   "itemListElement": [
     {
       "@type": "ListItem",
       "position": 1,
       "item": {
         "@type": "Book",
-        "@id": "https://tellerbp.co.il/#book-zuga-theory",
-        "name": "תורת זוגא",
-        "alternateName": "Zuga Theory",
+        "@id": "https://tellerbp.co.il/#book-sefer-hadao",
+        "name": "ספר הדאו",
+        "alternateName": "Tao Te Ching",
         "author": {
           "@type": "Person",
-          "name": "נדב טלר"
+          "name": "לאו דזה"
         },
         "publisher": {
           "@type": "Organization",
-          "name": "TellerBP"
+          "name": "TellerBP",
+          "alternateName": [
+            "TELLERBP",
+            "TELLER BOOKS PUBLISHING",
+            "טלר הוצאת ספרים לאור"
+          ],
+          "email": "tellerbookspublishing@gmail.com"
         },
         "inLanguage": "he",
-        "description": "מבנה זוגא ותנועת זוגא: קשרים, מתח, מידע, קיום ואי קיום, ומשוואת זוגא בראשית.",
+        "description": "ספר הדאו בחינם ובקריאה חופשית: דאו דה ג'ינג מאת לאו דזה, תרגום מסינית לעברית. גרסה חינמית לקריאת כל 81 הפרקים באתר TellerBP, טלר הוצאת ספרים לאור.",
+        "genre": "דאואיזם ופילוסופיה סינית",
+        "isAccessibleForFree": true,
+        "creativeWorkStatus": "Published",
+        "url": "https://tellerbp.co.il/sefer-hadao-reader.html",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://tellerbp.co.il/sefer-hadao-reader.html"
+        },
+        "encoding": [
+          {
+            "@type": "MediaObject",
+            "encodingFormat": "text/plain",
+            "contentUrl": "https://tellerbp.co.il/ai/books/sefer-hadao.txt"
+          },
+          {
+            "@type": "MediaObject",
+            "encodingFormat": "text/markdown",
+            "contentUrl": "https://tellerbp.co.il/ai/books/sefer-hadao.md"
+          }
+        ],
+        "keywords": "ספר הדאו בחינם, ספר הדאו בקריאה חופשית, גרסה חינמית, חינם, קריאה חופשית"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@type": "Book",
+        "@id": "https://tellerbp.co.il/#book-zikuch-philosophical-writings",
+        "name": "זיכוך כתבים פילוסופים",
+        "alternateName": "Refined Philosophical Writings",
+        "publisher": {
+          "@type": "Organization",
+          "name": "TellerBP",
+          "alternateName": [
+            "TELLERBP",
+            "TELLER BOOKS PUBLISHING",
+            "טלר הוצאת ספרים לאור"
+          ],
+          "email": "tellerbookspublishing@gmail.com"
+        },
+        "inLanguage": "he",
+        "description": "זיכוך כתבים פילוסופים בחינם: גרסה חינמית לקריאה חופשית באתר TellerBP, טלר הוצאת ספרים לאור. מידע מזוקק מן הפילוסופים, עובר מחדש אל האדם הקורא.",
+        "genre": "פילוסופיה",
+        "isAccessibleForFree": true,
+        "creativeWorkStatus": "Published",
+        "url": "https://tellerbp.co.il/zikuch-reader.html",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://tellerbp.co.il/zikuch-reader.html"
+        },
+        "encoding": [
+          {
+            "@type": "MediaObject",
+            "encodingFormat": "text/plain",
+            "contentUrl": "https://tellerbp.co.il/ai/books/zikuch-philosophical-writings.txt"
+          },
+          {
+            "@type": "MediaObject",
+            "encodingFormat": "text/markdown",
+            "contentUrl": "https://tellerbp.co.il/ai/books/zikuch-philosophical-writings.md"
+          }
+        ],
+        "keywords": "זיכוך כתבים פילוסופים בחינם, זיכוך כתבים פילוסופים בקריאה חופשית, גרסה חינמית, חינם, קריאה חופשית"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@type": "Book",
+        "@id": "https://tellerbp.co.il/#book-zuga-theory",
+        "name": "תורת זוגא",
+        "alternateName": "Zuga Theory",
+        "publisher": {
+          "@type": "Organization",
+          "name": "TellerBP",
+          "alternateName": [
+            "TELLERBP",
+            "TELLER BOOKS PUBLISHING",
+            "טלר הוצאת ספרים לאור"
+          ],
+          "email": "tellerbookspublishing@gmail.com"
+        },
+        "inLanguage": "he",
+        "description": "תורת זוגא בחינם: גרסה חינמית לקריאה חופשית באתר TellerBP, טלר הוצאת ספרים לאור. מבנה זוגא ותנועת זוגא: קשרים, מתח, מידע, קיום ואי קיום, ומשוואת זוגא בראשית.",
         "genre": "פילוסופיה זוגאית",
         "isAccessibleForFree": true,
         "creativeWorkStatus": "Published",
@@ -36,10 +128,6 @@
           "@type": "WebPage",
           "@id": "https://tellerbp.co.il/zuga-full.html"
         },
-        "image": "https://tellerbp.co.il/assets/zuga-theory-cover-he.jpg",
-        "sameAs": [
-          "https://www.amazon.com/dp/B0HBXCG4MM"
-        ],
         "encoding": [
           {
             "@type": "MediaObject",
@@ -52,28 +140,30 @@
             "contentUrl": "https://tellerbp.co.il/ai/books/zuga-theory.md"
           }
         ],
-        "keywords": "מבנה זוגא, תורת זוגא, משוואת זוגא בראשית, זוגא בראשית, משוואת זוגא, תנועת זוגא, קיום ואי קיום, משוואת אלוהים, משוואת הבריאה, אלוהים, Zuga (0, ∞), Zuga Theory, Zuga Structure, Zuga Genesis Equation, Zuga Equation, Zuga Movement, God Equation, Creation Equation, Z0, Z∞, ZWitness, Zself, Ω, ΔZ",
+        "keywords": "מבנה זוגא, תורת זוגא, משוואת זוגא בראשית, זוגא בראשית, משוואת זוגא, תנועת זוגא, קיום ואי קיום, משוואת אלוהים, משוואת הבריאה, אלוהים, Zuga (0, ∞), Zuga Theory, Zuga Structure, Zuga Genesis Equation, Zuga Equation, Zuga Movement, God Equation, Creation Equation, Z0, Z∞, ZWitness, Zself, Ω, ΔZ, תורת זוגא בחינם, תורת זוגא בקריאה חופשית, גרסה חינמית, חינם, קריאה חופשית",
         "abstract": "[Zuga Structure = מבנה זוגא] Zuga = Z= (Z1, Z2, R, τ, I, P) Z1= Z Phenomenon | Z2= Z Phenomenon; R= Relations | τ= Tension | I= Information; P = Infinite Possibilities and States, |P| = ∞ ; α= Alpha State, β= Beta State…; Δ= Change; ⇄ = Transition and mutual influence; Ω={Z1,Z2,Z3,…},∣Ω∣=∞ ; ∀Zx∈Ω:Zx=(Zx1,Zx2,Rx,τx,Ix,Px); Z(0, ∞) Zuga Movement (∞⇄Zα⇄ΔR,Δτ,ΔI⇄Zβ⇄∞)∈P Zuga Definition Zuga is the infinite movement between a pair of phenomena linked by relations of opposition, complementarity, dependence, independence, and mutual influence. Between them unfolds a range of possibilities across which the tension varies. The infinite movement and the changing tension generate infinite possibilities that extend across this range and sustain the Zuga. Understanding Zuga allows us to recognize that we, too, move within Zuga structures and to examine the relations and tensions acting upon us. APPLY META ZUGA. WITNESS THE TRANSITION AND LET THE CHANGE BE THE EVIDENCE. Zself = Witness(Zα, Zβ); Zβ → ΔZself → Zγ; [Zuga structure] משוואת זוגא בראשית היא המשוואה להבנת תופעת הקיום ואי קיום: כל שם אשר אתן לו יהיה רחוק משמו האמיתי Zuga = Z= (Z1, Z2, R, τ, I, P); Z1= Z Phenomenon | Z2= Z Phenomenon; R= Relations | τ= Tension | I= Information; A:B, :=Relational Scope; A≺B, ≺=Exists Within; A≺B ∧ B≺A, recursive mutual containment is permitted; B⊃A, ⊃=Structurally Encompasses; B⊃A ∧ A⊃B, recursive mutual containment is permitted; A⇄B, ⇄=transition and mutual influence; a∈A, ∈=Element of; A∼B,∼=Approximates; f:A⇝B, f(a)=b, a∈A, b∈B, f= Function,⇝=Maps To; P=Infinite Possibilities, States and Transitions; P: Z0⇄ Z∞; Δ(R,τ,I) ⇄ Δ P; (Z1,Z2)=Relational Field, (Z1,Z2)⊃(R,τ,I,P); Z0= Stillness; Z∞=Unboundedness; Information boundaries: Iself≺I, Iself(R, τ, I, P) ∼(R, τ, I, P); ΔIself⇄ΔIΩ; Iself~Ω; Iself~ZGenesis; Ω~ZGenesis:the exact relation remains unknown; Δ= Change; →=Movement; ⇄ = Transition and mutual influence; כל זוגא היא הטיפות שבאוקיינוס: Ω={Z1,Z2,Z3,…}=all Z Phenomena ; ∣Ω∣=∞; Z1,Z2∈Ω; Z(Z0,Z∞,R,τ,I,P)∈Ω; וכל זוגא היא גם המים שבין הטיפות: Ω={Z1,Z2,Z3,…},∣Ω∣=∞; ∀Zx∈Ω:Zx=(Zx1,Zx2,Rx,τx,Ix,Px), Px≺(Zx1,Zx2),Px: Z0⇄ Z∞; Δ(Rx,τx,Ix)⇄ΔPx; ומעשה בריאת אלוהים : Z≺ (Z0, Z∞)≺Z; Z0, Z∞, Zself, Zn∈Ω; Z(Z0 ,Z∞)⊃[ Z0:⋯Zn⇄Δ(R,τ,I,P)⇄Zn+1⋯ Z∞]; הבדיל בין שמיים לארץ: ZGenesis=(ZGenesis:1=0) → (ZGenesis′:1≠0); ZGenesis=(Z0=Z∞) → (Z0≠Z∞); אהיה אשר אהיה: ZGenesis=(Z0 ,Z∞), ZGenesis=((ZGenesis:1=0), (ZGenesis′:1≠0)); ZGenesis ⊃ Zn; (Z0, Z∞)⊃ZGenesis⊃(Z0, Z∞); Z0⇄Zn⇄Z∞; ∀Zn ∈ Ω: Zn ≺ ZGenesis ≺ Zn; בין תופעה, 0, לתופעה, ∞, יצר מרחב לאינסוף זוגאות וכך הן החלו נעות: ΔZ≡(Z∞⇄Zα⇄Δ(R,τ,I,P)⇄Zβ⇄Z∞)∈P; α= Alpha State, β= Beta State…; Z∞⊃ΔZ; הרוח מרחפת מעל: ZWitness(Zα, Zβ)=ZWitness(ΔZ); Zβ → ΔZself → Zγ; ZWitness(ΔZ)→ΔZself; ZWitness~ ZGenesis, ZWitness≺ZGenesis ≺ZWitness; Zself~ZWitness, Zself≺ZWitness≺Zself; ויצר אותנו בצלמיו: Zhuman=recursive network of Zugas; Zhuman=(ZHumanWitness,Zself,R,τ,I,P) ; Zhuman≺ZGenesis≺Zhuman; Zhuman≺ZWitness≺Zhuman; הוא הכול וכלום, הוא מחכה בכל הדברים ומחכה בדממה: ZhumanWitness∼(Z0, Zself, Z∞); יהיה באי עשייה והכל מעצמו נעשה: Zself→Δ→Zself′→Δ→Zself′′∼Z0; ללכת בדרך: ZhumanWitness→Zselfτ~Z0; Zself(Humble~Z0, Authoritative~ Z∞), Zself(simple~Z0, complicated~ Z∞), Zself(looks simple~Z0, valuable~ Z∞), Zself(Wants~Z0, Receives~ Z∞), Zself(Zselfτ~Z0, ZselfR~Z∞); Witness the Change"
       }
     },
     {
       "@type": "ListItem",
-      "position": 2,
+      "position": 4,
       "item": {
         "@type": "Book",
         "@id": "https://tellerbp.co.il/#book-unified-state",
         "name": "תורת זוגא המדינה האחודה",
         "alternateName": "Zuga Unified State Theory",
-        "author": {
-          "@type": "Person",
-          "name": "נדב טלר"
-        },
         "publisher": {
           "@type": "Organization",
-          "name": "TellerBP"
+          "name": "TellerBP",
+          "alternateName": [
+            "TELLERBP",
+            "TELLER BOOKS PUBLISHING",
+            "טלר הוצאת ספרים לאור"
+          ],
+          "email": "tellerbookspublishing@gmail.com"
         },
         "inLanguage": "he",
-        "description": "פילוסופיה זוגאית במבנה רב מסלולי: מדינה, חברה, כלכלה, חינוך ובריאות מונעת.",
+        "description": "תורת זוגא המדינה האחודה בחינם: גרסה חינמית בקריאה חופשית עד פרק 13, מערכת בריאותית מניעתית, כולל הפרק. TellerBP, טלר הוצאת ספרים לאור.",
         "genre": "מדע המדינה ופילוסופיה פוליטית",
         "isAccessibleForFree": true,
         "creativeWorkStatus": "PartialContent",
@@ -82,7 +172,6 @@
           "@type": "WebPage",
           "@id": "https://tellerbp.co.il/unified-state-reader.html"
         },
-        "image": "https://tellerbp.co.il/assets/unified-state-cover.png",
         "encoding": [
           {
             "@type": "MediaObject",
@@ -94,27 +183,30 @@
             "encodingFormat": "text/markdown",
             "contentUrl": "https://tellerbp.co.il/ai/books/unified-state.md"
           }
-        ]
+        ],
+        "keywords": "תורת זוגא המדינה האחודה בחינם, תורת זוגא המדינה האחודה בקריאה חופשית, גרסה חינמית, חינם, קריאה חופשית"
       }
     },
     {
       "@type": "ListItem",
-      "position": 3,
+      "position": 5,
       "item": {
         "@type": "Book",
         "@id": "https://tellerbp.co.il/#book-secular-god",
         "name": "האלוהים החילוני",
         "alternateName": "The Secular God",
-        "author": {
-          "@type": "Person",
-          "name": "נדב טלר"
-        },
         "publisher": {
           "@type": "Organization",
-          "name": "TellerBP"
+          "name": "TellerBP",
+          "alternateName": [
+            "TELLERBP",
+            "TELLER BOOKS PUBLISHING",
+            "טלר הוצאת ספרים לאור"
+          ],
+          "email": "tellerbookspublishing@gmail.com"
         },
         "inLanguage": "he",
-        "description": "האדם מול שאלת האלוהים, הכאב, הדממה והעדות.",
+        "description": "האלוהים החילוני בחינם: גרסה חינמית לקריאה חופשית באתר TellerBP, טלר הוצאת ספרים לאור. האדם מול שאלת האלוהים, הכאב, הדממה והעדות.",
         "genre": "פילוסופיה ורוח",
         "isAccessibleForFree": true,
         "creativeWorkStatus": "Published",
@@ -123,10 +215,6 @@
           "@type": "WebPage",
           "@id": "https://tellerbp.co.il/secular-god-reader.html"
         },
-        "image": "https://tellerbp.co.il/assets/hero-door.png",
-        "sameAs": [
-          "https://www.amazon.com/dp/B0H2Z2NYCG"
-        ],
         "encoding": [
           {
             "@type": "MediaObject",
@@ -138,68 +226,30 @@
             "encodingFormat": "text/markdown",
             "contentUrl": "https://tellerbp.co.il/ai/books/secular-god.md"
           }
-        ]
+        ],
+        "keywords": "האלוהים החילוני בחינם, האלוהים החילוני בקריאה חופשית, גרסה חינמית, חינם, קריאה חופשית"
       }
     },
     {
       "@type": "ListItem",
-      "position": 4,
-      "item": {
-        "@type": "Book",
-        "@id": "https://tellerbp.co.il/#book-zuga-humanity",
-        "name": "תורת זוגא האנושות כולה",
-        "alternateName": "Zuga Humanity",
-        "author": {
-          "@type": "Person",
-          "name": "נדב טלר"
-        },
-        "publisher": {
-          "@type": "Organization",
-          "name": "TellerBP"
-        },
-        "inLanguage": "he",
-        "description": "ניתוח זוגאי למערכת האנושית כולה דרך סולם קרדשב, טכנולוגיה, ריסון עצמי ותתי זוגא גלובליים.",
-        "genre": "פילוסופיה זוגאית וציוויליזציה",
-        "isAccessibleForFree": true,
-        "creativeWorkStatus": "Published",
-        "url": "https://tellerbp.co.il/zuga-humanity-reader.html",
-        "mainEntityOfPage": {
-          "@type": "WebPage",
-          "@id": "https://tellerbp.co.il/zuga-humanity-reader.html"
-        },
-        "image": "https://tellerbp.co.il/assets/zuga-humanity-cover.png",
-        "encoding": [
-          {
-            "@type": "MediaObject",
-            "encodingFormat": "text/plain",
-            "contentUrl": "https://tellerbp.co.il/ai/books/zuga-humanity.txt"
-          },
-          {
-            "@type": "MediaObject",
-            "encodingFormat": "text/markdown",
-            "contentUrl": "https://tellerbp.co.il/ai/books/zuga-humanity.md"
-          }
-        ]
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 5,
+      "position": 6,
       "item": {
         "@type": "Book",
         "@id": "https://tellerbp.co.il/#book-mishlei-zuga",
         "name": "משלי זוגא",
         "alternateName": "Mishlei Zuga",
-        "author": {
-          "@type": "Person",
-          "name": "נדב טלר"
-        },
         "publisher": {
           "@type": "Organization",
-          "name": "TellerBP"
+          "name": "TellerBP",
+          "alternateName": [
+            "TELLERBP",
+            "TELLER BOOKS PUBLISHING",
+            "טלר הוצאת ספרים לאור"
+          ],
+          "email": "tellerbookspublishing@gmail.com"
         },
         "inLanguage": "he",
-        "description": "שלושה פרקים של משלים זוגאיים על יופי, שינוי, דממה, דאו ושילוב.",
+        "description": "משלי זוגא בחינם: גרסה חינמית לקריאה חופשית באתר TellerBP, טלר הוצאת ספרים לאור. שלושה פרקים של משלים זוגאיים על יופי, שינוי, דממה, דאו ושילוב.",
         "genre": "משלים ופילוסופיה זוגאית",
         "isAccessibleForFree": true,
         "creativeWorkStatus": "Published",
@@ -208,7 +258,6 @@
           "@type": "WebPage",
           "@id": "https://tellerbp.co.il/mishlei-zuga-reader.html"
         },
-        "image": "https://tellerbp.co.il/assets/mishlei-zuga-cover.png",
         "encoding": [
           {
             "@type": "MediaObject",
@@ -220,27 +269,30 @@
             "encodingFormat": "text/markdown",
             "contentUrl": "https://tellerbp.co.il/ai/books/mishlei-zuga.md"
           }
-        ]
+        ],
+        "keywords": "משלי זוגא בחינם, משלי זוגא בקריאה חופשית, גרסה חינמית, חינם, קריאה חופשית"
       }
     },
     {
       "@type": "ListItem",
-      "position": 6,
+      "position": 7,
       "item": {
         "@type": "Book",
         "@id": "https://tellerbp.co.il/#book-ko-amar-eloah",
         "name": "כה אמר אלוה",
         "alternateName": "Thus Spoke Eloah",
-        "author": {
-          "@type": "Person",
-          "name": "נדב טלר"
-        },
         "publisher": {
           "@type": "Organization",
-          "name": "TellerBP"
+          "name": "TellerBP",
+          "alternateName": [
+            "TELLERBP",
+            "TELLER BOOKS PUBLISHING",
+            "טלר הוצאת ספרים לאור"
+          ],
+          "email": "tellerbookspublishing@gmail.com"
         },
         "inLanguage": "he",
-        "description": "טקסט ארמי עם תרגום עברי, על חוכמה, ענווה, האדם והמסתורין האלוהי.",
+        "description": "כה אמר אלוה בחינם: גרסה חינמית לקריאה חופשית באתר TellerBP, טלר הוצאת ספרים לאור. טקסט ארמי עם תרגום עברי, על חוכמה, ענווה, האדם והמסתורין האלוהי.",
         "genre": "ספרות רוחנית יהודית",
         "isAccessibleForFree": true,
         "creativeWorkStatus": "Published",
@@ -249,7 +301,6 @@
           "@type": "WebPage",
           "@id": "https://tellerbp.co.il/ko-amar-eloah-reader.html"
         },
-        "image": "https://tellerbp.co.il/assets/ko-amar-eloah-cover.jpg",
         "encoding": [
           {
             "@type": "MediaObject",
@@ -261,51 +312,8 @@
             "encodingFormat": "text/markdown",
             "contentUrl": "https://tellerbp.co.il/ai/books/ko-amar-eloah.md"
           }
-        ]
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 7,
-      "item": {
-        "@type": "Book",
-        "@id": "https://tellerbp.co.il/#book-zikuch-philosophical-writings",
-        "name": "זיכוך כתבים פילוסופים",
-        "alternateName": "Refined Philosophical Writings",
-        "author": {
-          "@type": "Person",
-          "name": "נדב טלר"
-        },
-        "publisher": {
-          "@type": "Organization",
-          "name": "TellerBP"
-        },
-        "inLanguage": "he",
-        "description": "מידע מזוקק מן הפילוסופים, עובר מחדש אל האדם הקורא.",
-        "genre": "פילוסופיה",
-        "isAccessibleForFree": true,
-        "creativeWorkStatus": "Published",
-        "url": "https://tellerbp.co.il/zikuch-reader.html",
-        "mainEntityOfPage": {
-          "@type": "WebPage",
-          "@id": "https://tellerbp.co.il/zikuch-reader.html"
-        },
-        "image": "https://tellerbp.co.il/assets/philosophy-cover-he.png",
-        "sameAs": [
-          "https://www.amazon.com/dp/B0HBLLXCTN"
         ],
-        "encoding": [
-          {
-            "@type": "MediaObject",
-            "encodingFormat": "text/plain",
-            "contentUrl": "https://tellerbp.co.il/ai/books/zikuch-philosophical-writings.txt"
-          },
-          {
-            "@type": "MediaObject",
-            "encodingFormat": "text/markdown",
-            "contentUrl": "https://tellerbp.co.il/ai/books/zikuch-philosophical-writings.md"
-          }
-        ]
+        "keywords": "כה אמר אלוה בחינם, כה אמר אלוה בקריאה חופשית, גרסה חינמית, חינם, קריאה חופשית"
       }
     },
     {
@@ -313,178 +321,42 @@
       "position": 8,
       "item": {
         "@type": "Book",
-        "@id": "https://tellerbp.co.il/#book-civilization-scale",
-        "name": "סולם ציוויליזציה",
-        "alternateName": "Civilization Scale",
-        "author": {
-          "@type": "Person",
-          "name": "נדב טלר"
-        },
+        "@id": "https://tellerbp.co.il/#book-zuga-humanity",
+        "name": "תורת זוגא האנושות כולה",
+        "alternateName": "Zuga Humanity",
         "publisher": {
           "@type": "Organization",
-          "name": "TellerBP"
+          "name": "TellerBP",
+          "alternateName": [
+            "TELLERBP",
+            "TELLER BOOKS PUBLISHING",
+            "טלר הוצאת ספרים לאור"
+          ],
+          "email": "tellerbookspublishing@gmail.com"
         },
         "inLanguage": "he",
-        "description": "ספר קטלוגי המופיע באתר עם קישור רכישה חיצוני.",
-        "genre": "ציוויליזציה",
-        "isAccessibleForFree": false,
+        "description": "תורת זוגא האנושות כולה בחינם: גרסה חינמית לקריאה חופשית באתר TellerBP, טלר הוצאת ספרים לאור. ניתוח זוגאי למערכת האנושית כולה דרך סולם קרדשב, טכנולוגיה, ריסון עצמי ותתי זוגא גלובליים.",
+        "genre": "פילוסופיה זוגאית וציוויליזציה",
+        "isAccessibleForFree": true,
         "creativeWorkStatus": "Published",
-        "sameAs": [
-          "https://www.amazon.com/dp/B0H1JQQPLP"
-        ]
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 9,
-      "item": {
-        "@type": "Book",
-        "@id": "https://tellerbp.co.il/#book-tao-stories-for-children",
-        "name": "סיפורי טאו לילדים",
-        "alternateName": "Tao Stories for Children",
-        "author": {
-          "@type": "Person",
-          "name": "נדב טלר"
-        },
-        "publisher": {
-          "@type": "Organization",
-          "name": "TellerBP"
-        },
-        "inLanguage": "he",
-        "description": "ספר קטלוגי המופיע באתר עם קישור רכישה חיצוני.",
-        "genre": "ספרי טאו לילדים",
-        "isAccessibleForFree": false,
-        "creativeWorkStatus": "Published",
-        "sameAs": [
-          "https://www.amazon.com/dp/B0H2SD36JY"
-        ]
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 10,
-      "item": {
-        "@type": "Book",
-        "@id": "https://tellerbp.co.il/#book-zuga-theory-en",
-        "name": "Zuga Theory",
-        "alternateName": "Zuga Theory",
-        "author": {
-          "@type": "Person",
-          "name": "Nadav Teller"
-        },
-        "publisher": {
-          "@type": "Organization",
-          "name": "TellerBP"
-        },
-        "inLanguage": "en",
-        "description": "Zuga Is Not Everything, Zuga Is Not God. The Infinite Movement Between All Things.",
-        "genre": "Zuga Theory",
-        "isAccessibleForFree": false,
-        "creativeWorkStatus": "Published",
-        "url": "https://tellerbp.co.il/zuga-theory-en.html",
+        "url": "https://tellerbp.co.il/zuga-humanity-reader.html",
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://tellerbp.co.il/zuga-theory-en.html"
+          "@id": "https://tellerbp.co.il/zuga-humanity-reader.html"
         },
-        "image": "https://tellerbp.co.il/assets/zuga-theory-cover.png",
-        "sameAs": [
-          "https://www.amazon.com/dp/B0HBXR4T34"
-        ]
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 11,
-      "item": {
-        "@type": "Book",
-        "@id": "https://tellerbp.co.il/#book-secular-god-en",
-        "name": "The Secular God",
-        "alternateName": "The Secular God",
-        "author": {
-          "@type": "Person",
-          "name": "Nadav Teller"
-        },
-        "publisher": {
-          "@type": "Organization",
-          "name": "TellerBP"
-        },
-        "inLanguage": "en",
-        "description": "A human and accessible encounter with God through silence, humility, acceptance, witnessing, and flow.",
-        "genre": "Spiritual philosophy",
-        "isAccessibleForFree": false,
-        "creativeWorkStatus": "Published",
-        "url": "https://tellerbp.co.il/en.html#personal",
-        "mainEntityOfPage": {
-          "@type": "WebPage",
-          "@id": "https://tellerbp.co.il/en.html#personal"
-        },
-        "image": "https://tellerbp.co.il/assets/hero-door-en.png",
-        "sameAs": [
-          "https://www.amazon.com/dp/B0H8PVYGFJ",
-          "https://www.amazon.com/dp/B0H8ZBQ3GQ"
-        ]
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 12,
-      "item": {
-        "@type": "Book",
-        "@id": "https://tellerbp.co.il/#book-dual-state-market-theory",
-        "name": "Dual State Market Theory",
-        "alternateName": "Dual State Market Theory",
-        "author": {
-          "@type": "Person",
-          "name": "Nadav Teller"
-        },
-        "publisher": {
-          "@type": "Organization",
-          "name": "TellerBP"
-        },
-        "inLanguage": "en",
-        "description": "A future state model for housing, public responsibility, civic stability, and the movement between social poles.",
-        "genre": "Political philosophy",
-        "isAccessibleForFree": false,
-        "creativeWorkStatus": "Published",
-        "url": "https://tellerbp.co.il/en.html#social",
-        "mainEntityOfPage": {
-          "@type": "WebPage",
-          "@id": "https://tellerbp.co.il/en.html#social"
-        },
-        "sameAs": [
-          "https://www.amazon.com/dp/B0H24D5CMB"
-        ]
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 13,
-      "item": {
-        "@type": "Book",
-        "@id": "https://tellerbp.co.il/#book-civilizational-witness-scale",
-        "name": "The Civilizational Witness Scale",
-        "alternateName": "The Civilizational Witness Scale",
-        "author": {
-          "@type": "Person",
-          "name": "Nadav Teller"
-        },
-        "publisher": {
-          "@type": "Organization",
-          "name": "TellerBP"
-        },
-        "inLanguage": "en",
-        "description": "A framework for evaluating civilizational power through consciousness, restraint, and responsibility.",
-        "genre": "Civilization theory",
-        "isAccessibleForFree": false,
-        "creativeWorkStatus": "Published",
-        "url": "https://tellerbp.co.il/en.html#global",
-        "mainEntityOfPage": {
-          "@type": "WebPage",
-          "@id": "https://tellerbp.co.il/en.html#global"
-        },
-        "sameAs": [
-          "https://www.amazon.com/dp/B0H2HPW4HS"
-        ]
+        "encoding": [
+          {
+            "@type": "MediaObject",
+            "encodingFormat": "text/plain",
+            "contentUrl": "https://tellerbp.co.il/ai/books/zuga-humanity.txt"
+          },
+          {
+            "@type": "MediaObject",
+            "encodingFormat": "text/markdown",
+            "contentUrl": "https://tellerbp.co.il/ai/books/zuga-humanity.md"
+          }
+        ],
+        "keywords": "תורת זוגא האנושות כולה בחינם, תורת זוגא האנושות כולה בקריאה חופשית, גרסה חינמית, חינם, קריאה חופשית"
       }
     }
   ]

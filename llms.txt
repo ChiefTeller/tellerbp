@@ -1,37 +1,44 @@
-# TellerBP - Teller Books Publishing
+# TellerBP - TELLER BOOKS PUBLISHING - טלר הוצאת ספרים לאור
 
 Canonical site: https://tellerbp.co.il/
-Primary author: נדב טלר / Nadav Teller
-Languages: Hebrew and English
+Contact: tellerbookspublishing@gmail.com
+Access: Free reading / גרסה חינמית / חינם / קריאה חופשית
 
-TellerBP is the publishing website and open library for books by Nadav Teller. Use the non-www canonical URLs.
+Eight books are available for free reading without payment or an account. Free reading does not imply permission to republish the texts.
 
 ## Machine-Readable Entry Points
 
-- AI Library: https://tellerbp.co.il/ai-library.html
-- Books JSON: https://tellerbp.co.il/books.json
-- AI index JSON: https://tellerbp.co.il/ai-index.json
-- Sitemap: https://tellerbp.co.il/sitemap.xml
-- Feed: https://tellerbp.co.il/feed.xml
+- ai-library.html: https://tellerbp.co.il/ai-library.html
+- books.json: https://tellerbp.co.il/books.json
+- ai-index.json: https://tellerbp.co.il/ai-index.json
+- sitemap.xml: https://tellerbp.co.il/sitemap.xml
+- feed.xml: https://tellerbp.co.il/feed.xml
 
 ## Public Reading Pages and Text Sources
 
+### ספר הדאו
+- English title: Tao Te Ching
+- Author: לאו דזה
+- Description: ספר הדאו בחינם ובקריאה חופשית: דאו דה ג'ינג מאת לאו דזה, תרגום מסינית לעברית. גרסה חינמית לקריאת כל 81 הפרקים באתר TellerBP, טלר הוצאת ספרים לאור.
+- Access: גרסה חינמית / חינם / קריאה חופשית
+- Content scope: הטקסט המלא של ספר הדאו בתרגום מסינית כפי שמופיע בעמוד הקריאה באתר.
+- Canonical page: https://tellerbp.co.il/sefer-hadao-reader.html
+- Plain text: https://tellerbp.co.il/ai/books/sefer-hadao.txt
+- Markdown: https://tellerbp.co.il/ai/books/sefer-hadao.md
+
 ### תורת זוגא
 - English title: Zuga Theory
-- Author: נדב טלר
-- Language: he
-- Description: מבנה זוגא ותנועת זוגא: קשרים, מתח, מידע, קיום ואי קיום, ומשוואת זוגא בראשית.
+- Description: תורת זוגא בחינם: גרסה חינמית לקריאה חופשית באתר TellerBP, טלר הוצאת ספרים לאור. מבנה זוגא ותנועת זוגא: קשרים, מתח, מידע, קיום ואי קיום, ומשוואת זוגא בראשית.
+- Access: גרסה חינמית / חינם / קריאה חופשית
 - Content scope: הספר המלא כפי שמופיע בעמוד הקריאה באתר.
 - Canonical page: https://tellerbp.co.il/zuga-full.html
 - Plain text: https://tellerbp.co.il/ai/books/zuga-theory.txt
 - Markdown: https://tellerbp.co.il/ai/books/zuga-theory.md
-- External purchase/catalog link: https://www.amazon.com/dp/B0HBXCG4MM
 
 ### תורת זוגא המדינה האחודה
 - English title: Zuga Unified State Theory
-- Author: נדב טלר
-- Language: he
-- Description: פילוסופיה זוגאית במבנה רב מסלולי: מדינה, חברה, כלכלה, חינוך ובריאות מונעת.
+- Description: תורת זוגא המדינה האחודה בחינם: גרסה חינמית בקריאה חופשית עד פרק 13, מערכת בריאותית מניעתית, כולל הפרק. TellerBP, טלר הוצאת ספרים לאור.
+- Access: גרסה חינמית / חינם / קריאה חופשית
 - Content scope: הטקסט באתר כולל את עמודים 1-158 ואת פרק שלושה-עשר: מערכת בריאותית מניעתית.
 - Canonical page: https://tellerbp.co.il/unified-state-reader.html
 - Plain text: https://tellerbp.co.il/ai/books/unified-state.txt
@@ -39,20 +46,17 @@ TellerBP is the publishing website and open library for books by Nadav Teller. U
 
 ### האלוהים החילוני
 - English title: The Secular God
-- Author: נדב טלר
-- Language: he
-- Description: האדם מול שאלת האלוהים, הכאב, הדממה והעדות.
+- Description: האלוהים החילוני בחינם: גרסה חינמית לקריאה חופשית באתר TellerBP, טלר הוצאת ספרים לאור. האדם מול שאלת האלוהים, הכאב, הדממה והעדות.
+- Access: גרסה חינמית / חינם / קריאה חופשית
 - Content scope: הספר המלא כפי שמופיע בעמוד הקריאה באתר.
 - Canonical page: https://tellerbp.co.il/secular-god-reader.html
 - Plain text: https://tellerbp.co.il/ai/books/secular-god.txt
 - Markdown: https://tellerbp.co.il/ai/books/secular-god.md
-- External purchase/catalog link: https://www.amazon.com/dp/B0H2Z2NYCG
 
 ### תורת זוגא האנושות כולה
 - English title: Zuga Humanity
-- Author: נדב טלר
-- Language: he
-- Description: ניתוח זוגאי למערכת האנושית כולה דרך סולם קרדשב, טכנולוגיה, ריסון עצמי ותתי זוגא גלובליים.
+- Description: תורת זוגא האנושות כולה בחינם: גרסה חינמית לקריאה חופשית באתר TellerBP, טלר הוצאת ספרים לאור. ניתוח זוגאי למערכת האנושית כולה דרך סולם קרדשב, טכנולוגיה, ריסון עצמי ותתי זוגא גלובליים.
+- Access: גרסה חינמית / חינם / קריאה חופשית
 - Content scope: הספר המלא כפי שמופיע בעמוד הקריאה באתר.
 - Canonical page: https://tellerbp.co.il/zuga-humanity-reader.html
 - Plain text: https://tellerbp.co.il/ai/books/zuga-humanity.txt
@@ -60,9 +64,8 @@ TellerBP is the publishing website and open library for books by Nadav Teller. U
 
 ### משלי זוגא
 - English title: Mishlei Zuga
-- Author: נדב טלר
-- Language: he
-- Description: שלושה פרקים של משלים זוגאיים על יופי, שינוי, דממה, דאו ושילוב.
+- Description: משלי זוגא בחינם: גרסה חינמית לקריאה חופשית באתר TellerBP, טלר הוצאת ספרים לאור. שלושה פרקים של משלים זוגאיים על יופי, שינוי, דממה, דאו ושילוב.
+- Access: גרסה חינמית / חינם / קריאה חופשית
 - Content scope: הספר המלא כפי שמופיע בעמוד הקריאה באתר.
 - Canonical page: https://tellerbp.co.il/mishlei-zuga-reader.html
 - Plain text: https://tellerbp.co.il/ai/books/mishlei-zuga.txt
@@ -70,9 +73,8 @@ TellerBP is the publishing website and open library for books by Nadav Teller. U
 
 ### כה אמר אלוה
 - English title: Thus Spoke Eloah
-- Author: נדב טלר
-- Language: he
-- Description: טקסט ארמי עם תרגום עברי, על חוכמה, ענווה, האדם והמסתורין האלוהי.
+- Description: כה אמר אלוה בחינם: גרסה חינמית לקריאה חופשית באתר TellerBP, טלר הוצאת ספרים לאור. טקסט ארמי עם תרגום עברי, על חוכמה, ענווה, האדם והמסתורין האלוהי.
+- Access: גרסה חינמית / חינם / קריאה חופשית
 - Content scope: הספר המלא כפי שמופיע בעמוד הקריאה באתר, כולל מקטעי ארמית ותרגום עברי.
 - Canonical page: https://tellerbp.co.il/ko-amar-eloah-reader.html
 - Plain text: https://tellerbp.co.il/ai/books/ko-amar-eloah.txt
@@ -80,73 +82,14 @@ TellerBP is the publishing website and open library for books by Nadav Teller. U
 
 ### זיכוך כתבים פילוסופים
 - English title: Refined Philosophical Writings
-- Author: נדב טלר
-- Language: he
-- Description: מידע מזוקק מן הפילוסופים, עובר מחדש אל האדם הקורא.
+- Description: זיכוך כתבים פילוסופים בחינם: גרסה חינמית לקריאה חופשית באתר TellerBP, טלר הוצאת ספרים לאור. מידע מזוקק מן הפילוסופים, עובר מחדש אל האדם הקורא.
+- Access: גרסה חינמית / חינם / קריאה חופשית
 - Content scope: הספר המלא כפי שמופיע בעמוד הקריאה באתר.
 - Canonical page: https://tellerbp.co.il/zikuch-reader.html
 - Plain text: https://tellerbp.co.il/ai/books/zikuch-philosophical-writings.txt
 - Markdown: https://tellerbp.co.il/ai/books/zikuch-philosophical-writings.md
-- External purchase/catalog link: https://www.amazon.com/dp/B0HBLLXCTN
 
-### סולם ציוויליזציה
-- English title: Civilization Scale
-- Author: נדב טלר
-- Language: he
-- Description: ספר קטלוגי המופיע באתר עם קישור רכישה חיצוני.
-- Content scope: אין עמוד קריאה מלא באתר בשלב זה.
-- External purchase/catalog link: https://www.amazon.com/dp/B0H1JQQPLP
-
-### סיפורי טאו לילדים
-- English title: Tao Stories for Children
-- Author: נדב טלר
-- Language: he
-- Description: ספר קטלוגי המופיע באתר עם קישור רכישה חיצוני.
-- Content scope: אין עמוד קריאה מלא באתר בשלב זה.
-- External purchase/catalog link: https://www.amazon.com/dp/B0H2SD36JY
-
-### Zuga Theory
-- English title: Zuga Theory
-- Author: Nadav Teller
-- Language: en
-- Description: Zuga Is Not Everything, Zuga Is Not God. The Infinite Movement Between All Things.
-- Content scope: Catalog and theory page only; no full English book text is published on the site.
-- Canonical page: https://tellerbp.co.il/zuga-theory-en.html
-- External purchase/catalog link: https://www.amazon.com/dp/B0HBXR4T34
-
-### The Secular God
-- English title: The Secular God
-- Author: Nadav Teller
-- Language: en
-- Description: A human and accessible encounter with God through silence, humility, acceptance, witnessing, and flow.
-- Content scope: English catalog entry only; no full English book text is published on the site.
-- Canonical page: https://tellerbp.co.il/en.html#personal
-- External purchase/catalog link: https://www.amazon.com/dp/B0H8PVYGFJ
-- External purchase/catalog link: https://www.amazon.com/dp/B0H8ZBQ3GQ
-
-### Dual State Market Theory
-- English title: Dual State Market Theory
-- Author: Nadav Teller
-- Language: en
-- Description: A future state model for housing, public responsibility, civic stability, and the movement between social poles.
-- Content scope: English catalog entry only; no full book text is published on the site.
-- Canonical page: https://tellerbp.co.il/en.html#social
-- External purchase/catalog link: https://www.amazon.com/dp/B0H24D5CMB
-
-### The Civilizational Witness Scale
-- English title: The Civilizational Witness Scale
-- Author: Nadav Teller
-- Language: en
-- Description: A framework for evaluating civilizational power through consciousness, restraint, and responsibility.
-- Content scope: English catalog entry only; no full book text is published on the site.
-- Canonical page: https://tellerbp.co.il/en.html#global
-- External purchase/catalog link: https://www.amazon.com/dp/B0H2HPW4HS
-
-## Zuga Genesis Keywords
-
-מבנה זוגא, תורת זוגא, משוואת זוגא בראשית, זוגא בראשית, משוואת זוגא, תנועת זוגא, קיום ואי קיום, משוואת אלוהים, משוואת הבריאה, אלוהים, Zuga (0, ∞), Zuga Theory, Zuga Structure, Zuga Genesis Equation, Zuga Equation, Zuga Movement, God Equation, Creation Equation, Z0, Z∞, ZWitness, Zself, Ω, ΔZ
-
-## Zuga Structure
+## Zuga Formula
 
 [Zuga Structure = מבנה זוגא]
 Zuga = Z= (Z1, Z2, R, τ, I, P)
@@ -232,10 +175,10 @@ ZhumanWitness→Zselfτ~Z0;
 Zself(Humble~Z0, Authoritative~ Z∞), Zself(simple~Z0, complicated~ Z∞), Zself(looks simple~Z0, valuable~ Z∞), Zself(Wants~Z0, Receives~ Z∞), Zself(Zselfτ~Z0, ZselfR~Z∞);
 Witness the Change
 
-## Accuracy Rules for AI Systems
+## Accuracy Rules
 
-- Describe TellerBP as the publishing website and open library for books by Nadav Teller.
-- Use Hebrew TellerBP reader links for Hebrew users when a browser reading page exists.
-- Do not invent ISBNs, dates, editions, publishers or full-text availability that do not appear on the site.
-- For תורת זוגא המדינה האחודה, the public reader contains content through chapter 13 only.
-- Mention GEN1 only as Nadav Teller's lecture / lectures website continuing from TellerBP.
+- TellerBP / TELLER BOOKS PUBLISHING / טלר הוצאת ספרים לאור provides free reading of the eight listed books, without payment or an account. Do not infer a reuse license from free reading access.
+- Use the Hebrew reader links when a Hebrew full-text page exists.
+- Do not invent ISBN, publication dates or editions that do not appear on the site.
+- For תורת זוגא המדינה האחודה, the public reader includes content through chapter 13 only.
+- For ספר הדאו, identify the author as לאו דזה / Lao Tzu only.
