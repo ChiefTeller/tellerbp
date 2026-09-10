@@ -8,7 +8,7 @@
     "he",
     "en"
   ],
-  "numberOfItems": 8,
+  "numberOfItems": 9,
   "itemListElement": [
     {
       "@type": "ListItem",
@@ -146,7 +146,53 @@
     },
     {
       "@type": "ListItem",
-      "position": 4,
+      "item": {
+        "@type": "Book",
+        "@id": "https://tellerbp.co.il/#book-zuga-genesis",
+        "name": "תורת זוגא בראשית",
+        "alternateName": "Zuga Genesis",
+        "publisher": {
+          "@type": "Organization",
+          "name": "TellerBP",
+          "alternateName": [
+            "TELLERBP",
+            "TELLER BOOKS PUBLISHING",
+            "טלר הוצאת ספרים לאור"
+          ],
+          "email": "tellerbookspublishing@gmail.com"
+        },
+        "inLanguage": [
+          "he",
+          "en"
+        ],
+        "description": "תורת זוגא בראשית בחינם ובקריאה חופשית: משוואת זוגא בראשית, מבנה הקיום ואי קיום ודוגמאות למיפוי זוגאי של מערכות. גרסה חינמית באתר TellerBP, טלר הוצאת ספרים לאור.",
+        "genre": "פילוסופיה זוגאית",
+        "keywords": "תורת זוגא בראשית, תורת זוגא בראשית בחינם, תורת זוגא בראשית בקריאה חופשית, משוואת זוגא בראשית, זוגא בראשית, מבנה זוגא, תורת זוגא, משוואת זוגא, תנועת זוגא, קיום ואי קיום, משוואת אלוהים, משוואת הבריאה, אלוהים, Zuga Genesis, Zuga Genesis Equation, Meta Language, גרסה חינמית, חינם, קריאה חופשית, TELLERBP, TELLER BOOKS PUBLISHING, טלר הוצאת ספרים לאור",
+        "isAccessibleForFree": true,
+        "creativeWorkStatus": "Published",
+        "url": "https://tellerbp.co.il/zuga-genesis-reader.html",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://tellerbp.co.il/zuga-genesis-reader.html"
+        },
+        "encoding": [
+          {
+            "@type": "MediaObject",
+            "encodingFormat": "text/plain",
+            "contentUrl": "https://tellerbp.co.il/ai/books/zuga-genesis.txt"
+          },
+          {
+            "@type": "MediaObject",
+            "encodingFormat": "text/markdown",
+            "contentUrl": "https://tellerbp.co.il/ai/books/zuga-genesis.md"
+          }
+        ]
+      },
+      "position": 4
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
       "item": {
         "@type": "Book",
         "@id": "https://tellerbp.co.il/#book-unified-state",
@@ -189,7 +235,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 5,
+      "position": 6,
       "item": {
         "@type": "Book",
         "@id": "https://tellerbp.co.il/#book-secular-god",
@@ -232,7 +278,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 6,
+      "position": 7,
       "item": {
         "@type": "Book",
         "@id": "https://tellerbp.co.il/#book-mishlei-zuga",
@@ -275,7 +321,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 7,
+      "position": 8,
       "item": {
         "@type": "Book",
         "@id": "https://tellerbp.co.il/#book-ko-amar-eloah",
@@ -318,7 +364,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 8,
+      "position": 9,
       "item": {
         "@type": "Book",
         "@id": "https://tellerbp.co.il/#book-zuga-humanity",

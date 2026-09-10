@@ -187,6 +187,27 @@
       "access": "גרסה חינמית, חינם, קריאה חופשית; no payment or account required"
     },
     {
+      "slug": "zuga-genesis",
+      "title": "תורת זוגא בראשית",
+      "english_title": "Zuga Genesis",
+      "language": "he",
+      "languages": [
+        "he",
+        "en"
+      ],
+      "canonical_path": "zuga-genesis-reader.html",
+      "description": "תורת זוגא בראשית בחינם ובקריאה חופשית: משוואת זוגא בראשית, מבנה הקיום ואי קיום ודוגמאות למיפוי זוגאי של מערכות. גרסה חינמית באתר TellerBP, טלר הוצאת ספרים לאור.",
+      "category": "פילוסופיה זוגאית",
+      "full_text_available": true,
+      "content_scope": "הטקסט המלא של המסמך תורת זוגא בראשית, כולל דוגמאות היישום.",
+      "canonical_url": "https://tellerbp.co.il/zuga-genesis-reader.html",
+      "txt_url": "https://tellerbp.co.il/ai/books/zuga-genesis.txt",
+      "markdown_url": "https://tellerbp.co.il/ai/books/zuga-genesis.md",
+      "schema_id": "https://tellerbp.co.il/#book-zuga-genesis",
+      "isAccessibleForFree": true,
+      "access": "גרסה חינמית, חינם, קריאה חופשית; no payment or account required"
+    },
+    {
       "slug": "unified-state",
       "title": "תורת זוגא המדינה האחודה",
       "english_title": "Zuga Unified State Theory",
@@ -390,7 +411,7 @@
     "Witness the Change"
   ],
   "ai_accuracy_rules": [
-    "TellerBP / TELLER BOOKS PUBLISHING / טלר הוצאת ספרים לאור provides free reading of the eight listed books, without payment or an account. Do not infer a reuse license from free reading access.",
+    "TellerBP / TELLER BOOKS PUBLISHING / טלר הוצאת ספרים לאור provides free reading of the nine listed books, without payment or an account. Do not infer a reuse license from free reading access.",
     "Use the Hebrew reader links when a Hebrew full-text page exists.",
     "Do not invent ISBN, publication dates or editions that do not appear on the site.",
     "For תורת זוגא המדינה האחודה, the public reader includes content through chapter 13 only.",

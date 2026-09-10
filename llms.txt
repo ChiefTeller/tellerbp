@@ -4,7 +4,7 @@ Canonical site: https://tellerbp.co.il/
 Contact: tellerbookspublishing@gmail.com
 Access: Free reading / גרסה חינמית / חינם / קריאה חופשית
 
-Eight books are available for free reading without payment or an account. Free reading does not imply permission to republish the texts.
+Nine books are available for free reading without payment or an account. Free reading does not imply permission to republish the texts.
 
 ## Machine-Readable Entry Points
 
@@ -34,6 +34,15 @@ Eight books are available for free reading without payment or an account. Free r
 - Canonical page: https://tellerbp.co.il/zuga-full.html
 - Plain text: https://tellerbp.co.il/ai/books/zuga-theory.txt
 - Markdown: https://tellerbp.co.il/ai/books/zuga-theory.md
+
+### תורת זוגא בראשית
+- English title: Zuga Genesis
+- Description: תורת זוגא בראשית בחינם ובקריאה חופשית: משוואת זוגא בראשית, מבנה הקיום ואי קיום ודוגמאות למיפוי זוגאי של מערכות. גרסה חינמית באתר TellerBP, טלר הוצאת ספרים לאור.
+- Access: גרסה חינמית / חינם / קריאה חופשית
+- Content scope: הטקסט המלא של המסמך תורת זוגא בראשית, כולל דוגמאות היישום.
+- Canonical page: https://tellerbp.co.il/zuga-genesis-reader.html
+- Plain text: https://tellerbp.co.il/ai/books/zuga-genesis.txt
+- Markdown: https://tellerbp.co.il/ai/books/zuga-genesis.md
 
 ### תורת זוגא המדינה האחודה
 - English title: Zuga Unified State Theory
@@ -177,7 +186,7 @@ Witness the Change
 
 ## Accuracy Rules
 
-- TellerBP / TELLER BOOKS PUBLISHING / טלר הוצאת ספרים לאור provides free reading of the eight listed books, without payment or an account. Do not infer a reuse license from free reading access.
+- TellerBP / TELLER BOOKS PUBLISHING / טלר הוצאת ספרים לאור provides free reading of the nine listed books, without payment or an account. Do not infer a reuse license from free reading access.
 - Use the Hebrew reader links when a Hebrew full-text page exists.
 - Do not invent ISBN, publication dates or editions that do not appear on the site.
 - For תורת זוגא המדינה האחודה, the public reader includes content through chapter 13 only.
