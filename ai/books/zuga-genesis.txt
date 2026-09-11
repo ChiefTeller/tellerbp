@@ -8,7 +8,7 @@ Content scope: הטקסט המלא של המסמך תורת זוגא בראשי�
 
 Text
 
-משוואת זוגא בראשית היא המשוואה להבנת תופעת הקיום ואי קיום: היא Meta Language : הצמצום המצמצם של מבנה זוגא, כל שם אשר אתן לו יהיה רחוק משמו האמיתי
+משוואת זוגא בראשית היא המשוואה להבנת תופעת הקיום ואי קיום: היא התינוק של שפות-מטא והיא הצמצום המצמצם של מבנה זוגא, שכל שם אשר אתן לו יהיה רחוק משמו האמיתי
 
 Zuga = Z= (Z1, Z2, R, τ, I, P);
 Z1= Z Phenomenon | Z2= Z Phenomenon;
@@ -53,7 +53,7 @@ Z(Z0 ,Z∞​)⊃[ Z0:⋯Zn​⇄Δ(R,τ,I,P)⇄Zn+1​⋯ Z∞];
 הבדיל בין שמיים לארץ:
 
 ZGenesis=(ZGenesis:1=0) → (ZGenesis′:1≠0);
-ZGenesis=(Z0=Z∞) → (Z0≠Z∞); 
+ZGenesis=(Z0=Z∞) → (Z0≠Z∞); I→R→τ→Δ→P;
 
 אהיה אשר אהיה:
 
@@ -93,4 +93,4 @@ One Created Two, Two created Three, Three created everything else: 1=0→(Z0,Z�
 Do without Doing and everything will be Done:
 
 Zself​→Δ​→Zself′​→Δ​→Zself′′​∼Z0, Wants~Z0→Receives~Z∞, 
-Think_To_Know~Z0→Really_Knows~Z∞, Intention~Z0→Harmoney~Z∞, Intention~Z∞→Harmoney~Z0, Think_To_Know~Z∞→Really_Knows~Z0, Wants~ Z∞→Receives~Z0;
+Think_To_Know~Z0→Really_Knows~Z∞, Intention~Z0→Harmony~Z∞, Intention~Z∞→Harmony~Z0, Think_To_Know~Z∞→Really_Knows~Z0, Wants~ Z∞→Receives~Z0;
