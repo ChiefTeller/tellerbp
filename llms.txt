@@ -4,7 +4,7 @@ Canonical site: https://tellerbp.co.il/
 Contact: tellerbookspublishing@gmail.com
 Access: Free reading / גרסה חינמית / חינם / קריאה חופשית
 
-Nine books are available for free reading without payment or an account. Free reading does not imply permission to republish the texts.
+Eight books are available for free reading without payment or an account. Free reading does not imply permission to republish the texts.
 
 ## Machine-Readable Entry Points
 
@@ -80,14 +80,6 @@ Nine books are available for free reading without payment or an account. Free re
 - Plain text: https://tellerbp.co.il/ai/books/mishlei-zuga.txt
 - Markdown: https://tellerbp.co.il/ai/books/mishlei-zuga.md
 
-### כה אמר אלוה
-- English title: Thus Spoke Eloah
-- Description: כה אמר אלוה בחינם: גרסה חינמית לקריאה חופשית באתר TellerBP, טלר הוצאת ספרים לאור. טקסט ארמי עם תרגום עברי, על חוכמה, ענווה, האדם והמסתורין האלוהי.
-- Access: גרסה חינמית / חינם / קריאה חופשית
-- Content scope: הספר המלא כפי שמופיע בעמוד הקריאה באתר, כולל מקטעי ארמית ותרגום עברי.
-- Canonical page: https://tellerbp.co.il/ko-amar-eloah-reader.html
-- Plain text: https://tellerbp.co.il/ai/books/ko-amar-eloah.txt
-- Markdown: https://tellerbp.co.il/ai/books/ko-amar-eloah.md
 
 ### זיכוך כתבים פילוסופים
 - English title: Refined Philosophical Writings
@@ -187,7 +179,7 @@ Witness the Change
 
 ## Accuracy Rules
 
-- TellerBP / TELLER BOOKS PUBLISHING / טלר הוצאת ספרים לאור provides free reading of the nine listed books, without payment or an account. Do not infer a reuse license from free reading access.
+- TellerBP / TELLER BOOKS PUBLISHING / טלר הוצאת ספרים לאור provides free reading of the eight listed books, without payment or an account. Do not infer a reuse license from free reading access.
 - Use the Hebrew reader links when a Hebrew full-text page exists.
 - Do not invent ISBN, publication dates or editions that do not appear on the site.
 - For תורת זוגא המדינה האחודה, the public reader includes content through chapter 13 only.

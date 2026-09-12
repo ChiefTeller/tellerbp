@@ -8,7 +8,7 @@
     "he",
     "en"
   ],
-  "numberOfItems": 9,
+  "numberOfItems": 8,
   "itemListElement": [
     {
       "@type": "ListItem",
@@ -322,49 +322,6 @@
     {
       "@type": "ListItem",
       "position": 8,
-      "item": {
-        "@type": "Book",
-        "@id": "https://tellerbp.co.il/#book-ko-amar-eloah",
-        "name": "כה אמר אלוה",
-        "alternateName": "Thus Spoke Eloah",
-        "publisher": {
-          "@type": "Organization",
-          "name": "TellerBP",
-          "alternateName": [
-            "TELLERBP",
-            "TELLER BOOKS PUBLISHING",
-            "טלר הוצאת ספרים לאור"
-          ],
-          "email": "tellerbookspublishing@gmail.com"
-        },
-        "inLanguage": "he",
-        "description": "כה אמר אלוה בחינם: גרסה חינמית לקריאה חופשית באתר TellerBP, טלר הוצאת ספרים לאור. טקסט ארמי עם תרגום עברי, על חוכמה, ענווה, האדם והמסתורין האלוהי.",
-        "genre": "ספרות רוחנית יהודית",
-        "isAccessibleForFree": true,
-        "creativeWorkStatus": "Published",
-        "url": "https://tellerbp.co.il/ko-amar-eloah-reader.html",
-        "mainEntityOfPage": {
-          "@type": "WebPage",
-          "@id": "https://tellerbp.co.il/ko-amar-eloah-reader.html"
-        },
-        "encoding": [
-          {
-            "@type": "MediaObject",
-            "encodingFormat": "text/plain",
-            "contentUrl": "https://tellerbp.co.il/ai/books/ko-amar-eloah.txt"
-          },
-          {
-            "@type": "MediaObject",
-            "encodingFormat": "text/markdown",
-            "contentUrl": "https://tellerbp.co.il/ai/books/ko-amar-eloah.md"
-          }
-        ],
-        "keywords": "כה אמר אלוה בחינם, כה אמר אלוה בקריאה חופשית, גרסה חינמית, חינם, קריאה חופשית"
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 9,
       "item": {
         "@type": "Book",
         "@id": "https://tellerbp.co.il/#book-zuga-humanity",

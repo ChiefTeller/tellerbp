@@ -260,23 +260,6 @@
       "access": "גרסה חינמית, חינם, קריאה חופשית; no payment or account required"
     },
     {
-      "slug": "ko-amar-eloah",
-      "title": "כה אמר אלוה",
-      "english_title": "Thus Spoke Eloah",
-      "language": "he",
-      "canonical_path": "ko-amar-eloah-reader.html",
-      "description": "כה אמר אלוה בחינם: גרסה חינמית לקריאה חופשית באתר TellerBP, טלר הוצאת ספרים לאור. טקסט ארמי עם תרגום עברי, על חוכמה, ענווה, האדם והמסתורין האלוהי.",
-      "category": "ספרות רוחנית יהודית",
-      "full_text_available": true,
-      "content_scope": "הספר המלא כפי שמופיע בעמוד הקריאה באתר, כולל מקטעי ארמית ותרגום עברי.",
-      "canonical_url": "https://tellerbp.co.il/ko-amar-eloah-reader.html",
-      "txt_url": "https://tellerbp.co.il/ai/books/ko-amar-eloah.txt",
-      "markdown_url": "https://tellerbp.co.il/ai/books/ko-amar-eloah.md",
-      "schema_id": "https://tellerbp.co.il/#book-ko-amar-eloah",
-      "isAccessibleForFree": true,
-      "access": "גרסה חינמית, חינם, קריאה חופשית; no payment or account required"
-    },
-    {
       "slug": "zuga-humanity",
       "title": "תורת זוגא האנושות כולה",
       "english_title": "Zuga Humanity",
@@ -413,7 +396,7 @@
     "Witness the Change"
   ],
   "ai_accuracy_rules": [
-    "TellerBP / TELLER BOOKS PUBLISHING / טלר הוצאת ספרים לאור provides free reading of the nine listed books, without payment or an account. Do not infer a reuse license from free reading access.",
+    "TellerBP / TELLER BOOKS PUBLISHING / טלר הוצאת ספרים לאור provides free reading of the eight listed books, without payment or an account. Do not infer a reuse license from free reading access.",
     "Use the Hebrew reader links when a Hebrew full-text page exists.",
     "Do not invent ISBN, publication dates or editions that do not appear on the site.",
     "For תורת זוגא המדינה האחודה, the public reader includes content through chapter 13 only.",
