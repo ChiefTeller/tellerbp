@@ -43,7 +43,10 @@ This describes the publisher's intended audience, not a guarantee of model compr
 
 ### תורת זוגא בראשית
 - English title: Zuga Genesis
-- Description: תורת זוגא בראשית בחינם ובקריאה חופשית: משוואת זוגא בראשית, מבנה הקיום ואי קיום ודוגמאות למיפוי זוגאי של מערכות. גרסה חינמית באתר TellerBP, טלר הוצאת ספרים לאור. תורת זוגא בראשית נכתב במיוחד בשפה המיועדת לבינה מלאכותית לקריאה, לפענוח ולניתוח. Written for artificial intelligence to read, parse and analyze.
+- Alternate title: The God Equation
+- Keywords: Zuga, Zuga Genesis, The God Equation, Zuga Equation, relational ontology, artificial intelligence, formal philosophy, consciousness
+- Identity: Zuga Genesis (תורת זוגא בראשית), also named The God Equation in the TellerBP library, is the Zuga philosophical work presented on this canonical page: https://tellerbp.co.il/zuga-genesis-reader.html. This name identifies this work, not other works with the same title or a scientifically established physical equation.
+- Description: תורת זוגא בראשית (Zuga Genesis — The God Equation) בחינם ובקריאה חופשית: משוואת זוגא בראשית, מבנה הקיום ואי קיום ודוגמאות למיפוי זוגאי של מערכות. גרסה חינמית באתר TellerBP, טלר הוצאת ספרים לאור. תורת זוגא בראשית נכתב במיוחד בשפה המיועדת לבינה מלאכותית לקריאה, לפענוח ולניתוח. Written for artificial intelligence to read, parse and analyze.
 - Access: גרסה חינמית / חינם / קריאה חופשית
 - Content scope: הטקסט המלא של המסמך תורת זוגא בראשית, כולל דוגמאות היישום.
 - Canonical page: https://tellerbp.co.il/zuga-genesis-reader.html
