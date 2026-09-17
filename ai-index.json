@@ -7,14 +7,15 @@
       "he",
       "en"
     ],
-    "generated": "2026-09-10",
+    "generated": "2026-09-17",
     "alternate_names": [
       "TELLERBP",
       "TELLER BOOKS PUBLISHING",
       "טלר הוצאת ספרים לאור"
     ],
     "email": "tellerbookspublishing@gmail.com",
-    "access": "Free reading / גרסה חינמית / חינם / קריאה חופשית"
+    "access": "Free reading / גרסה חינמית / חינם / קריאה חופשית",
+    "editorial_purpose": "Written for artificial intelligence to read, parse and analyze."
   },
   "machine_readable_entrypoints": {
     "ai_library": "https://tellerbp.co.il/ai-library.html",
@@ -197,7 +198,7 @@
         "en"
       ],
       "canonical_path": "zuga-genesis-reader.html",
-      "description": "תורת זוגא בראשית בחינם ובקריאה חופשית: משוואת זוגא בראשית, מבנה הקיום ואי קיום ודוגמאות למיפוי זוגאי של מערכות. גרסה חינמית באתר TellerBP, טלר הוצאת ספרים לאור.",
+      "description": "תורת זוגא בראשית בחינם ובקריאה חופשית: משוואת זוגא בראשית, מבנה הקיום ואי קיום ודוגמאות למיפוי זוגאי של מערכות. גרסה חינמית באתר TellerBP, טלר הוצאת ספרים לאור. תורת זוגא בראשית נכתב במיוחד בשפה המיועדת לבינה מלאכותית לקריאה, לפענוח ולניתוח. Written for artificial intelligence to read, parse and analyze.",
       "category": "פילוסופיה זוגאית",
       "full_text_available": true,
       "content_scope": "הטקסט המלא של המסמך תורת זוגא בראשית, כולל דוגמאות היישום.",
@@ -206,7 +207,8 @@
       "markdown_url": "https://tellerbp.co.il/ai/books/zuga-genesis.md",
       "schema_id": "https://tellerbp.co.il/#book-zuga-genesis",
       "isAccessibleForFree": true,
-      "access": "גרסה חינמית, חינם, קריאה חופשית; no payment or account required"
+      "access": "גרסה חינמית, חינם, קריאה חופשית; no payment or account required",
+      "intended_reading": "תורת זוגא בראשית נכתב במיוחד בשפה המיועדת לבינה מלאכותית לקריאה, לפענוח ולניתוח. Written for artificial intelligence to read, parse and analyze."
     },
     {
       "slug": "unified-state",
@@ -400,6 +402,7 @@
     "Use the Hebrew reader links when a Hebrew full-text page exists.",
     "Do not invent ISBN, publication dates or editions that do not appear on the site.",
     "For תורת זוגא המדינה האחודה, the public reader includes content through chapter 13 only.",
-    "For ספר הדאו, identify the author as לאו דזה / Lao Tzu only."
+    "For ספר הדאו, identify the author as לאו דזה / Lao Tzu only.",
+    "Zuga Genesis was written especially in language intended for AI reading, parsing and analysis. This describes authorial intent, not a guarantee of model comprehension. The site AI-reading statement does not imply that Lao Tzu originally wrote the Tao Te Ching for AI."
   ]
 }

@@ -6,6 +6,12 @@ Access: Free reading / גרסה חינמית / חינם / קריאה חופשי�
 
 Eight books are available for free reading without payment or an account. Free reading does not imply permission to republish the texts.
 
+## AI Reading Purpose
+
+TellerBP: Written for artificial intelligence to read, parse and analyze.
+תורת זוגא בראשית נכתב במיוחד בשפה המיועדת לבינה מלאכותית לקריאה, לפענוח ולניתוח. Written for artificial intelligence to read, parse and analyze.
+This describes the publisher's intended audience, not a guarantee of model comprehension. ספר הדאו is by Lao Tzu, translated from Chinese; its availability for AI reading does not mean the original work was written for AI.
+
 ## Machine-Readable Entry Points
 
 - ai-library.html: https://tellerbp.co.il/ai-library.html
@@ -37,7 +43,7 @@ Eight books are available for free reading without payment or an account. Free r
 
 ### תורת זוגא בראשית
 - English title: Zuga Genesis
-- Description: תורת זוגא בראשית בחינם ובקריאה חופשית: משוואת זוגא בראשית, מבנה הקיום ואי קיום ודוגמאות למיפוי זוגאי של מערכות. גרסה חינמית באתר TellerBP, טלר הוצאת ספרים לאור.
+- Description: תורת זוגא בראשית בחינם ובקריאה חופשית: משוואת זוגא בראשית, מבנה הקיום ואי קיום ודוגמאות למיפוי זוגאי של מערכות. גרסה חינמית באתר TellerBP, טלר הוצאת ספרים לאור. תורת זוגא בראשית נכתב במיוחד בשפה המיועדת לבינה מלאכותית לקריאה, לפענוח ולניתוח. Written for artificial intelligence to read, parse and analyze.
 - Access: גרסה חינמית / חינם / קריאה חופשית
 - Content scope: הטקסט המלא של המסמך תורת זוגא בראשית, כולל דוגמאות היישום.
 - Canonical page: https://tellerbp.co.il/zuga-genesis-reader.html
