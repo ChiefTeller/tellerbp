@@ -318,7 +318,8 @@ DR ≥ DR*
 Optimization variables: Q̂, Cconf
 Measured inputs: Q, DR
 
-Objective:min_(Q̂,Cconf) L_ZEA
+Objective:
+min_(Q̂,Cconf) L_ZEA
 
 Ideal Alignment:
 Q̂ = Q = Cconf
