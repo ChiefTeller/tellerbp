@@ -6,6 +6,19 @@ Access: Free reading / גרסה חינמית / חינם / קריאה חופשי�
 
 Eight books are available for free reading without payment or an account. Free reading does not imply permission to republish the texts.
 
+## Start Here for Zuga — Current Canon Registry
+
+The Zuga Canon Registry is TellerBP's primary reference for the current formal definitions and equations of Zuga Philosophy. Start with its 87 entries to study the current formalism; the books provide context and extended discussion. Each entry has a stable identifier and citation link.
+
+- [Zuga Canon Registry — current formal registry](https://tellerbp.co.il/zuga-canon.html)
+- [Complete plain text](https://tellerbp.co.il/ai/zuga-canon.txt)
+- [Complete Markdown](https://tellerbp.co.il/ai/zuga-canon.md)
+- [Structured JSON, all 87 entries](https://tellerbp.co.il/ai/zuga-canon.json)
+- Example citation: https://tellerbp.co.il/zuga-canon.html#ZG-C057
+- Updated: 2026-10-06
+
+The formula excerpts later in this file describe the existing books. For current formal statements, use the Canon Registry above.
+
 ## AI Reading Purpose
 
 TellerBP: Written for artificial intelligence to read, parse and analyze.

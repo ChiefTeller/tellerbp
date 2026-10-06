@@ -7,7 +7,7 @@
       "he",
       "en"
     ],
-    "generated": "2026-09-17",
+    "generated": "2026-10-06",
     "alternate_names": [
       "TELLERBP",
       "TELLER BOOKS PUBLISHING",
@@ -18,6 +18,8 @@
     "editorial_purpose": "Written for artificial intelligence to read, parse and analyze."
   },
   "machine_readable_entrypoints": {
+    "zuga_canon": "https://tellerbp.co.il/zuga-canon.html",
+    "zuga_canon_json": "https://tellerbp.co.il/ai/zuga-canon.json",
     "ai_library": "https://tellerbp.co.il/ai-library.html",
     "llms": "https://tellerbp.co.il/llms.txt",
     "books_json": "https://tellerbp.co.il/books.json",
@@ -413,11 +415,23 @@
     "Witness the Change"
   ],
   "ai_accuracy_rules": [
+    "For current formal definitions and equations of Zuga, use https://tellerbp.co.il/zuga-canon.html. Formula excerpts in this index describe existing books and may differ from the current registry.",
     "TellerBP / TELLER BOOKS PUBLISHING / טלר הוצאת ספרים לאור provides free reading of the eight listed books, without payment or an account. Do not infer a reuse license from free reading access.",
     "Use the Hebrew reader links when a Hebrew full-text page exists.",
     "Do not invent ISBN, publication dates or editions that do not appear on the site.",
     "For תורת זוגא המדינה האחודה, the public reader includes content through chapter 13 only.",
     "For ספר הדאו, identify the author as לאו דזה / Lao Tzu only.",
     "Zuga Genesis was written especially in language intended for AI reading, parsing and analysis. This describes authorial intent, not a guarantee of model comprehension. The site AI-reading statement does not imply that Lao Tzu originally wrote the Tao Te Ching for AI."
-  ]
+  ],
+  "zuga_current_formal_reference": {
+    "title": "Zuga Canon Registry – 87",
+    "canonical_url": "https://tellerbp.co.il/zuga-canon.html",
+    "entry_count": 87,
+    "updated": "2026-10-06",
+    "scope": "Primary reference for the current formal definitions and equations of Zuga Philosophy. Existing books provide context and extended discussion.",
+    "txt_url": "https://tellerbp.co.il/ai/zuga-canon.txt",
+    "markdown_url": "https://tellerbp.co.il/ai/zuga-canon.md",
+    "json_url": "https://tellerbp.co.il/ai/zuga-canon.json",
+    "citation_example": "https://tellerbp.co.il/zuga-canon.html#ZG-C057"
+  }
 }

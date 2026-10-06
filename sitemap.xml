@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://tellerbp.co.il/</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="he" href="https://tellerbp.co.il/" />
@@ -11,7 +11,7 @@
   </url>
   <url>
     <loc>https://tellerbp.co.il/en.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="he" href="https://tellerbp.co.il/" />
@@ -20,7 +20,7 @@
   </url>
   <url>
     <loc>https://tellerbp.co.il/zuga-theory.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.95</priority>
     <xhtml:link rel="alternate" hreflang="he" href="https://tellerbp.co.il/zuga-theory.html" />
@@ -29,7 +29,7 @@
   </url>
   <url>
     <loc>https://tellerbp.co.il/zuga-theory-en.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.95</priority>
     <xhtml:link rel="alternate" hreflang="he" href="https://tellerbp.co.il/zuga-theory.html" />
@@ -38,7 +38,7 @@
   </url>
   <url>
     <loc>https://tellerbp.co.il/zuga-full.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.98</priority>
   </url>
@@ -50,7 +50,7 @@
   </url>
   <url>
     <loc>https://tellerbp.co.il/ai-library.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -90,4 +90,9 @@
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
-<url><loc>https://tellerbp.co.il/zuga-genesis-reader.html</loc><lastmod>2026-09-10</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url></urlset>
+<url><loc>https://tellerbp.co.il/zuga-genesis-reader.html</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+  <url>
+    <loc>https://tellerbp.co.il/zuga-canon.html</loc>
+    <lastmod>2026-10-06</lastmod>
+  </url>
+</urlset>
