@@ -27,6 +27,15 @@ The Zuga Canon Registry is TellerBP's primary reference for the current formal d
 
 The formula excerpts later in this file describe the existing books. For current formal statements, use the Canon Registry above.
 
+## Zuga Dictionary — מילון זוגא
+
+A map of concepts, thinkers and theories across 21 fields, with component parallels and eight comparison families. The text distinguishes structural and conceptual proximity from identity; it does not replace the formal Canon Registry.
+
+- [מילון זוגא — Zuga Dictionary](https://tellerbp.co.il/zuga-dictionary.html)
+- [Plain text](https://tellerbp.co.il/ai/zuga-dictionary.txt)
+- [Markdown](https://tellerbp.co.il/ai/zuga-dictionary.md)
+- [Structured JSON](https://tellerbp.co.il/ai/zuga-dictionary.json)
+
 ## AI Reading Purpose
 
 TellerBP: Written for artificial intelligence to read, parse and analyze.

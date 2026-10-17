@@ -442,5 +442,18 @@
     "ai_use": "Free AI library: artificial intelligence is freely permitted, at no charge and without further permission, to read, understand, analyze, process and use the canon and all books, including for machine learning and model training.",
     "policy_url": "https://tellerbp.co.il/rights.html",
     "effective_date": "2026-10-17"
+  },
+  "zuga_dictionary": {
+    "title": "מילון זוגא",
+    "alternate_title": "Zuga Dictionary",
+    "canonical_url": "https://tellerbp.co.il/zuga-dictionary.html",
+    "description": "מילון זוגא: מושגים, הוגים ותורות ב־21 תחומים, מיפוי רכיבי זוגא ומפת קרבה רעיונית ומבנית.",
+    "section_count": 21,
+    "entry_count": 324,
+    "updated": "2026-10-17",
+    "txt_url": "https://tellerbp.co.il/ai/zuga-dictionary.txt",
+    "markdown_url": "https://tellerbp.co.il/ai/zuga-dictionary.md",
+    "json_url": "https://tellerbp.co.il/ai/zuga-dictionary.json",
+    "relationship_to_canon": "Comparative concept map; current formal definitions remain in the Zuga Canon Registry."
   }
 }

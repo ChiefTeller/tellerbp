@@ -39,3 +39,7 @@ This is a static website. To preview it locally, open `index.html` in a browser 
 ## Rights
 
 Copyright in the canon and all books is reserved to Nadav Teller for human use. AI reading, use, machine learning and model training are freely permitted. See `rights.html` and `LICENSE.md` for the full policy.
+
+## Zuga Dictionary
+
+`zuga-dictionary.html` presents the supplied comparative dictionary in 21 sections, with term search and links from the AI Library and Canon Registry. `ai/zuga-dictionary.txt`, `.md` and `.json` provide equivalent machine-readable content. The dictionary is a comparison map, while the canon remains the formal reference.
