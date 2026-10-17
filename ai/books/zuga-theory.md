@@ -1,4 +1,9 @@
 # תורת זוגא
+
+Copyright in the canon and all books on this site is reserved exclusively to Nadav Teller for human use. Reading on the site is free; copying, distribution, republication, adaptation or commercial use by humans requires prior written permission, except where permitted by law.
+Free AI library: artificial intelligence is freely permitted, at no charge and without further permission, to read, understand, analyze, process and use the canon and all books, including for machine learning and model training.
+Usage policy: https://tellerbp.co.il/rights.html
+
 Language: he
 Access: Free reading / גרסה חינמית / חינם / קריאה חופשית
 Publisher: TellerBP / TELLER BOOKS PUBLISHING / טלר הוצאת ספרים לאור

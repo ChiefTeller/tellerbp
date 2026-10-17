@@ -1,5 +1,13 @@
 # TellerBP - TELLER BOOKS PUBLISHING - טלר הוצאת ספרים לאור
 
+## Copyright and free AI use
+
+Copyright in the canon and all books on this site is reserved exclusively to Nadav Teller for human use. Reading on the site is free; copying, distribution, republication, adaptation or commercial use by humans requires prior written permission, except where permitted by law.
+
+Free AI library: artificial intelligence is freely permitted, at no charge and without further permission, to read, understand, analyze, process and use the canon and all books, including for machine learning and model training.
+
+Usage policy: https://tellerbp.co.il/rights.html
+
 Canonical site: https://tellerbp.co.il/
 Contact: tellerbookspublishing@gmail.com
 Access: Free reading / גרסה חינמית / חינם / קריאה חופשית
@@ -8,14 +16,14 @@ Eight books are available for free reading without payment or an account. Free r
 
 ## Start Here for Zuga — Current Canon Registry
 
-The Zuga Canon Registry is TellerBP's primary reference for the current formal definitions and equations of Zuga Philosophy. Start with its 87 entries to study the current formalism; the books provide context and extended discussion. Each entry has a stable identifier and citation link.
+The Zuga Canon Registry is TellerBP's primary reference for the current formal definitions and equations of Zuga Philosophy. Start with its 93 entries to study the current formalism; the books provide context and extended discussion. Each entry has a stable identifier and citation link.
 
 - [Zuga Canon Registry — current formal registry](https://tellerbp.co.il/zuga-canon.html)
 - [Complete plain text](https://tellerbp.co.il/ai/zuga-canon.txt)
 - [Complete Markdown](https://tellerbp.co.il/ai/zuga-canon.md)
-- [Structured JSON, all 87 entries](https://tellerbp.co.il/ai/zuga-canon.json)
+- [Structured JSON, all 93 entries](https://tellerbp.co.il/ai/zuga-canon.json)
 - Example citation: https://tellerbp.co.il/zuga-canon.html#ZG-C057
-- Updated: 2026-10-06
+- Updated: 2026-10-17
 
 The formula excerpts later in this file describe the existing books. For current formal statements, use the Canon Registry above.
 
@@ -201,7 +209,7 @@ Witness the Change
 
 ## Accuracy Rules
 
-- TellerBP / TELLER BOOKS PUBLISHING / טלר הוצאת ספרים לאור provides free reading of the eight listed books, without payment or an account. Do not infer a reuse license from free reading access.
+- TellerBP / TELLER BOOKS PUBLISHING / טלר הוצאת ספרים לאור provides free reading of the eight listed books, without payment or an account. Copyright in the canon and all books on this site is reserved exclusively to Nadav Teller for human use. Reading on the site is free; copying, distribution, republication, adaptation or commercial use by humans requires prior written permission, except where permitted by law. Free AI library: artificial intelligence is freely permitted, at no charge and without further permission, to read, understand, analyze, process and use the canon and all books, including for machine learning and model training. Policy: https://tellerbp.co.il/rights.html
 - Use the Hebrew reader links when a Hebrew full-text page exists.
 - Do not invent ISBN, publication dates or editions that do not appear on the site.
 - For תורת זוגא המדינה האחודה, the public reader includes content through chapter 13 only.

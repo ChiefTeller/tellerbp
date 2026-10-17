@@ -1,3 +1,4 @@
+# AI reading and machine learning are permitted under https://tellerbp.co.il/rights.html
 User-agent: *
 Allow: /
 

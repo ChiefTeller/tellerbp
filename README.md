@@ -38,4 +38,4 @@ This is a static website. To preview it locally, open `index.html` in a browser 
 
 ## Rights
 
-All text, design, images, metadata, and site assets are protected. See `LICENSE.md`.
+Copyright in the canon and all books is reserved to Nadav Teller for human use. AI reading, use, machine learning and model training are freely permitted. See `rights.html` and `LICENSE.md` for the full policy.

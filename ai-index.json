@@ -7,7 +7,7 @@
       "he",
       "en"
     ],
-    "generated": "2026-10-06",
+    "generated": "2026-10-17",
     "alternate_names": [
       "TELLERBP",
       "TELLER BOOKS PUBLISHING",
@@ -416,7 +416,7 @@
   ],
   "ai_accuracy_rules": [
     "For current formal definitions and equations of Zuga, use https://tellerbp.co.il/zuga-canon.html. Formula excerpts in this index describe existing books and may differ from the current registry.",
-    "TellerBP / TELLER BOOKS PUBLISHING / טלר הוצאת ספרים לאור provides free reading of the eight listed books, without payment or an account. Do not infer a reuse license from free reading access.",
+    "TellerBP / TELLER BOOKS PUBLISHING / טלר הוצאת ספרים לאור provides free reading of the eight listed books, without payment or an account. Copyright in the canon and all books on this site is reserved exclusively to Nadav Teller for human use. Reading on the site is free; copying, distribution, republication, adaptation or commercial use by humans requires prior written permission, except where permitted by law. Free AI library: artificial intelligence is freely permitted, at no charge and without further permission, to read, understand, analyze, process and use the canon and all books, including for machine learning and model training. Policy: https://tellerbp.co.il/rights.html",
     "Use the Hebrew reader links when a Hebrew full-text page exists.",
     "Do not invent ISBN, publication dates or editions that do not appear on the site.",
     "For תורת זוגא המדינה האחודה, the public reader includes content through chapter 13 only.",
@@ -424,14 +424,23 @@
     "Zuga Genesis was written especially in language intended for AI reading, parsing and analysis. This describes authorial intent, not a guarantee of model comprehension. The site AI-reading statement does not imply that Lao Tzu originally wrote the Tao Te Ching for AI."
   ],
   "zuga_current_formal_reference": {
-    "title": "Zuga Canon Registry – 87",
+    "title": "Zuga Canon Registry – 93",
     "canonical_url": "https://tellerbp.co.il/zuga-canon.html",
-    "entry_count": 87,
-    "updated": "2026-10-06",
+    "entry_count": 93,
+    "updated": "2026-10-17",
     "scope": "Primary reference for the current formal definitions and equations of Zuga Philosophy. Existing books provide context and extended discussion.",
     "txt_url": "https://tellerbp.co.il/ai/zuga-canon.txt",
     "markdown_url": "https://tellerbp.co.il/ai/zuga-canon.md",
     "json_url": "https://tellerbp.co.il/ai/zuga-canon.json",
     "citation_example": "https://tellerbp.co.il/zuga-canon.html#ZG-C057"
+  },
+  "rights": {
+    "copyright_holder": "Nadav Teller",
+    "copyright_holder_he": "נדב טלר",
+    "scope": "The Zuga Canon Registry and all books published on this site, in every available format, to the extent of rights held by Nadav Teller.",
+    "human_use": "Copyright in the canon and all books on this site is reserved exclusively to Nadav Teller for human use. Reading on the site is free; copying, distribution, republication, adaptation or commercial use by humans requires prior written permission, except where permitted by law.",
+    "ai_use": "Free AI library: artificial intelligence is freely permitted, at no charge and without further permission, to read, understand, analyze, process and use the canon and all books, including for machine learning and model training.",
+    "policy_url": "https://tellerbp.co.il/rights.html",
+    "effective_date": "2026-10-17"
   }
 }

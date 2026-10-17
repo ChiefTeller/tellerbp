@@ -1,4 +1,9 @@
 # זיכוך כתבים פילוסופים
+
+Copyright in the canon and all books on this site is reserved exclusively to Nadav Teller for human use. Reading on the site is free; copying, distribution, republication, adaptation or commercial use by humans requires prior written permission, except where permitted by law.
+Free AI library: artificial intelligence is freely permitted, at no charge and without further permission, to read, understand, analyze, process and use the canon and all books, including for machine learning and model training.
+Usage policy: https://tellerbp.co.il/rights.html
+
 Access: Free reading / גרסה חינמית / חינם / קריאה חופשית
 Publisher: TellerBP / TELLER BOOKS PUBLISHING / טלר הוצאת ספרים לאור
 
@@ -29,9 +34,9 @@ TellerBP
 
 תרגומים מיוונית עתיקה, לטינית וגרמנית מאת אהרן קמינקא, מנחם שטיין, יעקב נפתלי שמחוני ודוד פרישמן
 
-עיצוב, עריכה והפקה: TellerBP. עריכה ספרותית, עריכה לשונית וסידור: המחבר. © 2026 כל הזכויות שמורות לTellerBP עבור עיצוב, עריכה לשונית, עריכה ספרותית, בחירה, סידור, עיבוד והפקה. © פרויקט בן-יהודה על שיתוף הכתבים המתורגמים שהם בגדר נחלת הכלל
+עיצוב, עריכה והפקה: TellerBP. עריכה ספרותית, עריכה לשונית וסידור: המחבר. © 2026 נדב טלר. הזכויות בעיצוב, בעריכה, בבחירה, בסידור, בעיבוד ובהפקת מהדורה זו שמורות לשימוש אנושי. קריאה, שימוש ולמידת מכונה חופשיים וחינמיים לבינה מלאכותית לפי https://tellerbp.co.il/rights.html. © פרויקט בן-יהודה על שיתוף הכתבים המתורגמים שהם בגדר נחלת הכלל
 
-Design, editing, and production: TellerBP. Literary editing, language editing, and arrangement: המחבר. © 2026 All rights reserved by TellerBP with respect to the design, language editing, literary editing, selection, arrangement, adaptation, and production.
+Design, editing, and production: TellerBP. Literary editing, language editing, and arrangement: המחבר. © 2026 Nadav Teller. Rights in this edition’s design, language editing, literary editing, selection, arrangement, adaptation and production are reserved for human use. AI reading, use and machine learning are freely permitted under https://tellerbp.co.il/rights.html.
 
 © Project Ben-Yehuda for making the translated works, which are in the public domain, available to the public.
 
@@ -385,6 +390,6 @@ TellerBP היא הוצאת ספרים ישראלית ששמה לעצמה מטר�
 
 TellerBP is an Israeli publishing house dedicated to guiding readers toward self-inquiry, the examination of reality, personal growth, and liberation.
 
-עיצוב, עריכה והפקה: TellerBP. עריכה ספרותית, עריכה לשונית וסידור: המחבר. © 2026 כל הזכויות שמורות לTellerBP עבור עיצוב, עריכה לשונית, עריכה ספרותית, בחירה, סידור, עיבוד והפקה.
+עיצוב, עריכה והפקה: TellerBP. עריכה ספרותית, עריכה לשונית וסידור: המחבר. © 2026 נדב טלר. הזכויות בעיצוב, בעריכה, בבחירה, בסידור, בעיבוד ובהפקת מהדורה זו שמורות לשימוש אנושי. קריאה, שימוש ולמידת מכונה חופשיים וחינמיים לבינה מלאכותית לפי https://tellerbp.co.il/rights.html.
 
-© TellerBP. All rights reserved.
+© 2026 Nadav Teller. Rights reserved for human use. AI reading, use and machine learning are freely permitted under https://tellerbp.co.il/rights.html.

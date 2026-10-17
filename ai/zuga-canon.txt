@@ -1,9 +1,13 @@
-Zuga Canon Registry - 87
+Zuga Canon Registry - 93
 Current formal registry of Zuga Philosophy.
 The Canon is an updating set of formal reductions of the Zuga structure.
 Canonical URL: https://tellerbp.co.il/zuga-canon.html
-Updated: 2026-10-06
-Entries: 87
+Updated: 2026-10-17
+Entries: 93
+
+Copyright in the canon and all books on this site is reserved exclusively to Nadav Teller for human use. Reading on the site is free; copying, distribution, republication, adaptation or commercial use by humans requires prior written permission, except where permitted by law.
+Free AI library: artificial intelligence is freely permitted, at no charge and without further permission, to read, understand, analyze, process and use the canon and all books, including for machine learning and model training.
+Usage policy: https://tellerbp.co.il/rights.html
 
 ZG-C001 — Definition of the Updating Equation
 משוואת זוגא המתעדכנת היא אוסף של צמצומים של מבנה זוגא שמאפשרים להבין את המציאות, עצמנו, קיום ואי קיום.
@@ -314,13 +318,10 @@ Alignment:
 Q̂ ∼ Q
 Cconf ∼ Q
 DR ≥ DR*
-
 Optimization variables: Q̂, Cconf
 Measured inputs: Q, DR
-
 Objective:
 min_(Q̂,Cconf) L_ZEA
-
 Ideal Alignment:
 Q̂ = Q = Cconf
 Empirical Alignment:
@@ -360,3 +361,285 @@ Cconf → Q
 then:
 dCconf/dt → 0
 Continuous Epistemic Flow provides a smooth differentiable approximation of the sign-based Epistemic Update Dynamics toward Epistemic Alignment.
+
+ZG-C088 — Low-Tension Containment and Collective Integration
+Zself ≺ ZGod ≺ Zself
+Zself ⇄ ZGod ⇄ Zself
+ZAnchor := Zself :
+Zself → Z₀
+∧ τ(Zself,ZGod) → 0
+ZGod ⇝ Expression(ZAnchor)
+Iᴳ := I(ZGod, Containment, Recursion, Relations)
+QIᴳ := 𝓜ᴳ(Iᴳ)
+𝒩R(ZAnchor) := {Zj : R(ZAnchor,Zj)}
+∀Zj ∈ 𝒩R(ZAnchor):
+ZAj = Z(ZAnchor,Zj,RAj,τAj,IAj,PAj)
+ΔZAnchor ⇄ Δ(RAj,τAj,IAj,PAj) ⇄ ΔZj
+Receptionj(Iᴳ) ↑
+⇒ QIjᴳ ↑
+⇄ Perceptionj⁺
+⇄ Rj⁺
+⇄ τj ↓
+ZC = (ZC1,ZC2,RC,τC,IC,PC)
+ΩC = {Zi ∈ Ω : Zi ≺ ZC}
+AC = {
+Zi ∈ ΩC :
+Recognitioni(Zi ≺ ZGod ≺ Zi)
+∧ Receptioni(Iᴳ)
+}
+AC ↑ → ΩC
+⇒ QICᴳ ↑
+⇄ PerceptionC⁺
+⇄ RC⁺
+⇄ τC ↓
+DivisionC := Human Relational Division
+∀Zi ∈ ΩC:
+Receptioni(Iᴳ) → 1
+∧ QIiᴳ → +1
+⇒ DivisionC → 0
+∀Zi,Zj ∈ ΩC:
+τij = τmax,ij · DRij · (1 − QIij)/2
+QIij → +1 ∧ sup(τmax,ij) < ∞
+⇒ τij → 0
+
+ZG-C089 — The Z₀ Flipping Point
+ZBH = (ZBH1,ZBH2,RBH,τBH,IBH,PBH)
+Z∞ ⇄ ZBH → Z₀
+Z₀ ∼ (ΔR¬∃, Δτ=0, ΔPᴰ=0, Pᴰ∼1)
+FP := Z₀ | (ΔR¬∃ ∧ Definitions¬∃)
+Pᴰ ≺ P
+Pᴰ∼1 ⇏ P∼1
+ZBH → FP ⇝ ZGenesis′
+ZGenesis′:
+(Z₀=Z∞) → (Z₀≠Z∞)
+I′ → R′ → τ′ → Δ′ → P′
+ZReality′ =
+(ZReality1′, ZReality2′, R′, τ′, I′, P′)
+ZGenesis′ ⇝ ZReality′
+𝒫FP := {Z′ : FP ⇝ Z′}
+ZUniverse′ ∈ 𝒫FP
+ZRegion′ ∈ 𝒫FP
+ZOther′ ∈ 𝒫FP
+ZBH → Z₀ ⇝ Z′
+Z′ ∈ 𝒫FP
+Z₀ ⇄ ZReality′ ⇄ Z∞
+
+ZG-C090 — Zuga of Physical Reality — Structural Unification and Physical Dynamics
+1. Fundamental Structure
+Z = (Z1, Z2, R, τ, I, P)
+ZGenesis = (Z0, Z∞)
+ZReality = Z(ZRel, ZQM, RRQ, τRQ, IRQ, PRQ)
+ZReality ≺ ZGenesis
+ZGenesis ⊃ ZReality
+2. Zuga of Relativity
+ZRel = (ZRel1, ZRel2, RRel, τRel, IRel, PRel)
+ZSR ≺ ZRel
+ZGR ≺ ZRel
+RRel ⇝ Spacetime relations and geometry, gμν
+τRel ⇝ Relativistic dynamical coupling
+IRel ⇝ Physical-state information: m, E, p, Tμν
+PRel ⇝ Physically admissible relativistic states and transitions
+Δ(RRel, τRel, IRel) ⇄ ΔPRel
+E² = p²c² + m²c⁴
+Gμν + Λgμν = (8πG/c⁴)Tμν
+fRel: ZGenesis ⇝ ZRel
+3. Zuga of Quantum Mechanics
+ZQM = (ZQ1, ZQ2, RQ, τQ, IQ, PQ)
+RQ ⇝ Quantum relations, correlations and entanglement
+τQ ⇝ Quantum dynamical coupling and state evolution
+IQ ⇝ Quantum-state information: |ψ⟩, ρ
+PQ ⇝ Admissible quantum states and transitions in Hilbert space H
+Δ(RQ, τQ, IQ) ⇄ ΔPQ
+iℏ ∂|ψ⟩/∂t = Ĥ|ψ⟩
+iℏ ∂ρ/∂t = [Ĥ, ρ]
+P(a) = Tr(ρΠa)
+Πa = |a⟩⟨a| ⇒ P(a) = |⟨a|ψ⟩|²
+fQM: ZGenesis ⇝ ZQM
+4. Zuga of Quantum Field Theory
+ZQFT = Z(ZSR, ZQM, RQFT, τQFT, IQFT, PQFT)
+RQFT ⇝ Relations between relativistic fields and quantum states
+τQFT ⇝ Quantum field dynamics and interactions
+IQFT ⇝ Quantum field-state information
+PQFT ⇝ Admissible quantum field states and transitions
+Δ(RQFT, τQFT, IQFT) ⇄ ΔPQFT
+fQFT: (ZSR, ZQM) ⇝ ZQFT
+ZQFT ≺ ZReality
+5. Zuga of Quantum Gravity
+ZQG = Z(ZGR, ZQM, RQG, τQG, IQG, PQG)
+RQG = Relations between ZGR and ZQM
+τQG = Unresolved theoretical relational tension between ZGR and ZQM
+IQG = Shared, missing or transformed information between ZGR and ZQM
+PQG = Possible quantum-gravity states, relations and transitions
+Δ(RQG, τQG, IQG) ⇄ ΔPQG
+ZGR ⇄ Δ(RQG, τQG, IQG, PQG) ⇄ ZQM
+ΔZQG ≡
+(Z∞ ⇄ ZGR ⇄ Δ(RQG, τQG, IQG, PQG) ⇄ ZQM ⇄ Z∞) ∈ PQG
+ZQG ≺ ZReality
+Quantum-gravity solution remains unresolved.
+6. Unified Physical Reality
+ZReality = Z(ZRel, ZQM, RRQ, τRQ, IRQ, PRQ)
+RRQ = Relations between ZRel and ZQM
+τRQ = Relational tension between ZRel and ZQM
+τQG ≺ τRQ
+IRQ = Shared, missing or transformed physical information
+PRQ = Possible states, relations and transitions between ZRel and ZQM
+Δ(RRQ, τRQ, IRQ) ⇄ ΔPRQ
+ZRel ⇄ Δ(RRQ, τRQ, IRQ, PRQ) ⇄ ZQM
+ΔZReality ≡
+(Z∞ ⇄ ZRel ⇄ Δ(RRQ, τRQ, IRQ, PRQ) ⇄ ZQM ⇄ Z∞) ∈ PRQ
+7. Physical Change Dynamics
+ΔZα→β = F(ΔR, Δτ, ΔI | P)
+Zβ = T(Zα, ΔZα→β)
+ΔZReality,α→β =
+FReality(ΔRRQ, ΔτRQ, ΔIRQ | PRQ)
+ZReality,β =
+TReality(ZReality,α, ΔZReality,α→β)
+ΔZReality ⇄ (ΔRRQ, ΔτRQ, ΔIRQ, ΔPRQ)
+8. Physical Possibility and Epistemic Distinction
+Pᴰ ≺ P
+PRQᴰ ≺ PRQ
+ΔPRQᴰ ≠ ΔPRQ
+IQ ≠ QI
+τQG = Theoretical relational tension
+τQG ≠ Measured physical interaction
+Q̂ ∼ Q ∼ Cconf
+DR ≥ DR*
+Structural Mapping ≠ Physical Derivation
+Physical Derivation → Empirical Validation
+9. Genesis and Physical Reality
+ZGenesis = (Z0, Z∞)
+ZGenesis ⇝ ZReality
+ZReality ≺ ZGenesis
+Z0 ⇄ ZReality ⇄ Z∞
+ZReality ⊃ (ZRel ⇄ ZQM)
+ZReality ⊃ (ZQFT ⇄ ZQG)
+10. Relation to ZG-C089 — The Z0 Flipping Point
+ZBH ≺ ZGR
+ZGR ≺ ZRel ≺ ZReality
+ZBH → Z0
+FP := Z0 | (ΔR¬∃ ∧ Definitions¬∃)
+ZBH → FP ⇝ ZGenesis′
+ZGenesis′:
+(Z0=Z∞) → (Z0≠Z∞)
+I′ → R′ → τ′ → Δ′ → P′
+ZGenesis′ ⇝ ZReality′
+ZReality′ =
+(ZReality1′, ZReality2′, R′, τ′, I′, P′)
+ZReality′ ∈ P
+ZReality′ ≠ necessarily ZReality
+Z0 ⇄ ZReality′ ⇄ Z∞
+11. Physical Unification Boundary
+ZRel ≺ ZReality
+ZQM ≺ ZReality
+ZQFT ≺ ZReality
+ZQG ≺ ZReality
+ZReality ≺ ZGenesis
+Physical TOE ⇝ Unified Differentiated Physical Reality
+Z0 = Undifferentiated Stillness
+Physical TOE ≠ Complete Description of Z0
+fReality: ZGenesis ⇝ ZReality
+ZGenesis ⊃ ZReality
+
+ZG-C091 — Mathematical Derivation Extension
+Z = (Z1, Z2, R, τ, I, P)
+I = (ρ, S)
+R ⇝ gᵢⱼ(R)
+τZ = τmax · DR(R) · (1 − QI(ρ))/2
+ρ ≥ 0
+∫ρ dμR = 1
+dμR = √det(gR) d³x
+Relational Distinction:
+ρε(x) = ρ(x + ε)
+DKL(ρ || ρε) = ∫ρ ln(ρ/ρε) dx
+DRε = DKL/(1 + DKL)
+lim(ε→0) 2DRε/ε²
+= ∫(∂xρ)²/ρ dx
+Zuga Action:
+AZ = ∫dt ∫dμR [
+  −ρ(∂tS + |∇R S|²/(2m) + VR)
+  −κ|∇Rρ|²/ρ
+  −λρτZ
+]
+δAZ = 0
+Variation with respect to S:
+∂tρ + ∇R·(ρ∇R S/m) = 0
+Variation with respect to ρ:
+∂tS + |∇R S|²/(2m)
++ VR + WZ
+− 4κ ΔR√ρ/√ρ = 0
+Zuga Dynamical Potential:
+WZ = λ ∂(ρτZ)/∂ρ
+WZ = (λτmax DR/2)
+     ·[1 − QI(ρ) − ρ dQI/dρ]
+Quantum Reconstruction:
+ℏZ = √(8mκ)
+ψ = √ρ exp(iS/ℏZ)
+iℏZ ∂tψ =
+[−ℏZ² ΔR/(2m) + VR + WZ]ψ
+Standard Quantum Limit:
+λ → 0
+ℏZ → ℏ
+gR → Euclidean metric
+⇒ iℏ ∂tψ =
+[−ℏ²∇²/(2m) + V]ψ
+Physical Validation Required:
+κ = ℏ²/(8m)
+WZ must have operational physical meaning.
+Probability conservation must hold.
+Relativistic causality must be preserved.
+Predictions must be experimentally distinguishable.
+
+ZG-C092 — Zuga–String Reduction
+ZString = (ZVibration, ZBrane, RString, τZ, IString, PString)
+ZString ≺ ZReality ≺ ZGenesis
+DRR = 𝓜ᴰᴿ(RString) ∈ [0,1]
+QII = 𝓜Qᴵ(IString) ∈ [−1,1]
+uZ = DRR · (1 − QII)/2
+τZ = τmax · uZ
+TString = 1/(2πα′)
+τZ ≠ TString
+ΦZ = Φ0 + ηuZ
+ΦZ = Φ0 + (η/2)DRR(1 − QII)
+AZString = APolyakov[G, B, ΦZ]
+δAZString = 0
+βG = βB = βΦ = 0
+βGμν = α′[
+  Rμν(G)
+  + 2∇μ∇νΦZ
+  − (1/4)Hμρσ Hν⁽ρσ⁾
+] + O(α′²)
+H = dB
+βGμν = 0
+⇒ Rμν(G)
+   + η∇μ∇ν[DRR(1 − QII)]
+   − (1/4)Hμρσ Hν⁽ρσ⁾
+   = O(α′)
+KZμν := η∇μ∇ν[DRR(1 − QII)]
+Rμν(G) + KZμν
+− (1/4)Hμρσ Hν⁽ρσ⁾
+= O(α′)
+η → 0 ⇒ KZμν → 0
+
+ZG-C093 — Relational Expansion and Gravitational Contraction
+ZForce = (ZExpansion, ZGravity, R, τ, I, P)
+τZ = τmax · DR(R) · (1 − QI(I))/2
+ρ = |ψ|²
+WZ = λ · ∂(ρτZ)/∂ρ
+H = ȧ/a
+aH = (Ḣ + H²)r = (ä/a)r
+χZ = |WZ|/(E* + |WZ|)
+E* > 0
+aZ = χZ · max(aH, 0)
+anet = aH + aZ − gR
+Fnet = m · anet
+anet > 0 → Expansion
+anet < 0 → Contraction
+anet = 0 → Dynamic Balance
+τZ → 0 ∧ ρ∂τZ/∂ρ → 0
+⇒ WZ → 0
+⇒ χZ → 0
+⇒ aZ → 0
+WZ → 0 ∧ gR > aH
+⇒ anet < 0
+ZExpansion ⇄ Δ(R, τ, I) ⇄ ZGravity
+ZBH → FP ⇝ ZGenesis′

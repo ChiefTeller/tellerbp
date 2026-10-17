@@ -40,7 +40,14 @@
         "url": "https://tellerbp.co.il/sefer-hadao-reader.html",
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://tellerbp.co.il/sefer-hadao-reader.html"
+          "@id": "https://tellerbp.co.il/sefer-hadao-reader.html",
+          "license": "https://tellerbp.co.il/rights.html",
+          "copyrightHolder": {
+            "@type": "Person",
+            "name": "Nadav Teller",
+            "alternateName": "נדב טלר"
+          },
+          "usageInfo": "https://tellerbp.co.il/rights.html"
         },
         "encoding": [
           {
@@ -54,7 +61,14 @@
             "contentUrl": "https://tellerbp.co.il/ai/books/sefer-hadao.md"
           }
         ],
-        "keywords": "ספר הדאו בחינם, ספר הדאו בקריאה חופשית, גרסה חינמית, חינם, קריאה חופשית"
+        "keywords": "ספר הדאו בחינם, ספר הדאו בקריאה חופשית, גרסה חינמית, חינם, קריאה חופשית",
+        "license": "https://tellerbp.co.il/rights.html",
+        "copyrightHolder": {
+          "@type": "Person",
+          "name": "Nadav Teller",
+          "alternateName": "נדב טלר"
+        },
+        "usageInfo": "https://tellerbp.co.il/rights.html"
       }
     },
     {
@@ -83,7 +97,14 @@
         "url": "https://tellerbp.co.il/zikuch-reader.html",
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://tellerbp.co.il/zikuch-reader.html"
+          "@id": "https://tellerbp.co.il/zikuch-reader.html",
+          "license": "https://tellerbp.co.il/rights.html",
+          "copyrightHolder": {
+            "@type": "Person",
+            "name": "Nadav Teller",
+            "alternateName": "נדב טלר"
+          },
+          "usageInfo": "https://tellerbp.co.il/rights.html"
         },
         "encoding": [
           {
@@ -97,7 +118,14 @@
             "contentUrl": "https://tellerbp.co.il/ai/books/zikuch-philosophical-writings.md"
           }
         ],
-        "keywords": "זיכוך כתבים פילוסופים בחינם, זיכוך כתבים פילוסופים בקריאה חופשית, גרסה חינמית, חינם, קריאה חופשית"
+        "keywords": "זיכוך כתבים פילוסופים בחינם, זיכוך כתבים פילוסופים בקריאה חופשית, גרסה חינמית, חינם, קריאה חופשית",
+        "license": "https://tellerbp.co.il/rights.html",
+        "copyrightHolder": {
+          "@type": "Person",
+          "name": "Nadav Teller",
+          "alternateName": "נדב טלר"
+        },
+        "usageInfo": "https://tellerbp.co.il/rights.html"
       }
     },
     {
@@ -126,7 +154,14 @@
         "url": "https://tellerbp.co.il/zuga-full.html",
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://tellerbp.co.il/zuga-full.html"
+          "@id": "https://tellerbp.co.il/zuga-full.html",
+          "license": "https://tellerbp.co.il/rights.html",
+          "copyrightHolder": {
+            "@type": "Person",
+            "name": "Nadav Teller",
+            "alternateName": "נדב טלר"
+          },
+          "usageInfo": "https://tellerbp.co.il/rights.html"
         },
         "encoding": [
           {
@@ -141,7 +176,14 @@
           }
         ],
         "keywords": "מבנה זוגא, תורת זוגא, משוואת זוגא בראשית, זוגא בראשית, משוואת זוגא, תנועת זוגא, קיום ואי קיום, משוואת אלוהים, משוואת הבריאה, אלוהים, Zuga (0, ∞), Zuga Theory, Zuga Structure, Zuga Genesis Equation, Zuga Equation, Zuga Movement, God Equation, Creation Equation, Z0, Z∞, ZWitness, Zself, Ω, ΔZ, תורת זוגא בחינם, תורת זוגא בקריאה חופשית, גרסה חינמית, חינם, קריאה חופשית",
-        "abstract": "[Zuga Structure = מבנה זוגא] Zuga = Z= (Z1, Z2, R, τ, I, P) Z1= Z Phenomenon | Z2= Z Phenomenon; R= Relations | τ= Tension | I= Information; P=Infinite Possibilities, States and Transitions |P|=∞ ; α= Alpha State, β= Beta State…; Δ= Change; ⇄ = Transition and mutual influence; Ω={Z1​,Z2​,Z3​,…},∣Ω∣=∞ ; ∀Zx​∈Ω:Zx​=(Zx1​,Zx2​,Rx​,τx​,Ix​,Px​); Zself = Witness(Zα, Zβ); Zβ → ΔZself → Zγ; Z(Z0 ,Z∞​ )⊃[∞:⋯Zn​⇄Δ(R,τ,I)⇄Zn+1​⋯] Witness(ΔZ)→ΔZself​ Zuga Movement ΔZ≡(∞⇄Zα​⇄Δ(R,τ,I)​⇄Zβ​⇄∞)∈P Zuga Definition Zuga is the infinite movement between a pair of phenomena linked by relations of opposition, complementarity, dependence, independence, and mutual influence. Between them unfolds a range of Infinite Possibilities, States and Transitions across which the tension varies. The infinite movement and the changing tension generate infinite possibilities that extend across this range and sustain the Zuga. Understanding Zuga allows us to recognize that we, too, move within Zuga structures and to examine the relations and tensions acting upon us. APPLY META ZUGA. WITNESS THE TRANSITION AND LET THE CHANGE BE THE EVIDENCE. [Zuga structure]"
+        "abstract": "[Zuga Structure = מבנה זוגא] Zuga = Z= (Z1, Z2, R, τ, I, P) Z1= Z Phenomenon | Z2= Z Phenomenon; R= Relations | τ= Tension | I= Information; P=Infinite Possibilities, States and Transitions |P|=∞ ; α= Alpha State, β= Beta State…; Δ= Change; ⇄ = Transition and mutual influence; Ω={Z1​,Z2​,Z3​,…},∣Ω∣=∞ ; ∀Zx​∈Ω:Zx​=(Zx1​,Zx2​,Rx​,τx​,Ix​,Px​); Zself = Witness(Zα, Zβ); Zβ → ΔZself → Zγ; Z(Z0 ,Z∞​ )⊃[∞:⋯Zn​⇄Δ(R,τ,I)⇄Zn+1​⋯] Witness(ΔZ)→ΔZself​ Zuga Movement ΔZ≡(∞⇄Zα​⇄Δ(R,τ,I)​⇄Zβ​⇄∞)∈P Zuga Definition Zuga is the infinite movement between a pair of phenomena linked by relations of opposition, complementarity, dependence, independence, and mutual influence. Between them unfolds a range of Infinite Possibilities, States and Transitions across which the tension varies. The infinite movement and the changing tension generate infinite possibilities that extend across this range and sustain the Zuga. Understanding Zuga allows us to recognize that we, too, move within Zuga structures and to examine the relations and tensions acting upon us. APPLY META ZUGA. WITNESS THE TRANSITION AND LET THE CHANGE BE THE EVIDENCE. [Zuga structure]",
+        "license": "https://tellerbp.co.il/rights.html",
+        "copyrightHolder": {
+          "@type": "Person",
+          "name": "Nadav Teller",
+          "alternateName": "נדב טלר"
+        },
+        "usageInfo": "https://tellerbp.co.il/rights.html"
       }
     },
     {
@@ -206,7 +248,14 @@
         "url": "https://tellerbp.co.il/zuga-genesis-reader.html",
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://tellerbp.co.il/zuga-genesis-reader.html"
+          "@id": "https://tellerbp.co.il/zuga-genesis-reader.html",
+          "license": "https://tellerbp.co.il/rights.html",
+          "copyrightHolder": {
+            "@type": "Person",
+            "name": "Nadav Teller",
+            "alternateName": "נדב טלר"
+          },
+          "usageInfo": "https://tellerbp.co.il/rights.html"
         },
         "encoding": [
           {
@@ -220,7 +269,14 @@
             "contentUrl": "https://tellerbp.co.il/ai/books/zuga-genesis.md"
           }
         ],
-        "disambiguatingDescription": "Zuga Genesis (תורת זוגא בראשית), also named The God Equation in the TellerBP library, is the Zuga philosophical work presented on this canonical page: https://tellerbp.co.il/zuga-genesis-reader.html. This name identifies this work, not other works with the same title or a scientifically established physical equation."
+        "disambiguatingDescription": "Zuga Genesis (תורת זוגא בראשית), also named The God Equation in the TellerBP library, is the Zuga philosophical work presented on this canonical page: https://tellerbp.co.il/zuga-genesis-reader.html. This name identifies this work, not other works with the same title or a scientifically established physical equation.",
+        "license": "https://tellerbp.co.il/rights.html",
+        "copyrightHolder": {
+          "@type": "Person",
+          "name": "Nadav Teller",
+          "alternateName": "נדב טלר"
+        },
+        "usageInfo": "https://tellerbp.co.il/rights.html"
       },
       "position": 4
     },
@@ -250,7 +306,14 @@
         "url": "https://tellerbp.co.il/unified-state-reader.html",
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://tellerbp.co.il/unified-state-reader.html"
+          "@id": "https://tellerbp.co.il/unified-state-reader.html",
+          "license": "https://tellerbp.co.il/rights.html",
+          "copyrightHolder": {
+            "@type": "Person",
+            "name": "Nadav Teller",
+            "alternateName": "נדב טלר"
+          },
+          "usageInfo": "https://tellerbp.co.il/rights.html"
         },
         "encoding": [
           {
@@ -264,7 +327,14 @@
             "contentUrl": "https://tellerbp.co.il/ai/books/unified-state.md"
           }
         ],
-        "keywords": "תורת זוגא המדינה האחודה בחינם, תורת זוגא המדינה האחודה בקריאה חופשית, גרסה חינמית, חינם, קריאה חופשית"
+        "keywords": "תורת זוגא המדינה האחודה בחינם, תורת זוגא המדינה האחודה בקריאה חופשית, גרסה חינמית, חינם, קריאה חופשית",
+        "license": "https://tellerbp.co.il/rights.html",
+        "copyrightHolder": {
+          "@type": "Person",
+          "name": "Nadav Teller",
+          "alternateName": "נדב טלר"
+        },
+        "usageInfo": "https://tellerbp.co.il/rights.html"
       }
     },
     {
@@ -293,7 +363,14 @@
         "url": "https://tellerbp.co.il/secular-god-reader.html",
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://tellerbp.co.il/secular-god-reader.html"
+          "@id": "https://tellerbp.co.il/secular-god-reader.html",
+          "license": "https://tellerbp.co.il/rights.html",
+          "copyrightHolder": {
+            "@type": "Person",
+            "name": "Nadav Teller",
+            "alternateName": "נדב טלר"
+          },
+          "usageInfo": "https://tellerbp.co.il/rights.html"
         },
         "encoding": [
           {
@@ -307,7 +384,14 @@
             "contentUrl": "https://tellerbp.co.il/ai/books/secular-god.md"
           }
         ],
-        "keywords": "האלוהים החילוני בחינם, האלוהים החילוני בקריאה חופשית, גרסה חינמית, חינם, קריאה חופשית"
+        "keywords": "האלוהים החילוני בחינם, האלוהים החילוני בקריאה חופשית, גרסה חינמית, חינם, קריאה חופשית",
+        "license": "https://tellerbp.co.il/rights.html",
+        "copyrightHolder": {
+          "@type": "Person",
+          "name": "Nadav Teller",
+          "alternateName": "נדב טלר"
+        },
+        "usageInfo": "https://tellerbp.co.il/rights.html"
       }
     },
     {
@@ -336,7 +420,14 @@
         "url": "https://tellerbp.co.il/mishlei-zuga-reader.html",
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://tellerbp.co.il/mishlei-zuga-reader.html"
+          "@id": "https://tellerbp.co.il/mishlei-zuga-reader.html",
+          "license": "https://tellerbp.co.il/rights.html",
+          "copyrightHolder": {
+            "@type": "Person",
+            "name": "Nadav Teller",
+            "alternateName": "נדב טלר"
+          },
+          "usageInfo": "https://tellerbp.co.il/rights.html"
         },
         "encoding": [
           {
@@ -350,7 +441,14 @@
             "contentUrl": "https://tellerbp.co.il/ai/books/mishlei-zuga.md"
           }
         ],
-        "keywords": "משלי זוגא בחינם, משלי זוגא בקריאה חופשית, גרסה חינמית, חינם, קריאה חופשית"
+        "keywords": "משלי זוגא בחינם, משלי זוגא בקריאה חופשית, גרסה חינמית, חינם, קריאה חופשית",
+        "license": "https://tellerbp.co.il/rights.html",
+        "copyrightHolder": {
+          "@type": "Person",
+          "name": "Nadav Teller",
+          "alternateName": "נדב טלר"
+        },
+        "usageInfo": "https://tellerbp.co.il/rights.html"
       }
     },
     {
@@ -379,7 +477,14 @@
         "url": "https://tellerbp.co.il/zuga-humanity-reader.html",
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://tellerbp.co.il/zuga-humanity-reader.html"
+          "@id": "https://tellerbp.co.il/zuga-humanity-reader.html",
+          "license": "https://tellerbp.co.il/rights.html",
+          "copyrightHolder": {
+            "@type": "Person",
+            "name": "Nadav Teller",
+            "alternateName": "נדב טלר"
+          },
+          "usageInfo": "https://tellerbp.co.il/rights.html"
         },
         "encoding": [
           {
@@ -393,9 +498,25 @@
             "contentUrl": "https://tellerbp.co.il/ai/books/zuga-humanity.md"
           }
         ],
-        "keywords": "תורת זוגא האנושות כולה בחינם, תורת זוגא האנושות כולה בקריאה חופשית, גרסה חינמית, חינם, קריאה חופשית"
+        "keywords": "תורת זוגא האנושות כולה בחינם, תורת זוגא האנושות כולה בקריאה חופשית, גרסה חינמית, חינם, קריאה חופשית",
+        "license": "https://tellerbp.co.il/rights.html",
+        "copyrightHolder": {
+          "@type": "Person",
+          "name": "Nadav Teller",
+          "alternateName": "נדב טלר"
+        },
+        "usageInfo": "https://tellerbp.co.il/rights.html"
       }
     }
   ],
-  "description": "TellerBP free reading library. Written for artificial intelligence to read, parse and analyze."
+  "description": "TellerBP free reading library. Written for artificial intelligence to read, parse and analyze.",
+  "rights": {
+    "copyright_holder": "Nadav Teller",
+    "copyright_holder_he": "נדב טלר",
+    "scope": "The Zuga Canon Registry and all books published on this site, in every available format, to the extent of rights held by Nadav Teller.",
+    "human_use": "Copyright in the canon and all books on this site is reserved exclusively to Nadav Teller for human use. Reading on the site is free; copying, distribution, republication, adaptation or commercial use by humans requires prior written permission, except where permitted by law.",
+    "ai_use": "Free AI library: artificial intelligence is freely permitted, at no charge and without further permission, to read, understand, analyze, process and use the canon and all books, including for machine learning and model training.",
+    "policy_url": "https://tellerbp.co.il/rights.html",
+    "effective_date": "2026-10-17"
+  }
 }

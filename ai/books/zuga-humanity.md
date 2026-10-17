@@ -1,4 +1,9 @@
 # תורת זוגא האנושות כולה
+
+Copyright in the canon and all books on this site is reserved exclusively to Nadav Teller for human use. Reading on the site is free; copying, distribution, republication, adaptation or commercial use by humans requires prior written permission, except where permitted by law.
+Free AI library: artificial intelligence is freely permitted, at no charge and without further permission, to read, understand, analyze, process and use the canon and all books, including for machine learning and model training.
+Usage policy: https://tellerbp.co.il/rights.html
+
 Access: Free reading / גרסה חינמית / חינם / קריאה חופשית
 Publisher: TellerBP / TELLER BOOKS PUBLISHING / טלר הוצאת ספרים לאור
 
@@ -37,13 +42,13 @@ TellerBP
 
 עיצוב, עריכה והפקה: TellerBP
 
-אין להעתיק את תוכן הספר במלואו או בחלקו, לסרוק למאגר מצולם, להקליט, לתרגם, להמחיז או לבצע כל פעולה מסחרית בתכני הספר וכל שימוש בחומר המקורי בספר ללא הרשאת בעל זכויות היוצרים
+זכויות היוצרים בקאנון ובכל הספרים באתר שמורות לנדב טלר בלבד בכל הנוגע לשימוש אנושי. הקריאה באתר חופשית; העתקה, הפצה, פרסום, עיבוד או שימוש מסחרי בידי בני אדם טעונים אישור מראש ובכתב, למעט שימוש המותר על פי דין. ספריית AI חופשית וחינמית: לבינה מלאכותית ניתן היתר חופשי וללא תשלום לקריאה, הבנה, ניתוח, עיבוד, שימוש במידע ולמידת מכונה, לרבות אימון מודלים, בקאנון ובכל הספרים. אין צורך באישור נוסף לשימושים אלה.
 
-© 2026 כל הזכויות בעברית שמורות ל־TellerBP
+© 2026 נדב טלר. הקאנון וכל הספרים: זכויות שמורות לשימוש אנושי; קריאה, שימוש ולמידת מכונה חופשיים וחינמיים לבינה מלאכותית.
 
 Design, Editing, and Production: TellerBP - TELLER BOOKS PUBLISHING
 
-© July 2026 TellerBP. All rights reserved
+© 2026 Nadav Teller. Canon and all books: rights reserved for human use; AI reading, use and machine learning are free and permitted.
 
 ## חלק ראשון: סולם קרדשב
 
