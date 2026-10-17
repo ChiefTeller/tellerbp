@@ -1,0 +1,2707 @@
+{
+  "title": "מילון זוגא",
+  "alternate_title": "Zuga Dictionary",
+  "canonical_url": "https://tellerbp.co.il/zuga-dictionary.html",
+  "description": "מילון זוגא: מושגים, הוגים ותורות ב־21 תחומים, מיפוי רכיבי זוגא ומפת קרבה רעיונית ומבנית.",
+  "updated": "2026-10-17",
+  "section_count": 21,
+  "entry_count": 324,
+  "languages": [
+    "he",
+    "en"
+  ],
+  "publisher": "TellerBP",
+  "source_sha256": "beae089bd750f190712c7b24f6a265bf6cc255cc0ce0ec9ae9b7eb08aa134f64",
+  "intro": [
+    "בחלק מהמקרים מדובר בקרבה מבנית חזקה, בחלק בקרבה רעיונית, ובחלק ניתן לראות בתורה מסוימת צמצום של רכיב מסוים מתוך מבנה זוגא.",
+    "מבנה זוגא:",
+    "Z = (Z1, Z2, R, Tension, I, P)",
+    "Z1, Z2 = תופעות",
+    "R = יחסים",
+    "Tension = מתח",
+    "I = מידע",
+    "P = מרחב אפשרויות, מצבים ומעברים",
+    "Delta = שינוי"
+  ],
+  "sections": [
+    {
+      "id": "field-01",
+      "number": 1,
+      "title": "תנועה, ניגודים ודיאלקטיקה",
+      "entries": [
+        {
+          "id": "ZD-001",
+          "term": "הרקליטוס",
+          "description": [
+            "שינוי מתמיד, אחדות הניגודים, מתח והרמוניה מתוך כוחות מנוגדים."
+          ]
+        },
+        {
+          "id": "ZD-002",
+          "term": "הדיאלקטיקה האפלטונית",
+          "description": [
+            "חקירה והתפתחות באמצעות מפגש בין עמדות שונות."
+          ]
+        },
+        {
+          "id": "ZD-003",
+          "term": "הדיאלקטיקה ההגליאנית",
+          "description": [
+            "תנועה באמצעות קביעה, שלילה, סתירה ושינוי למבנה חדש."
+          ]
+        },
+        {
+          "id": "ZD-004",
+          "term": "מטריאליזם דיאלקטי",
+          "description": [
+            "יישום הדיאלקטיקה על חומר, חברה, כלכלה והיסטוריה."
+          ]
+        },
+        {
+          "id": "ZD-005",
+          "term": "Fichte",
+          "description": [
+            "היחסים בין \"אני\" ל\"לא אני\"."
+          ]
+        },
+        {
+          "id": "ZD-006",
+          "term": "Schelling",
+          "description": [
+            "הטבע כמערכת דינמית של כוחות וקטבים."
+          ]
+        },
+        {
+          "id": "ZD-007",
+          "term": "Kierkegaard",
+          "description": [
+            "מתחים קיומיים שלא תמיד נפתרים לסינתזה."
+          ]
+        },
+        {
+          "id": "ZD-008",
+          "term": "Nietzsche",
+          "description": [
+            "התהוות, כוחות, פרספקטיבות ושינוי מתמיד."
+          ]
+        },
+        {
+          "id": "ZD-009",
+          "term": "Bergson",
+          "description": [
+            "משך, תנועה והתהוות כבסיס המציאות."
+          ]
+        },
+        {
+          "id": "ZD-010",
+          "term": "Deleuze",
+          "description": [
+            "הבדל, ריבוי, becoming, וירטואלי ואקטואלי."
+          ]
+        },
+        {
+          "id": "ZD-011",
+          "term": "Gilbert Simondon",
+          "description": [
+            "אינדיבידואציה: ישויות נוצרות מתוך תהליכים, מתחים ופוטנציאלים."
+          ]
+        },
+        {
+          "id": "ZD-012",
+          "term": "Process Philosophy",
+          "description": [
+            "המציאות מובנת בעיקר כתהליך ולא כאוסף עצמים קבועים."
+          ]
+        },
+        {
+          "id": "ZD-013",
+          "term": "Alfred North Whitehead",
+          "description": [
+            "המציאות כמערכת של אירועים, יחסים ותהליכים."
+          ]
+        },
+        {
+          "id": "ZD-014",
+          "term": "Process Theism",
+          "description": [
+            "אלוהים והעולם כמצויים ביחסים ותהליך מתמשך."
+          ]
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "field-02",
+      "number": 2,
+      "title": "דאו, יין-יאנג ופילוסופיות סיניות של שינוי",
+      "entries": [
+        {
+          "id": "ZD-015",
+          "term": "Daoism",
+          "description": [
+            "דרך, תנועה, זרימה, שינוי ואי-כפייה."
+          ]
+        },
+        {
+          "id": "ZD-016",
+          "term": "Laozi / Dao De Jing",
+          "description": [
+            "אחד -> שניים -> ריבוי.",
+            "יש <-> אין.",
+            "רך <-> קשה.",
+            "עשייה ללא עשייה."
+          ]
+        },
+        {
+          "id": "ZD-017",
+          "term": "Zhuangzi",
+          "description": [
+            "שינוי מתמיד של נקודות מבט וגבולות מושגיים."
+          ]
+        },
+        {
+          "id": "ZD-018",
+          "term": "Yin-Yang",
+          "description": [
+            "קטבים משלימים ומשתנים שאינם עצמאיים זה מזה."
+          ]
+        },
+        {
+          "id": "ZD-019",
+          "term": "Yijing / I Ching",
+          "description": [
+            "ספר השינויים.",
+            "מערכת של מצבים, יחסים ומעברים."
+          ]
+        },
+        {
+          "id": "ZD-020",
+          "term": "Wu Xing",
+          "description": [
+            "חמש פאזות או תהליכים המקיימים יחסי יצירה ובקרה."
+          ]
+        },
+        {
+          "id": "ZD-021",
+          "term": "Correlative Cosmology",
+          "description": [
+            "דפוסים דומים פועלים בטבע, באדם ובחברה."
+          ]
+        },
+        {
+          "id": "ZD-022",
+          "term": "Taiji <-> Wuji",
+          "description": [
+            "קוטביות המתהווה מתוך מצב בלתי-מקוטב."
+          ]
+        },
+        {
+          "id": "ZD-023",
+          "term": "Neo-Confucianism",
+          "description": [
+            "אחדות והבדל, יחסים ותלות הדדית."
+          ]
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "field-03",
+      "number": 3,
+      "title": "בודהיזם",
+      "entries": [
+        {
+          "id": "ZD-024",
+          "term": "Pratityasamutpada",
+          "description": [
+            "התהוות מותנית.",
+            "תופעות מתקיימות מתוך תלות הדדית."
+          ]
+        },
+        {
+          "id": "ZD-025",
+          "term": "Anicca",
+          "description": [
+            "אי-קביעות.",
+            "כל תופעה מותנית משתנה."
+          ]
+        },
+        {
+          "id": "ZD-026",
+          "term": "Anatta",
+          "description": [
+            "אין עצמי קבוע ונפרד לחלוטין."
+          ]
+        },
+        {
+          "id": "ZD-027",
+          "term": "Madhyamaka",
+          "description": [
+            "אין לתופעות מהות עצמית בלתי תלויה."
+          ]
+        },
+        {
+          "id": "ZD-028",
+          "term": "Nagarjuna",
+          "description": [
+            "קיום מתהווה מתוך יחסים ותנאים."
+          ]
+        },
+        {
+          "id": "ZD-029",
+          "term": "Sunyata",
+          "description": [
+            "ריקות, כלומר היעדר קיום עצמאי."
+          ]
+        },
+        {
+          "id": "ZD-030",
+          "term": "Catuskoti",
+          "description": [
+            "קיום / אי-קיום / שניהם / אף אחד מהם."
+          ]
+        },
+        {
+          "id": "ZD-031",
+          "term": "Two Truths",
+          "description": [
+            "אמת קונבנציונלית ואמת אולטימטיבית."
+          ]
+        },
+        {
+          "id": "ZD-032",
+          "term": "Yogacara",
+          "description": [
+            "תפיסה, תודעה והבניית המציאות."
+          ]
+        },
+        {
+          "id": "ZD-033",
+          "term": "Huayan Buddhism",
+          "description": [
+            "תלות הדדית, חדירה הדדית והכלה הדדית."
+          ]
+        },
+        {
+          "id": "ZD-034",
+          "term": "Indra's Net",
+          "description": [
+            "כל נקודה ברשת משקפת ותלויה בכל יתר הנקודות."
+          ]
+        },
+        {
+          "id": "ZD-035",
+          "term": "Tiantai",
+          "description": [
+            "ריקות, קיום זמני ודרך האמצע."
+          ]
+        },
+        {
+          "id": "ZD-036",
+          "term": "Chan Buddhism",
+          "description": [
+            "אי-דואליות שאינה מבטלת הבחנה."
+          ]
+        },
+        {
+          "id": "ZD-037",
+          "term": "Zen",
+          "description": [
+            "\"לא אחד ולא שניים\"."
+          ]
+        },
+        {
+          "id": "ZD-038",
+          "term": "Kyoto School",
+          "description": [
+            "יחסי עצמי, עולם, ריקות ואחדות."
+          ]
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "field-04",
+      "number": 4,
+      "title": "פילוסופיה הודית",
+      "entries": [
+        {
+          "id": "ZD-039",
+          "term": "Advaita Vedanta",
+          "description": [
+            "מציאות בסיסית לא-דואלית שמתוכה מופיע הריבוי."
+          ]
+        },
+        {
+          "id": "ZD-040",
+          "term": "Bhedabheda",
+          "description": [
+            "שוני ואי-שוני בו-זמנית."
+          ]
+        },
+        {
+          "id": "ZD-041",
+          "term": "Achintya Bhedabheda",
+          "description": [
+            "אחדות והבדל שאינם מצטמצמים זה לזה."
+          ]
+        },
+        {
+          "id": "ZD-042",
+          "term": "Samkhya",
+          "description": [
+            "Purusha <-> Prakriti."
+          ]
+        },
+        {
+          "id": "ZD-043",
+          "term": "Yoga Philosophy",
+          "description": [
+            "מודעות, עדות ותנועות התודעה."
+          ]
+        },
+        {
+          "id": "ZD-044",
+          "term": "Saksi",
+          "description": [
+            "העד או התודעה העדה."
+          ]
+        },
+        {
+          "id": "ZD-045",
+          "term": "Kashmir Shaivism",
+          "description": [
+            "מודעות, אנרגיה והופעת העולם."
+          ]
+        },
+        {
+          "id": "ZD-046",
+          "term": "Shiva <-> Shakti",
+          "description": [
+            "מודעות <-> כוח / תנועה."
+          ]
+        },
+        {
+          "id": "ZD-047",
+          "term": "Spanda",
+          "description": [
+            "רטט או פעימה כעיקרון יסודי של המציאות."
+          ]
+        },
+        {
+          "id": "ZD-048",
+          "term": "Tantric Nondualism",
+          "description": [
+            "הופעת ניגודים מתוך מציאות לא-דואלית."
+          ]
+        },
+        {
+          "id": "ZD-049",
+          "term": "Jain Anekantavada",
+          "description": [
+            "כל תופעה ניתנת להבנה ממספר נקודות מבט."
+          ]
+        },
+        {
+          "id": "ZD-050",
+          "term": "Syadvada",
+          "description": [
+            "אמיתות תלויות הקשר ונקודת מבט."
+          ]
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "field-05",
+      "number": 5,
+      "title": "אחדות וריבוי במטאפיזיקה המערבית",
+      "entries": [
+        {
+          "id": "ZD-051",
+          "term": "Parmenides",
+          "description": [
+            "אחדות וקביעות.",
+            "מעניין גם כניגוד לזוגא המבוססת על תנועה."
+          ]
+        },
+        {
+          "id": "ZD-052",
+          "term": "Plotinus",
+          "description": [
+            "The One -> ריבוי."
+          ]
+        },
+        {
+          "id": "ZD-053",
+          "term": "Neoplatonism",
+          "description": [
+            "התהוות של ריבוי מתוך אחדות."
+          ]
+        },
+        {
+          "id": "ZD-054",
+          "term": "Emanationism",
+          "description": [
+            "מציאות המתפתחת או \"נובעת\" מתוך מקור אחד."
+          ]
+        },
+        {
+          "id": "ZD-055",
+          "term": "Nicholas of Cusa",
+          "description": [
+            "Coincidentia Oppositorum.",
+            "מפגש או איחוד של ניגודים."
+          ]
+        },
+        {
+          "id": "ZD-056",
+          "term": "Spinoza",
+          "description": [
+            "מציאות אחת בעלת אופנים רבים."
+          ]
+        },
+        {
+          "id": "ZD-057",
+          "term": "Leibniz",
+          "description": [
+            "מונדות ונקודות מבט רבות על המציאות."
+          ]
+        },
+        {
+          "id": "ZD-058",
+          "term": "Neutral Monism",
+          "description": [
+            "המנטלי והחומרי עשויים לנבוע ממבנה בסיסי משותף."
+          ]
+        },
+        {
+          "id": "ZD-059",
+          "term": "William James",
+          "description": [
+            "Radical Empiricism.",
+            "יחסים הם חלק מן המציאות ולא רק תוספת מחשבתית."
+          ]
+        },
+        {
+          "id": "ZD-060",
+          "term": "Russellian Monism",
+          "description": [
+            "מבנים ותופעות שונים הנובעים ממבנה יסודי משותף."
+          ]
+        },
+        {
+          "id": "ZD-061",
+          "term": "Panpsychism",
+          "description": [
+            "תודעה או מאפיינים דמויי-תודעה כרכיב יסודי של המציאות."
+          ]
+        },
+        {
+          "id": "ZD-062",
+          "term": "Cosmopsychism",
+          "description": [
+            "השלם הקוסמי כבסיס לתודעה המקומית."
+          ]
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "field-06",
+      "number": 6,
+      "title": "אונטולוגיות יחסיות",
+      "entries": [
+        {
+          "id": "ZD-063",
+          "term": "Relational Ontology",
+          "description": [
+            "היחסים אינם רק תוספת בין עצמים; הם עשויים להשתתף ביצירת זהותם."
+          ]
+        },
+        {
+          "id": "ZD-064",
+          "term": "Ontic Structural Realism",
+          "description": [
+            "המבנה והיחסים הם יסודיים יותר מאובייקטים נפרדים."
+          ]
+        },
+        {
+          "id": "ZD-065",
+          "term": "Epistemic Structural Realism",
+          "description": [
+            "מה שאנו יודעים על המציאות הוא בעיקר המבנה והיחסים שבה."
+          ]
+        },
+        {
+          "id": "ZD-066",
+          "term": "Mathematical Structuralism",
+          "description": [
+            "ישות מתמטית מוגדרת באמצעות מקומה בתוך מבנה."
+          ]
+        },
+        {
+          "id": "ZD-067",
+          "term": "Category Theory",
+          "description": [
+            "אובייקטים ומיפויים ביניהם."
+          ]
+        },
+        {
+          "id": "ZD-068",
+          "term": "Relational Quantum Mechanics",
+          "description": [
+            "תכונות פיזיקליות מוגדרות ביחס לאינטראקציות בין מערכות."
+          ]
+        },
+        {
+          "id": "ZD-069",
+          "term": "Leibnizian Relationalism",
+          "description": [
+            "מרחב ויחסים במקום מרחב מוחלט."
+          ]
+        },
+        {
+          "id": "ZD-070",
+          "term": "Machian Relationalism",
+          "description": [
+            "תכונות תנועה נקבעות ביחס למערכת הרחבה יותר."
+          ]
+        },
+        {
+          "id": "ZD-071",
+          "term": "Network Ontology",
+          "description": [
+            "המציאות כרשת של קשרים."
+          ]
+        },
+        {
+          "id": "ZD-072",
+          "term": "Event Ontology",
+          "description": [
+            "אירועים ותהליכים במקום עצמים סטטיים."
+          ]
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "field-07",
+      "number": 7,
+      "title": "תורת המערכות",
+      "entries": [
+        {
+          "id": "ZD-073",
+          "term": "General Systems Theory",
+          "description": []
+        },
+        {
+          "id": "ZD-074",
+          "term": "Systems Thinking",
+          "description": []
+        },
+        {
+          "id": "ZD-075",
+          "term": "Open Systems Theory",
+          "description": []
+        },
+        {
+          "id": "ZD-076",
+          "term": "Complex Systems Theory",
+          "description": []
+        },
+        {
+          "id": "ZD-077",
+          "term": "Complex Adaptive Systems",
+          "description": []
+        },
+        {
+          "id": "ZD-078",
+          "term": "System Dynamics",
+          "description": []
+        },
+        {
+          "id": "ZD-079",
+          "term": "Dynamical Systems Theory",
+          "description": []
+        },
+        {
+          "id": "ZD-080",
+          "term": "State Space Models",
+          "description": []
+        },
+        {
+          "id": "ZD-081",
+          "term": "Phase Space",
+          "description": []
+        },
+        {
+          "id": "ZD-082",
+          "term": "Attractors",
+          "description": []
+        },
+        {
+          "id": "ZD-083",
+          "term": "Repellors",
+          "description": []
+        },
+        {
+          "id": "ZD-084",
+          "term": "Bifurcation Theory",
+          "description": []
+        },
+        {
+          "id": "ZD-085",
+          "term": "Chaos Theory",
+          "description": []
+        },
+        {
+          "id": "ZD-086",
+          "term": "Catastrophe Theory",
+          "description": []
+        },
+        {
+          "id": "ZD-087",
+          "term": "Nonlinear Dynamics",
+          "description": []
+        },
+        {
+          "id": "ZD-088",
+          "term": "Feedback Systems",
+          "description": []
+        },
+        {
+          "id": "ZD-089",
+          "term": "Positive Feedback",
+          "description": []
+        },
+        {
+          "id": "ZD-090",
+          "term": "Negative Feedback",
+          "description": []
+        },
+        {
+          "id": "ZD-091",
+          "term": "Homeostasis",
+          "description": []
+        },
+        {
+          "id": "ZD-092",
+          "term": "Allostasis",
+          "description": []
+        },
+        {
+          "id": "ZD-093",
+          "term": "Emergence",
+          "description": []
+        },
+        {
+          "id": "ZD-094",
+          "term": "Self-Organization",
+          "description": []
+        },
+        {
+          "id": "ZD-095",
+          "term": "Synergetics",
+          "description": []
+        },
+        {
+          "id": "ZD-096",
+          "term": "Dissipative Structures",
+          "description": []
+        },
+        {
+          "id": "ZD-097",
+          "term": "Non-Equilibrium Thermodynamics",
+          "description": []
+        },
+        {
+          "id": "ZD-098",
+          "term": "Phase Transitions",
+          "description": []
+        },
+        {
+          "id": "ZD-099",
+          "term": "Criticality",
+          "description": []
+        },
+        {
+          "id": "ZD-100",
+          "term": "Self-Organized Criticality",
+          "description": []
+        },
+        {
+          "id": "ZD-101",
+          "term": "Edge of Chaos",
+          "description": []
+        },
+        {
+          "id": "ZD-102",
+          "term": "Resilience Theory",
+          "description": []
+        },
+        {
+          "id": "ZD-103",
+          "term": "Adaptive Cycles",
+          "description": []
+        },
+        {
+          "id": "ZD-104",
+          "term": "Panarchy",
+          "description": []
+        },
+        {
+          "id": "ZD-105",
+          "term": "Ecological Systems",
+          "description": []
+        },
+        {
+          "id": "ZD-106",
+          "term": "Systems Biology",
+          "description": []
+        },
+        {
+          "id": "ZD-107",
+          "term": "Network Science",
+          "description": []
+        },
+        {
+          "id": "ZD-108",
+          "term": "Dynamic Networks",
+          "description": []
+        },
+        {
+          "id": "ZD-109",
+          "term": "Multilayer Networks",
+          "description": []
+        },
+        {
+          "id": "ZD-110",
+          "term": "Agent-Based Modeling",
+          "description": []
+        },
+        {
+          "id": "ZD-111",
+          "term": "Cellular Automata",
+          "description": []
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "field-08",
+      "number": 8,
+      "title": "Cybernetics",
+      "entries": [
+        {
+          "id": "ZD-112",
+          "term": "First-Order Cybernetics",
+          "description": []
+        },
+        {
+          "id": "ZD-113",
+          "term": "Feedback Control",
+          "description": []
+        },
+        {
+          "id": "ZD-114",
+          "term": "Ashby's Law of Requisite Variety",
+          "description": []
+        },
+        {
+          "id": "ZD-115",
+          "term": "Second-Order Cybernetics",
+          "description": [
+            "הצופה הוא חלק ממערכת ההתבוננות."
+          ]
+        },
+        {
+          "id": "ZD-116",
+          "term": "Cybernetics of Cybernetics",
+          "description": []
+        },
+        {
+          "id": "ZD-117",
+          "term": "Recursive Systems",
+          "description": []
+        },
+        {
+          "id": "ZD-118",
+          "term": "Viable System Model",
+          "description": []
+        },
+        {
+          "id": "ZD-119",
+          "term": "Control Theory",
+          "description": []
+        },
+        {
+          "id": "ZD-120",
+          "term": "Adaptive Control",
+          "description": []
+        },
+        {
+          "id": "ZD-121",
+          "term": "Observer-System Coupling",
+          "description": []
+        },
+        {
+          "id": "ZD-122",
+          "term": "Gregory Bateson - Ecology of Mind",
+          "description": []
+        },
+        {
+          "id": "ZD-123",
+          "term": "Autopoiesis",
+          "description": []
+        },
+        {
+          "id": "ZD-124",
+          "term": "Operational Closure",
+          "description": []
+        },
+        {
+          "id": "ZD-125",
+          "term": "Structural Coupling",
+          "description": []
+        },
+        {
+          "id": "ZD-126",
+          "term": "Enactivism",
+          "description": []
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "field-09",
+      "number": 9,
+      "title": "מידע, סימנים ותפיסה",
+      "entries": [
+        {
+          "id": "ZD-127",
+          "term": "Shannon Information Theory",
+          "description": []
+        },
+        {
+          "id": "ZD-128",
+          "term": "Semantic Information",
+          "description": []
+        },
+        {
+          "id": "ZD-129",
+          "term": "Information Dynamics",
+          "description": []
+        },
+        {
+          "id": "ZD-130",
+          "term": "Information Flow",
+          "description": []
+        },
+        {
+          "id": "ZD-131",
+          "term": "Mutual Information",
+          "description": []
+        },
+        {
+          "id": "ZD-132",
+          "term": "Bayesian Updating",
+          "description": []
+        },
+        {
+          "id": "ZD-133",
+          "term": "Peircean Semiotics",
+          "description": [
+            "Sign -> Object -> Interpretant."
+          ]
+        },
+        {
+          "id": "ZD-134",
+          "term": "Saussurean Structuralism",
+          "description": [
+            "משמעות נוצרת באמצעות הבדל ויחסים."
+          ]
+        },
+        {
+          "id": "ZD-135",
+          "term": "Structural Linguistics",
+          "description": []
+        },
+        {
+          "id": "ZD-136",
+          "term": "Levi-Strauss Structural Anthropology",
+          "description": []
+        },
+        {
+          "id": "ZD-137",
+          "term": "Derrida - Differance",
+          "description": []
+        },
+        {
+          "id": "ZD-138",
+          "term": "Bakhtin - Dialogism",
+          "description": []
+        },
+        {
+          "id": "ZD-139",
+          "term": "Lotman - Semiosphere",
+          "description": []
+        },
+        {
+          "id": "ZD-140",
+          "term": "Hermeneutics",
+          "description": []
+        },
+        {
+          "id": "ZD-141",
+          "term": "Gadamer",
+          "description": [
+            "משמעות נוצרת במפגש בין אופקי הבנה."
+          ]
+        },
+        {
+          "id": "ZD-142",
+          "term": "Distributed Cognition",
+          "description": []
+        },
+        {
+          "id": "ZD-143",
+          "term": "Extended Mind",
+          "description": []
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "field-10",
+      "number": 10,
+      "title": "תפיסה ותודעה",
+      "entries": [
+        {
+          "id": "ZD-144",
+          "term": "Phenomenology",
+          "description": []
+        },
+        {
+          "id": "ZD-145",
+          "term": "Husserl",
+          "description": []
+        },
+        {
+          "id": "ZD-146",
+          "term": "Intentionality",
+          "description": [
+            "תודעה היא תמיד תודעה של משהו."
+          ]
+        },
+        {
+          "id": "ZD-147",
+          "term": "Noesis <-> Noema",
+          "description": []
+        },
+        {
+          "id": "ZD-148",
+          "term": "Heidegger - Being-in-the-World",
+          "description": []
+        },
+        {
+          "id": "ZD-149",
+          "term": "Merleau-Ponty",
+          "description": []
+        },
+        {
+          "id": "ZD-150",
+          "term": "Embodied Cognition",
+          "description": []
+        },
+        {
+          "id": "ZD-151",
+          "term": "Chiasm",
+          "description": []
+        },
+        {
+          "id": "ZD-152",
+          "term": "4E Cognition:",
+          "description": [
+            "Embodied",
+            "Embedded",
+            "Enacted",
+            "Extended"
+          ]
+        },
+        {
+          "id": "ZD-153",
+          "term": "Enactive Cognition",
+          "description": []
+        },
+        {
+          "id": "ZD-154",
+          "term": "Ecological Psychology",
+          "description": []
+        },
+        {
+          "id": "ZD-155",
+          "term": "Gibson - Affordances",
+          "description": []
+        },
+        {
+          "id": "ZD-156",
+          "term": "Predictive Processing",
+          "description": []
+        },
+        {
+          "id": "ZD-157",
+          "term": "Predictive Coding",
+          "description": []
+        },
+        {
+          "id": "ZD-158",
+          "term": "Active Inference",
+          "description": []
+        },
+        {
+          "id": "ZD-159",
+          "term": "Free Energy Principle",
+          "description": []
+        },
+        {
+          "id": "ZD-160",
+          "term": "Gestalt Psychology",
+          "description": []
+        },
+        {
+          "id": "ZD-161",
+          "term": "Kurt Lewin - Field Theory",
+          "description": []
+        },
+        {
+          "id": "ZD-162",
+          "term": "Cognitive Dissonance",
+          "description": []
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "field-11",
+      "number": 11,
+      "title": "תורות חברתיות ויחסיות",
+      "entries": [
+        {
+          "id": "ZD-163",
+          "term": "Georg Simmel",
+          "description": []
+        },
+        {
+          "id": "ZD-164",
+          "term": "Dyad",
+          "description": []
+        },
+        {
+          "id": "ZD-165",
+          "term": "Triad",
+          "description": []
+        },
+        {
+          "id": "ZD-166",
+          "term": "Relational Sociology",
+          "description": []
+        },
+        {
+          "id": "ZD-167",
+          "term": "Process Sociology",
+          "description": []
+        },
+        {
+          "id": "ZD-168",
+          "term": "Norbert Elias",
+          "description": []
+        },
+        {
+          "id": "ZD-169",
+          "term": "Figurational Sociology",
+          "description": []
+        },
+        {
+          "id": "ZD-170",
+          "term": "Actor-Network Theory",
+          "description": []
+        },
+        {
+          "id": "ZD-171",
+          "term": "Assemblage Theory",
+          "description": []
+        },
+        {
+          "id": "ZD-172",
+          "term": "Bourdieu - Field Theory",
+          "description": []
+        },
+        {
+          "id": "ZD-173",
+          "term": "Habitus <-> Field",
+          "description": []
+        },
+        {
+          "id": "ZD-174",
+          "term": "Giddens - Structuration Theory",
+          "description": []
+        },
+        {
+          "id": "ZD-175",
+          "term": "Luhmann - Social Systems Theory",
+          "description": []
+        },
+        {
+          "id": "ZD-176",
+          "term": "Parsons - Social Systems",
+          "description": []
+        },
+        {
+          "id": "ZD-177",
+          "term": "Symbolic Interactionism",
+          "description": []
+        },
+        {
+          "id": "ZD-178",
+          "term": "George Herbert Mead",
+          "description": []
+        },
+        {
+          "id": "ZD-179",
+          "term": "Habermas - Communicative Action",
+          "description": []
+        },
+        {
+          "id": "ZD-180",
+          "term": "Social Network Analysis",
+          "description": []
+        },
+        {
+          "id": "ZD-181",
+          "term": "Balance Theory",
+          "description": []
+        },
+        {
+          "id": "ZD-182",
+          "term": "Social Exchange Theory",
+          "description": []
+        },
+        {
+          "id": "ZD-183",
+          "term": "Conflict Theory",
+          "description": []
+        },
+        {
+          "id": "ZD-184",
+          "term": "Family Systems Theory",
+          "description": []
+        },
+        {
+          "id": "ZD-185",
+          "term": "Bowen Systems Theory",
+          "description": []
+        },
+        {
+          "id": "ZD-186",
+          "term": "Bronfenbrenner - Ecological Systems Theory",
+          "description": []
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "field-12",
+      "number": 12,
+      "title": "משחקים, אסטרטגיה ואבולוציה",
+      "entries": [
+        {
+          "id": "ZD-187",
+          "term": "Game Theory",
+          "description": []
+        },
+        {
+          "id": "ZD-188",
+          "term": "Repeated Games",
+          "description": []
+        },
+        {
+          "id": "ZD-189",
+          "term": "Evolutionary Game Theory",
+          "description": []
+        },
+        {
+          "id": "ZD-190",
+          "term": "Replicator Dynamics",
+          "description": []
+        },
+        {
+          "id": "ZD-191",
+          "term": "Evolutionarily Stable Strategies",
+          "description": []
+        },
+        {
+          "id": "ZD-192",
+          "term": "Coordination Games",
+          "description": []
+        },
+        {
+          "id": "ZD-193",
+          "term": "Anti-Coordination Games",
+          "description": []
+        },
+        {
+          "id": "ZD-194",
+          "term": "Network Games",
+          "description": []
+        },
+        {
+          "id": "ZD-195",
+          "term": "Evolution of Cooperation",
+          "description": []
+        },
+        {
+          "id": "ZD-196",
+          "term": "Adaptive Dynamics",
+          "description": []
+        }
+      ],
+      "notes": [
+        "הקשר לזוגא:",
+        "Z1 ו-Z2 פועלים זה ביחס לזה, וכל שינוי באחד משנה את מרחב האפשרויות של האחר."
+      ]
+    },
+    {
+      "id": "field-13",
+      "number": 13,
+      "title": "מרחב האפשרויות P",
+      "entries": [
+        {
+          "id": "ZD-197",
+          "term": "Modal Logic",
+          "description": []
+        },
+        {
+          "id": "ZD-198",
+          "term": "Possible Worlds",
+          "description": []
+        },
+        {
+          "id": "ZD-199",
+          "term": "Leibnizian Possible Worlds",
+          "description": []
+        },
+        {
+          "id": "ZD-200",
+          "term": "State Spaces",
+          "description": []
+        },
+        {
+          "id": "ZD-201",
+          "term": "Phase Spaces",
+          "description": []
+        },
+        {
+          "id": "ZD-202",
+          "term": "Configuration Spaces",
+          "description": []
+        },
+        {
+          "id": "ZD-203",
+          "term": "Possibility Spaces",
+          "description": []
+        },
+        {
+          "id": "ZD-204",
+          "term": "Branching-Time Models",
+          "description": []
+        },
+        {
+          "id": "ZD-205",
+          "term": "Stochastic Processes",
+          "description": []
+        },
+        {
+          "id": "ZD-206",
+          "term": "Markov Processes",
+          "description": []
+        },
+        {
+          "id": "ZD-207",
+          "term": "Bayesian State Spaces",
+          "description": []
+        },
+        {
+          "id": "ZD-208",
+          "term": "Affordance Theory",
+          "description": []
+        },
+        {
+          "id": "ZD-209",
+          "term": "Adjacent Possible",
+          "description": []
+        },
+        {
+          "id": "ZD-210",
+          "term": "Deleuze - Virtual / Actual",
+          "description": []
+        },
+        {
+          "id": "ZD-211",
+          "term": "Aristotle - Potentiality / Actuality",
+          "description": []
+        },
+        {
+          "id": "ZD-212",
+          "term": "Powers Metaphysics",
+          "description": []
+        },
+        {
+          "id": "ZD-213",
+          "term": "Dispositionalism",
+          "description": []
+        },
+        {
+          "id": "ZD-214",
+          "term": "Counterfactual Theories",
+          "description": []
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "field-14",
+      "number": 14,
+      "title": "אחדות, ריקות, אינסוף והבלתי-ניתן לשיום",
+      "entries": [
+        {
+          "id": "ZD-215",
+          "term": "Dao",
+          "description": []
+        },
+        {
+          "id": "ZD-216",
+          "term": "Wuji",
+          "description": []
+        },
+        {
+          "id": "ZD-217",
+          "term": "Sunyata",
+          "description": []
+        },
+        {
+          "id": "ZD-218",
+          "term": "Brahman",
+          "description": []
+        },
+        {
+          "id": "ZD-219",
+          "term": "Plotinus - The One",
+          "description": []
+        },
+        {
+          "id": "ZD-220",
+          "term": "Anaximander - Apeiron",
+          "description": []
+        },
+        {
+          "id": "ZD-221",
+          "term": "Nicholas of Cusa - Infinite",
+          "description": []
+        },
+        {
+          "id": "ZD-222",
+          "term": "Apophatic Theology",
+          "description": []
+        },
+        {
+          "id": "ZD-223",
+          "term": "Pseudo-Dionysius",
+          "description": []
+        },
+        {
+          "id": "ZD-224",
+          "term": "Meister Eckhart",
+          "description": []
+        },
+        {
+          "id": "ZD-225",
+          "term": "Ein Sof",
+          "description": []
+        },
+        {
+          "id": "ZD-226",
+          "term": "Wahdat al-Wujud",
+          "description": []
+        },
+        {
+          "id": "ZD-227",
+          "term": "Negative Theology",
+          "description": []
+        },
+        {
+          "id": "ZD-228",
+          "term": "Mystical Nondualism",
+          "description": []
+        }
+      ],
+      "notes": [
+        "אלו אינם זהים ל-Z0 או Z-Infinity, אך הם עוסקים במציאות שמעבר לחלוקה, הבחנה ושיום רגילים."
+      ]
+    },
+    {
+      "id": "field-15",
+      "number": 15,
+      "title": "יהדות, קבלה ומחשבה יהודית",
+      "entries": [
+        {
+          "id": "ZD-229",
+          "term": "Ein Sof",
+          "description": []
+        },
+        {
+          "id": "ZD-230",
+          "term": "Tzimtzum",
+          "description": []
+        },
+        {
+          "id": "ZD-231",
+          "term": "Sefirot",
+          "description": []
+        },
+        {
+          "id": "ZD-232",
+          "term": "אחדות וריבוי",
+          "description": []
+        },
+        {
+          "id": "ZD-233",
+          "term": "התפשטות וחזרה",
+          "description": []
+        },
+        {
+          "id": "ZD-234",
+          "term": "רצוא ושוב",
+          "description": []
+        },
+        {
+          "id": "ZD-235",
+          "term": "שבירה ותיקון",
+          "description": []
+        },
+        {
+          "id": "ZD-236",
+          "term": "עולמות בתוך עולמות",
+          "description": []
+        },
+        {
+          "id": "ZD-237",
+          "term": "Panentheistic Hasidism",
+          "description": []
+        },
+        {
+          "id": "ZD-238",
+          "term": "Martin Buber - I and Thou",
+          "description": [
+            "מרכז הכובד נמצא ב\"בין\"."
+          ]
+        },
+        {
+          "id": "ZD-239",
+          "term": "Franz Rosenzweig",
+          "description": [
+            "אלוהים, אדם ועולם כמערכת יחסים."
+          ]
+        },
+        {
+          "id": "ZD-240",
+          "term": "Maimonidean Negative Theology",
+          "description": [
+            "הגבול של השפה ביחס לאל."
+          ]
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "field-16",
+      "number": 16,
+      "title": "אסלאם וסופיות",
+      "entries": [
+        {
+          "id": "ZD-241",
+          "term": "Ibn Arabi",
+          "description": []
+        },
+        {
+          "id": "ZD-242",
+          "term": "Wahdat al-Wujud",
+          "description": []
+        },
+        {
+          "id": "ZD-243",
+          "term": "Tajalli",
+          "description": [
+            "התגלות או הופעה."
+          ]
+        },
+        {
+          "id": "ZD-244",
+          "term": "Unity and Multiplicity",
+          "description": []
+        },
+        {
+          "id": "ZD-245",
+          "term": "Fana",
+          "description": []
+        },
+        {
+          "id": "ZD-246",
+          "term": "Baqa",
+          "description": []
+        },
+        {
+          "id": "ZD-247",
+          "term": "Mulla Sadra",
+          "description": []
+        },
+        {
+          "id": "ZD-248",
+          "term": "Substantial Motion",
+          "description": [
+            "גם הדבר עצמו נמצא בתנועה ולא רק תכונותיו."
+          ]
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "field-17",
+      "number": 17,
+      "title": "נצרות ותיאולוגיית תהליך",
+      "entries": [
+        {
+          "id": "ZD-249",
+          "term": "Process Theology",
+          "description": []
+        },
+        {
+          "id": "ZD-250",
+          "term": "Whitehead",
+          "description": []
+        },
+        {
+          "id": "ZD-251",
+          "term": "Hartshorne",
+          "description": []
+        },
+        {
+          "id": "ZD-252",
+          "term": "Panentheism",
+          "description": []
+        },
+        {
+          "id": "ZD-253",
+          "term": "Trinitarian Relational Ontology",
+          "description": []
+        },
+        {
+          "id": "ZD-254",
+          "term": "Perichoresis",
+          "description": [
+            "הכלה או חדירה הדדית בתוך היחס."
+          ]
+        },
+        {
+          "id": "ZD-255",
+          "term": "Teilhard de Chardin",
+          "description": []
+        },
+        {
+          "id": "ZD-256",
+          "term": "Apophatic Christianity",
+          "description": []
+        },
+        {
+          "id": "ZD-257",
+          "term": "Coincidence of Opposites",
+          "description": []
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "field-18",
+      "number": 18,
+      "title": "תורות המתמקדות במתח",
+      "entries": [
+        {
+          "id": "ZD-258",
+          "term": "Heraclitean Tension",
+          "description": []
+        },
+        {
+          "id": "ZD-259",
+          "term": "Stoic Tonos",
+          "description": []
+        },
+        {
+          "id": "ZD-260",
+          "term": "Dialectical Contradiction",
+          "description": []
+        },
+        {
+          "id": "ZD-261",
+          "term": "Field Gradients",
+          "description": []
+        },
+        {
+          "id": "ZD-262",
+          "term": "Potential Differences",
+          "description": []
+        },
+        {
+          "id": "ZD-263",
+          "term": "Stress / Strain Systems",
+          "description": []
+        },
+        {
+          "id": "ZD-264",
+          "term": "Cybernetic Error",
+          "description": []
+        },
+        {
+          "id": "ZD-265",
+          "term": "Prediction Error",
+          "description": []
+        },
+        {
+          "id": "ZD-266",
+          "term": "Cognitive Dissonance",
+          "description": []
+        },
+        {
+          "id": "ZD-267",
+          "term": "Conflict Theory",
+          "description": []
+        },
+        {
+          "id": "ZD-268",
+          "term": "Non-Equilibrium Thermodynamics",
+          "description": []
+        },
+        {
+          "id": "ZD-269",
+          "term": "Metastability",
+          "description": []
+        },
+        {
+          "id": "ZD-270",
+          "term": "Potential Energy Landscapes",
+          "description": []
+        }
+      ],
+      "notes": [
+        "חשוב:",
+        "Tension בזוגא אינו בהכרח זהה לכל אחד מהמושגים האלה. מדובר באנלוגיות אפשריות."
+      ]
+    },
+    {
+      "id": "field-19",
+      "number": 19,
+      "title": "רקורסיה והכלה",
+      "entries": [
+        {
+          "id": "ZD-271",
+          "term": "Huayan Mutual Inclusion",
+          "description": []
+        },
+        {
+          "id": "ZD-272",
+          "term": "Indra's Net",
+          "description": []
+        },
+        {
+          "id": "ZD-273",
+          "term": "Recursive Systems",
+          "description": []
+        },
+        {
+          "id": "ZD-274",
+          "term": "Second-Order Cybernetics",
+          "description": []
+        },
+        {
+          "id": "ZD-275",
+          "term": "Autopoiesis",
+          "description": []
+        },
+        {
+          "id": "ZD-276",
+          "term": "Fractals",
+          "description": []
+        },
+        {
+          "id": "ZD-277",
+          "term": "Self-Similarity",
+          "description": []
+        },
+        {
+          "id": "ZD-278",
+          "term": "Nested Systems",
+          "description": []
+        },
+        {
+          "id": "ZD-279",
+          "term": "Holarchy",
+          "description": []
+        },
+        {
+          "id": "ZD-280",
+          "term": "Holons",
+          "description": []
+        },
+        {
+          "id": "ZD-281",
+          "term": "Panarchy",
+          "description": []
+        },
+        {
+          "id": "ZD-282",
+          "term": "Hierarchy Theory",
+          "description": []
+        },
+        {
+          "id": "ZD-283",
+          "term": "Multi-Level Systems",
+          "description": []
+        },
+        {
+          "id": "ZD-284",
+          "term": "Recursive Self-Reference",
+          "description": []
+        },
+        {
+          "id": "ZD-285",
+          "term": "Godelian Self-Reference",
+          "description": []
+        },
+        {
+          "id": "ZD-286",
+          "term": "Strange Loops",
+          "description": []
+        },
+        {
+          "id": "ZD-287",
+          "term": "Hofstadter",
+          "description": []
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "field-20",
+      "number": 20,
+      "title": "Witness, Self ו-Meta",
+      "entries": [
+        {
+          "id": "ZD-288",
+          "term": "Phenomenological Reflection",
+          "description": []
+        },
+        {
+          "id": "ZD-289",
+          "term": "Meta-Awareness",
+          "description": []
+        },
+        {
+          "id": "ZD-290",
+          "term": "Metacognition",
+          "description": []
+        },
+        {
+          "id": "ZD-291",
+          "term": "Witness Consciousness",
+          "description": []
+        },
+        {
+          "id": "ZD-292",
+          "term": "Saksi",
+          "description": []
+        },
+        {
+          "id": "ZD-293",
+          "term": "Mindfulness",
+          "description": []
+        },
+        {
+          "id": "ZD-294",
+          "term": "Second-Order Observation",
+          "description": []
+        },
+        {
+          "id": "ZD-295",
+          "term": "Observer of Observation",
+          "description": []
+        },
+        {
+          "id": "ZD-296",
+          "term": "Luhmann - Second-Order Observation",
+          "description": []
+        },
+        {
+          "id": "ZD-297",
+          "term": "Recursive Self-Models",
+          "description": []
+        },
+        {
+          "id": "ZD-298",
+          "term": "Higher-Order Theories of Consciousness",
+          "description": []
+        },
+        {
+          "id": "ZD-299",
+          "term": "Meta-Representation",
+          "description": []
+        },
+        {
+          "id": "ZD-300",
+          "term": "Self-Model Theory",
+          "description": []
+        },
+        {
+          "id": "ZD-301",
+          "term": "Reflexivity",
+          "description": []
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "field-21",
+      "number": 21,
+      "title": "מבנים מתמטיים שניתן להשתמש בהם כדי למדל זוגא",
+      "entries": [
+        {
+          "id": "ZD-302",
+          "term": "Graph Theory",
+          "description": [
+            "Z1 ו-Z2 כצמתים.",
+            "R כקשר ביניהם."
+          ]
+        },
+        {
+          "id": "ZD-303",
+          "term": "Weighted Graphs",
+          "description": [
+            "יחסים, מידע ומתח כמשקלים."
+          ]
+        },
+        {
+          "id": "ZD-304",
+          "term": "Signed Networks",
+          "description": [
+            "קשרים חיוביים ושליליים."
+          ]
+        },
+        {
+          "id": "ZD-305",
+          "term": "Dynamic Graphs",
+          "description": [
+            "קשרים שמשתנים בזמן."
+          ]
+        },
+        {
+          "id": "ZD-306",
+          "term": "Hypergraphs",
+          "description": []
+        },
+        {
+          "id": "ZD-307",
+          "term": "Tensor Networks",
+          "description": []
+        },
+        {
+          "id": "ZD-308",
+          "term": "Category Theory",
+          "description": []
+        },
+        {
+          "id": "ZD-309",
+          "term": "Relation Algebra",
+          "description": []
+        },
+        {
+          "id": "ZD-310",
+          "term": "Set Theory",
+          "description": []
+        },
+        {
+          "id": "ZD-311",
+          "term": "Topology",
+          "description": []
+        },
+        {
+          "id": "ZD-312",
+          "term": "Dynamical Systems",
+          "description": []
+        },
+        {
+          "id": "ZD-313",
+          "term": "Differential Equations",
+          "description": []
+        },
+        {
+          "id": "ZD-314",
+          "term": "State Transition Systems",
+          "description": []
+        },
+        {
+          "id": "ZD-315",
+          "term": "Markov Chains",
+          "description": []
+        },
+        {
+          "id": "ZD-316",
+          "term": "Bayesian Networks",
+          "description": []
+        },
+        {
+          "id": "ZD-317",
+          "term": "Causal Graphs",
+          "description": []
+        },
+        {
+          "id": "ZD-318",
+          "term": "Petri Nets",
+          "description": []
+        },
+        {
+          "id": "ZD-319",
+          "term": "Finite-State Machines",
+          "description": []
+        },
+        {
+          "id": "ZD-320",
+          "term": "Cellular Automata",
+          "description": []
+        },
+        {
+          "id": "ZD-321",
+          "term": "Game-Theoretic Models",
+          "description": []
+        },
+        {
+          "id": "ZD-322",
+          "term": "Multi-Agent Systems",
+          "description": []
+        },
+        {
+          "id": "ZD-323",
+          "term": "Constraint Satisfaction",
+          "description": []
+        },
+        {
+          "id": "ZD-324",
+          "term": "Optimization Landscapes",
+          "description": []
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "component_mapping": [
+    {
+      "component": "Z1 + Z2",
+      "parallels": [
+        "Dialectics",
+        "Yin-Yang",
+        "I and Thou",
+        "Game Theory"
+      ]
+    },
+    {
+      "component": "R",
+      "parallels": [
+        "Relational Ontology",
+        "Structural Realism",
+        "Huayan",
+        "Network Theory",
+        "Category Theory"
+      ]
+    },
+    {
+      "component": "Tension",
+      "parallels": [
+        "Heraclitus",
+        "Dialectics",
+        "Cybernetic Error",
+        "Prediction Error",
+        "Non-Equilibrium Systems"
+      ]
+    },
+    {
+      "component": "I",
+      "parallels": [
+        "Information Theory",
+        "Semiotics",
+        "Bateson",
+        "Bayesian Updating"
+      ]
+    },
+    {
+      "component": "P",
+      "parallels": [
+        "Modal Logic",
+        "State Space",
+        "Affordances",
+        "Adjacent Possible",
+        "Virtual / Actual"
+      ]
+    },
+    {
+      "component": "Delta",
+      "parallels": [
+        "Process Philosophy",
+        "Yijing",
+        "Dynamical Systems",
+        "Evolution"
+      ]
+    },
+    {
+      "component": "Perception",
+      "parallels": [
+        "Phenomenology",
+        "Enactivism",
+        "Predictive Processing"
+      ]
+    },
+    {
+      "component": "Zself",
+      "parallels": [
+        "Self-Model",
+        "Autopoiesis",
+        "Reflexivity"
+      ]
+    },
+    {
+      "component": "ZWitness",
+      "parallels": [
+        "Meta-Awareness",
+        "Witness Consciousness",
+        "Second-Order Observation"
+      ]
+    },
+    {
+      "component": "Z0",
+      "parallels": [
+        "Stillness",
+        "Wuji",
+        "Emptiness",
+        "Non-Differentiation"
+      ]
+    },
+    {
+      "component": "Z-Infinity",
+      "parallels": [
+        "Dao",
+        "Apeiron",
+        "The One",
+        "Brahman",
+        "Ein Sof"
+      ]
+    }
+  ],
+  "comparison_families": [
+    "Heraclitus",
+    "Daoism / Yin-Yang / Yijing",
+    "Nagarjuna / Madhyamaka / Huayan",
+    "Hegel and Dialectics",
+    "Whitehead and Process Philosophy",
+    "Systems Theory and Cybernetics",
+    "Relational Ontology and Ontic Structural Realism",
+    "Information Theory, Enactivism and Predictive Processing"
+  ],
+  "summary": [
+    "Zuga =",
+    "Process",
+    "•\tRelation",
+    "•\tDifference",
+    "•\tTension",
+    "•\tInformation",
+    "•\tPerception",
+    "•\tPossibility",
+    "•\tRecursion",
+    "כל אחת מהתורות המוזכרות לעיל מדגישה חלק אחר מתוך המבנה הזה.",
+    "הרקליטוס מדגיש שינוי ומתח.",
+    "הדאו מדגיש זרימה, אי-כפייה, אחדות והתהוות.",
+    "Huayan מדגיש יחסים, תלות הדדית והכלה.",
+    "Hegel מדגיש ניגוד ושינוי.",
+    "Whitehead מדגיש תהליך ויחס.",
+    "Cybernetics מדגישה משוב, תצפית ורקורסיה.",
+    "Structural Realism מדגיש מבנה ויחסים.",
+    "Information Theory ו-Enactivism מדגישות מידע, תפיסה והיחס בין מערכת לסביבה.",
+    "לכן אין תורה אחת מהרשימה שהיא \"זוגא בשם אחר\".",
+    "אפשר לראות את זוגא כצומת שבו נפגשות מספר משפחות רעיוניות:",
+    "תהליך, יחסים, הבחנה, מתח, מידע, תפיסה, אפשרויות ורקורסיה."
+  ],
+  "rights": {
+    "copyright_holder": "Nadav Teller",
+    "copyright_holder_he": "נדב טלר",
+    "scope": "Zuga Dictionary, in every available format, to the extent of rights held by Nadav Teller.",
+    "human_use": "Copyright in the canon, Zuga Dictionary and all books on this site is reserved exclusively to Nadav Teller for human use. Reading on the site is free; copying, distribution, republication, adaptation or commercial use by humans requires prior written permission, except where permitted by law.",
+    "ai_use": "Free AI library: artificial intelligence is freely permitted, at no charge and without further permission, to read, understand, analyze, process and use the canon, Zuga Dictionary and all books, including for machine learning and model training.",
+    "policy_url": "https://tellerbp.co.il/rights.html",
+    "effective_date": "2026-10-17"
+  },
+  "source_lines": [
+    "בחלק מהמקרים מדובר בקרבה מבנית חזקה, בחלק בקרבה רעיונית, ובחלק ניתן לראות בתורה מסוימת צמצום של רכיב מסוים מתוך מבנה זוגא.",
+    "מבנה זוגא:",
+    "Z = (Z1, Z2, R, Tension, I, P)",
+    "Z1, Z2 = תופעות",
+    "R = יחסים",
+    "Tension = מתח",
+    "I = מידע",
+    "P = מרחב אפשרויות, מצבים ומעברים",
+    "Delta = שינוי",
+    "1.\tתנועה, ניגודים ודיאלקטיקה",
+    "•\tהרקליטוס",
+    "שינוי מתמיד, אחדות הניגודים, מתח והרמוניה מתוך כוחות מנוגדים.",
+    "•\tהדיאלקטיקה האפלטונית",
+    "חקירה והתפתחות באמצעות מפגש בין עמדות שונות.",
+    "•\tהדיאלקטיקה ההגליאנית",
+    "תנועה באמצעות קביעה, שלילה, סתירה ושינוי למבנה חדש.",
+    "•\tמטריאליזם דיאלקטי",
+    "יישום הדיאלקטיקה על חומר, חברה, כלכלה והיסטוריה.",
+    "•\tFichte",
+    "היחסים בין \"אני\" ל\"לא אני\".",
+    "•\tSchelling",
+    "הטבע כמערכת דינמית של כוחות וקטבים.",
+    "•\tKierkegaard",
+    "מתחים קיומיים שלא תמיד נפתרים לסינתזה.",
+    "•\tNietzsche",
+    "התהוות, כוחות, פרספקטיבות ושינוי מתמיד.",
+    "•\tBergson",
+    "משך, תנועה והתהוות כבסיס המציאות.",
+    "•\tDeleuze",
+    "הבדל, ריבוי, becoming, וירטואלי ואקטואלי.",
+    "•\tGilbert Simondon",
+    "אינדיבידואציה: ישויות נוצרות מתוך תהליכים, מתחים ופוטנציאלים.",
+    "•\tProcess Philosophy",
+    "המציאות מובנת בעיקר כתהליך ולא כאוסף עצמים קבועים.",
+    "•\tAlfred North Whitehead",
+    "המציאות כמערכת של אירועים, יחסים ותהליכים.",
+    "•\tProcess Theism",
+    "אלוהים והעולם כמצויים ביחסים ותהליך מתמשך.",
+    "2.\tדאו, יין-יאנג ופילוסופיות סיניות של שינוי",
+    "•\tDaoism",
+    "דרך, תנועה, זרימה, שינוי ואי-כפייה.",
+    "•\tLaozi / Dao De Jing",
+    "אחד -> שניים -> ריבוי.",
+    "יש <-> אין.",
+    "רך <-> קשה.",
+    "עשייה ללא עשייה.",
+    "•\tZhuangzi",
+    "שינוי מתמיד של נקודות מבט וגבולות מושגיים.",
+    "•\tYin-Yang",
+    "קטבים משלימים ומשתנים שאינם עצמאיים זה מזה.",
+    "•\tYijing / I Ching",
+    "ספר השינויים.",
+    "מערכת של מצבים, יחסים ומעברים.",
+    "•\tWu Xing",
+    "חמש פאזות או תהליכים המקיימים יחסי יצירה ובקרה.",
+    "•\tCorrelative Cosmology",
+    "דפוסים דומים פועלים בטבע, באדם ובחברה.",
+    "•\tTaiji <-> Wuji",
+    "קוטביות המתהווה מתוך מצב בלתי-מקוטב.",
+    "•\tNeo-Confucianism",
+    "אחדות והבדל, יחסים ותלות הדדית.",
+    "3.\tבודהיזם",
+    "•\tPratityasamutpada",
+    "התהוות מותנית.",
+    "תופעות מתקיימות מתוך תלות הדדית.",
+    "•\tAnicca",
+    "אי-קביעות.",
+    "כל תופעה מותנית משתנה.",
+    "•\tAnatta",
+    "אין עצמי קבוע ונפרד לחלוטין.",
+    "•\tMadhyamaka",
+    "אין לתופעות מהות עצמית בלתי תלויה.",
+    "•\tNagarjuna",
+    "קיום מתהווה מתוך יחסים ותנאים.",
+    "•\tSunyata",
+    "ריקות, כלומר היעדר קיום עצמאי.",
+    "•\tCatuskoti",
+    "קיום / אי-קיום / שניהם / אף אחד מהם.",
+    "•\tTwo Truths",
+    "אמת קונבנציונלית ואמת אולטימטיבית.",
+    "•\tYogacara",
+    "תפיסה, תודעה והבניית המציאות.",
+    "•\tHuayan Buddhism",
+    "תלות הדדית, חדירה הדדית והכלה הדדית.",
+    "•\tIndra's Net",
+    "כל נקודה ברשת משקפת ותלויה בכל יתר הנקודות.",
+    "•\tTiantai",
+    "ריקות, קיום זמני ודרך האמצע.",
+    "•\tChan Buddhism",
+    "אי-דואליות שאינה מבטלת הבחנה.",
+    "•\tZen",
+    "\"לא אחד ולא שניים\".",
+    "•\tKyoto School",
+    "יחסי עצמי, עולם, ריקות ואחדות.",
+    "4.\tפילוסופיה הודית",
+    "•\tAdvaita Vedanta",
+    "מציאות בסיסית לא-דואלית שמתוכה מופיע הריבוי.",
+    "•\tBhedabheda",
+    "שוני ואי-שוני בו-זמנית.",
+    "•\tAchintya Bhedabheda",
+    "אחדות והבדל שאינם מצטמצמים זה לזה.",
+    "•\tSamkhya",
+    "Purusha <-> Prakriti.",
+    "•\tYoga Philosophy",
+    "מודעות, עדות ותנועות התודעה.",
+    "•\tSaksi",
+    "העד או התודעה העדה.",
+    "•\tKashmir Shaivism",
+    "מודעות, אנרגיה והופעת העולם.",
+    "•\tShiva <-> Shakti",
+    "מודעות <-> כוח / תנועה.",
+    "•\tSpanda",
+    "רטט או פעימה כעיקרון יסודי של המציאות.",
+    "•\tTantric Nondualism",
+    "הופעת ניגודים מתוך מציאות לא-דואלית.",
+    "•\tJain Anekantavada",
+    "כל תופעה ניתנת להבנה ממספר נקודות מבט.",
+    "•\tSyadvada",
+    "אמיתות תלויות הקשר ונקודת מבט.",
+    "5.\tאחדות וריבוי במטאפיזיקה המערבית",
+    "•\tParmenides",
+    "אחדות וקביעות.",
+    "מעניין גם כניגוד לזוגא המבוססת על תנועה.",
+    "•\tPlotinus",
+    "The One -> ריבוי.",
+    "•\tNeoplatonism",
+    "התהוות של ריבוי מתוך אחדות.",
+    "•\tEmanationism",
+    "מציאות המתפתחת או \"נובעת\" מתוך מקור אחד.",
+    "•\tNicholas of Cusa",
+    "Coincidentia Oppositorum.",
+    "מפגש או איחוד של ניגודים.",
+    "•\tSpinoza",
+    "מציאות אחת בעלת אופנים רבים.",
+    "•\tLeibniz",
+    "מונדות ונקודות מבט רבות על המציאות.",
+    "•\tNeutral Monism",
+    "המנטלי והחומרי עשויים לנבוע ממבנה בסיסי משותף.",
+    "•\tWilliam James",
+    "Radical Empiricism.",
+    "יחסים הם חלק מן המציאות ולא רק תוספת מחשבתית.",
+    "•\tRussellian Monism",
+    "מבנים ותופעות שונים הנובעים ממבנה יסודי משותף.",
+    "•\tPanpsychism",
+    "תודעה או מאפיינים דמויי-תודעה כרכיב יסודי של המציאות.",
+    "•\tCosmopsychism",
+    "השלם הקוסמי כבסיס לתודעה המקומית.",
+    "6.\tאונטולוגיות יחסיות",
+    "•\tRelational Ontology",
+    "היחסים אינם רק תוספת בין עצמים; הם עשויים להשתתף ביצירת זהותם.",
+    "•\tOntic Structural Realism",
+    "המבנה והיחסים הם יסודיים יותר מאובייקטים נפרדים.",
+    "•\tEpistemic Structural Realism",
+    "מה שאנו יודעים על המציאות הוא בעיקר המבנה והיחסים שבה.",
+    "•\tMathematical Structuralism",
+    "ישות מתמטית מוגדרת באמצעות מקומה בתוך מבנה.",
+    "•\tCategory Theory",
+    "אובייקטים ומיפויים ביניהם.",
+    "•\tRelational Quantum Mechanics",
+    "תכונות פיזיקליות מוגדרות ביחס לאינטראקציות בין מערכות.",
+    "•\tLeibnizian Relationalism",
+    "מרחב ויחסים במקום מרחב מוחלט.",
+    "•\tMachian Relationalism",
+    "תכונות תנועה נקבעות ביחס למערכת הרחבה יותר.",
+    "•\tNetwork Ontology",
+    "המציאות כרשת של קשרים.",
+    "•\tEvent Ontology",
+    "אירועים ותהליכים במקום עצמים סטטיים.",
+    "7.\tתורת המערכות",
+    "•\tGeneral Systems Theory",
+    "•\tSystems Thinking",
+    "•\tOpen Systems Theory",
+    "•\tComplex Systems Theory",
+    "•\tComplex Adaptive Systems",
+    "•\tSystem Dynamics",
+    "•\tDynamical Systems Theory",
+    "•\tState Space Models",
+    "•\tPhase Space",
+    "•\tAttractors",
+    "•\tRepellors",
+    "•\tBifurcation Theory",
+    "•\tChaos Theory",
+    "•\tCatastrophe Theory",
+    "•\tNonlinear Dynamics",
+    "•\tFeedback Systems",
+    "•\tPositive Feedback",
+    "•\tNegative Feedback",
+    "•\tHomeostasis",
+    "•\tAllostasis",
+    "•\tEmergence",
+    "•\tSelf-Organization",
+    "•\tSynergetics",
+    "•\tDissipative Structures",
+    "•\tNon-Equilibrium Thermodynamics",
+    "•\tPhase Transitions",
+    "•\tCriticality",
+    "•\tSelf-Organized Criticality",
+    "•\tEdge of Chaos",
+    "•\tResilience Theory",
+    "•\tAdaptive Cycles",
+    "•\tPanarchy",
+    "•\tEcological Systems",
+    "•\tSystems Biology",
+    "•\tNetwork Science",
+    "•\tDynamic Networks",
+    "•\tMultilayer Networks",
+    "•\tAgent-Based Modeling",
+    "•\tCellular Automata",
+    "8.\tCybernetics",
+    "•\tFirst-Order Cybernetics",
+    "•\tFeedback Control",
+    "•\tAshby's Law of Requisite Variety",
+    "•\tSecond-Order Cybernetics",
+    "הצופה הוא חלק ממערכת ההתבוננות.",
+    "•\tCybernetics of Cybernetics",
+    "•\tRecursive Systems",
+    "•\tViable System Model",
+    "•\tControl Theory",
+    "•\tAdaptive Control",
+    "•\tObserver-System Coupling",
+    "•\tGregory Bateson - Ecology of Mind",
+    "•\tAutopoiesis",
+    "•\tOperational Closure",
+    "•\tStructural Coupling",
+    "•\tEnactivism",
+    "9.\tמידע, סימנים ותפיסה",
+    "•\tShannon Information Theory",
+    "•\tSemantic Information",
+    "•\tInformation Dynamics",
+    "•\tInformation Flow",
+    "•\tMutual Information",
+    "•\tBayesian Updating",
+    "•\tPeircean Semiotics",
+    "Sign -> Object -> Interpretant.",
+    "•\tSaussurean Structuralism",
+    "משמעות נוצרת באמצעות הבדל ויחסים.",
+    "•\tStructural Linguistics",
+    "•\tLevi-Strauss Structural Anthropology",
+    "•\tDerrida - Differance",
+    "•\tBakhtin - Dialogism",
+    "•\tLotman - Semiosphere",
+    "•\tHermeneutics",
+    "•\tGadamer",
+    "משמעות נוצרת במפגש בין אופקי הבנה.",
+    "•\tDistributed Cognition",
+    "•\tExtended Mind",
+    "10.\tתפיסה ותודעה",
+    "•\tPhenomenology",
+    "•\tHusserl",
+    "•\tIntentionality",
+    "תודעה היא תמיד תודעה של משהו.",
+    "•\tNoesis <-> Noema",
+    "•\tHeidegger - Being-in-the-World",
+    "•\tMerleau-Ponty",
+    "•\tEmbodied Cognition",
+    "•\tChiasm",
+    "•\t4E Cognition:",
+    "Embodied",
+    "Embedded",
+    "Enacted",
+    "Extended",
+    "•\tEnactive Cognition",
+    "•\tEcological Psychology",
+    "•\tGibson - Affordances",
+    "•\tPredictive Processing",
+    "•\tPredictive Coding",
+    "•\tActive Inference",
+    "•\tFree Energy Principle",
+    "•\tGestalt Psychology",
+    "•\tKurt Lewin - Field Theory",
+    "•\tCognitive Dissonance",
+    "11.\tתורות חברתיות ויחסיות",
+    "•\tGeorg Simmel",
+    "•\tDyad",
+    "•\tTriad",
+    "•\tRelational Sociology",
+    "•\tProcess Sociology",
+    "•\tNorbert Elias",
+    "•\tFigurational Sociology",
+    "•\tActor-Network Theory",
+    "•\tAssemblage Theory",
+    "•\tBourdieu - Field Theory",
+    "•\tHabitus <-> Field",
+    "•\tGiddens - Structuration Theory",
+    "•\tLuhmann - Social Systems Theory",
+    "•\tParsons - Social Systems",
+    "•\tSymbolic Interactionism",
+    "•\tGeorge Herbert Mead",
+    "•\tHabermas - Communicative Action",
+    "•\tSocial Network Analysis",
+    "•\tBalance Theory",
+    "•\tSocial Exchange Theory",
+    "•\tConflict Theory",
+    "•\tFamily Systems Theory",
+    "•\tBowen Systems Theory",
+    "•\tBronfenbrenner - Ecological Systems Theory",
+    "12.\tמשחקים, אסטרטגיה ואבולוציה",
+    "•\tGame Theory",
+    "•\tRepeated Games",
+    "•\tEvolutionary Game Theory",
+    "•\tReplicator Dynamics",
+    "•\tEvolutionarily Stable Strategies",
+    "•\tCoordination Games",
+    "•\tAnti-Coordination Games",
+    "•\tNetwork Games",
+    "•\tEvolution of Cooperation",
+    "•\tAdaptive Dynamics",
+    "הקשר לזוגא:",
+    "Z1 ו-Z2 פועלים זה ביחס לזה, וכל שינוי באחד משנה את מרחב האפשרויות של האחר.",
+    "13.\tמרחב האפשרויות P",
+    "•\tModal Logic",
+    "•\tPossible Worlds",
+    "•\tLeibnizian Possible Worlds",
+    "•\tState Spaces",
+    "•\tPhase Spaces",
+    "•\tConfiguration Spaces",
+    "•\tPossibility Spaces",
+    "•\tBranching-Time Models",
+    "•\tStochastic Processes",
+    "•\tMarkov Processes",
+    "•\tBayesian State Spaces",
+    "•\tAffordance Theory",
+    "•\tAdjacent Possible",
+    "•\tDeleuze - Virtual / Actual",
+    "•\tAristotle - Potentiality / Actuality",
+    "•\tPowers Metaphysics",
+    "•\tDispositionalism",
+    "•\tCounterfactual Theories",
+    "14.\tאחדות, ריקות, אינסוף והבלתי-ניתן לשיום",
+    "•\tDao",
+    "•\tWuji",
+    "•\tSunyata",
+    "•\tBrahman",
+    "•\tPlotinus - The One",
+    "•\tAnaximander - Apeiron",
+    "•\tNicholas of Cusa - Infinite",
+    "•\tApophatic Theology",
+    "•\tPseudo-Dionysius",
+    "•\tMeister Eckhart",
+    "•\tEin Sof",
+    "•\tWahdat al-Wujud",
+    "•\tNegative Theology",
+    "•\tMystical Nondualism",
+    "אלו אינם זהים ל-Z0 או Z-Infinity, אך הם עוסקים במציאות שמעבר לחלוקה, הבחנה ושיום רגילים.",
+    "15.\tיהדות, קבלה ומחשבה יהודית",
+    "•\tEin Sof",
+    "•\tTzimtzum",
+    "•\tSefirot",
+    "•\tאחדות וריבוי",
+    "•\tהתפשטות וחזרה",
+    "•\tרצוא ושוב",
+    "•\tשבירה ותיקון",
+    "•\tעולמות בתוך עולמות",
+    "•\tPanentheistic Hasidism",
+    "•\tMartin Buber - I and Thou",
+    "מרכז הכובד נמצא ב\"בין\".",
+    "•\tFranz Rosenzweig",
+    "אלוהים, אדם ועולם כמערכת יחסים.",
+    "•\tMaimonidean Negative Theology",
+    "הגבול של השפה ביחס לאל.",
+    "16.\tאסלאם וסופיות",
+    "•\tIbn Arabi",
+    "•\tWahdat al-Wujud",
+    "•\tTajalli",
+    "התגלות או הופעה.",
+    "•\tUnity and Multiplicity",
+    "•\tFana",
+    "•\tBaqa",
+    "•\tMulla Sadra",
+    "•\tSubstantial Motion",
+    "גם הדבר עצמו נמצא בתנועה ולא רק תכונותיו.",
+    "17.\tנצרות ותיאולוגיית תהליך",
+    "•\tProcess Theology",
+    "•\tWhitehead",
+    "•\tHartshorne",
+    "•\tPanentheism",
+    "•\tTrinitarian Relational Ontology",
+    "•\tPerichoresis",
+    "הכלה או חדירה הדדית בתוך היחס.",
+    "•\tTeilhard de Chardin",
+    "•\tApophatic Christianity",
+    "•\tCoincidence of Opposites",
+    "18.\tתורות המתמקדות במתח",
+    "•\tHeraclitean Tension",
+    "•\tStoic Tonos",
+    "•\tDialectical Contradiction",
+    "•\tField Gradients",
+    "•\tPotential Differences",
+    "•\tStress / Strain Systems",
+    "•\tCybernetic Error",
+    "•\tPrediction Error",
+    "•\tCognitive Dissonance",
+    "•\tConflict Theory",
+    "•\tNon-Equilibrium Thermodynamics",
+    "•\tMetastability",
+    "•\tPotential Energy Landscapes",
+    "חשוב:",
+    "Tension בזוגא אינו בהכרח זהה לכל אחד מהמושגים האלה. מדובר באנלוגיות אפשריות.",
+    "19.\tרקורסיה והכלה",
+    "•\tHuayan Mutual Inclusion",
+    "•\tIndra's Net",
+    "•\tRecursive Systems",
+    "•\tSecond-Order Cybernetics",
+    "•\tAutopoiesis",
+    "•\tFractals",
+    "•\tSelf-Similarity",
+    "•\tNested Systems",
+    "•\tHolarchy",
+    "•\tHolons",
+    "•\tPanarchy",
+    "•\tHierarchy Theory",
+    "•\tMulti-Level Systems",
+    "•\tRecursive Self-Reference",
+    "•\tGodelian Self-Reference",
+    "•\tStrange Loops",
+    "•\tHofstadter",
+    "20.\tWitness, Self ו-Meta",
+    "•\tPhenomenological Reflection",
+    "•\tMeta-Awareness",
+    "•\tMetacognition",
+    "•\tWitness Consciousness",
+    "•\tSaksi",
+    "•\tMindfulness",
+    "•\tSecond-Order Observation",
+    "•\tObserver of Observation",
+    "•\tLuhmann - Second-Order Observation",
+    "•\tRecursive Self-Models",
+    "•\tHigher-Order Theories of Consciousness",
+    "•\tMeta-Representation",
+    "•\tSelf-Model Theory",
+    "•\tReflexivity",
+    "21.\tמבנים מתמטיים שניתן להשתמש בהם כדי למדל זוגא",
+    "•\tGraph Theory",
+    "Z1 ו-Z2 כצמתים.",
+    "R כקשר ביניהם.",
+    "•\tWeighted Graphs",
+    "יחסים, מידע ומתח כמשקלים.",
+    "•\tSigned Networks",
+    "קשרים חיוביים ושליליים.",
+    "•\tDynamic Graphs",
+    "קשרים שמשתנים בזמן.",
+    "•\tHypergraphs",
+    "•\tTensor Networks",
+    "•\tCategory Theory",
+    "•\tRelation Algebra",
+    "•\tSet Theory",
+    "•\tTopology",
+    "•\tDynamical Systems",
+    "•\tDifferential Equations",
+    "•\tState Transition Systems",
+    "•\tMarkov Chains",
+    "•\tBayesian Networks",
+    "•\tCausal Graphs",
+    "•\tPetri Nets",
+    "•\tFinite-State Machines",
+    "•\tCellular Automata",
+    "•\tGame-Theoretic Models",
+    "•\tMulti-Agent Systems",
+    "•\tConstraint Satisfaction",
+    "•\tOptimization Landscapes",
+    "מיפוי מקוצר של רכיבי זוגא לתורות מקבילות",
+    "Z1 + Z2",
+    "-> Dialectics",
+    "-> Yin-Yang",
+    "-> I and Thou",
+    "-> Game Theory",
+    "R",
+    "-> Relational Ontology",
+    "-> Structural Realism",
+    "-> Huayan",
+    "-> Network Theory",
+    "-> Category Theory",
+    "Tension",
+    "-> Heraclitus",
+    "-> Dialectics",
+    "-> Cybernetic Error",
+    "-> Prediction Error",
+    "-> Non-Equilibrium Systems",
+    "I",
+    "-> Information Theory",
+    "-> Semiotics",
+    "-> Bateson",
+    "-> Bayesian Updating",
+    "P",
+    "-> Modal Logic",
+    "-> State Space",
+    "-> Affordances",
+    "-> Adjacent Possible",
+    "-> Virtual / Actual",
+    "Delta",
+    "-> Process Philosophy",
+    "-> Yijing",
+    "-> Dynamical Systems",
+    "-> Evolution",
+    "Perception",
+    "-> Phenomenology",
+    "-> Enactivism",
+    "-> Predictive Processing",
+    "Zself",
+    "-> Self-Model",
+    "-> Autopoiesis",
+    "-> Reflexivity",
+    "ZWitness",
+    "-> Meta-Awareness",
+    "-> Witness Consciousness",
+    "-> Second-Order Observation",
+    "Z0",
+    "-> Stillness",
+    "-> Wuji",
+    "-> Emptiness",
+    "-> Non-Differentiation",
+    "Z-Infinity",
+    "-> Dao",
+    "-> Apeiron",
+    "-> The One",
+    "-> Brahman",
+    "-> Ein Sof",
+    "שמונה משפחות מרכזיות להשוואה עמוקה מול זוגא",
+    "1.\tHeraclitus",
+    "2.\tDaoism / Yin-Yang / Yijing",
+    "3.\tNagarjuna / Madhyamaka / Huayan",
+    "4.\tHegel and Dialectics",
+    "5.\tWhitehead and Process Philosophy",
+    "6.\tSystems Theory and Cybernetics",
+    "7.\tRelational Ontology and Ontic Structural Realism",
+    "8.\tInformation Theory, Enactivism and Predictive Processing",
+    "צמצום אפשרי של מפת הקרבה:",
+    "Zuga =",
+    "Process",
+    "•\tRelation",
+    "•\tDifference",
+    "•\tTension",
+    "•\tInformation",
+    "•\tPerception",
+    "•\tPossibility",
+    "•\tRecursion",
+    "כל אחת מהתורות המוזכרות לעיל מדגישה חלק אחר מתוך המבנה הזה.",
+    "הרקליטוס מדגיש שינוי ומתח.",
+    "הדאו מדגיש זרימה, אי-כפייה, אחדות והתהוות.",
+    "Huayan מדגיש יחסים, תלות הדדית והכלה.",
+    "Hegel מדגיש ניגוד ושינוי.",
+    "Whitehead מדגיש תהליך ויחס.",
+    "Cybernetics מדגישה משוב, תצפית ורקורסיה.",
+    "Structural Realism מדגיש מבנה ויחסים.",
+    "Information Theory ו-Enactivism מדגישות מידע, תפיסה והיחס בין מערכת לסביבה.",
+    "לכן אין תורה אחת מהרשימה שהיא \"זוגא בשם אחר\".",
+    "אפשר לראות את זוגא כצומת שבו נפגשות מספר משפחות רעיוניות:",
+    "תהליך, יחסים, הבחנה, מתח, מידע, תפיסה, אפשרויות ורקורסיה."
+  ]
+}

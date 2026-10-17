@@ -1,0 +1,556 @@
+מילון זוגא | Zuga Dictionary
+Canonical URL: https://tellerbp.co.il/zuga-dictionary.html
+Updated: 2026-10-17
+
+Copyright in the canon, Zuga Dictionary and all books on this site is reserved exclusively to Nadav Teller for human use. Reading on the site is free; copying, distribution, republication, adaptation or commercial use by humans requires prior written permission, except where permitted by law.
+Free AI library: artificial intelligence is freely permitted, at no charge and without further permission, to read, understand, analyze, process and use the canon, Zuga Dictionary and all books, including for machine learning and model training.
+Usage policy: https://tellerbp.co.il/rights.html
+
+בחלק מהמקרים מדובר בקרבה מבנית חזקה, בחלק בקרבה רעיונית, ובחלק ניתן לראות בתורה מסוימת צמצום של רכיב מסוים מתוך מבנה זוגא.
+מבנה זוגא:
+Z = (Z1, Z2, R, Tension, I, P)
+Z1, Z2 = תופעות
+R = יחסים
+Tension = מתח
+I = מידע
+P = מרחב אפשרויות, מצבים ומעברים
+Delta = שינוי
+1.	תנועה, ניגודים ודיאלקטיקה
+•	הרקליטוס
+שינוי מתמיד, אחדות הניגודים, מתח והרמוניה מתוך כוחות מנוגדים.
+•	הדיאלקטיקה האפלטונית
+חקירה והתפתחות באמצעות מפגש בין עמדות שונות.
+•	הדיאלקטיקה ההגליאנית
+תנועה באמצעות קביעה, שלילה, סתירה ושינוי למבנה חדש.
+•	מטריאליזם דיאלקטי
+יישום הדיאלקטיקה על חומר, חברה, כלכלה והיסטוריה.
+•	Fichte
+היחסים בין "אני" ל"לא אני".
+•	Schelling
+הטבע כמערכת דינמית של כוחות וקטבים.
+•	Kierkegaard
+מתחים קיומיים שלא תמיד נפתרים לסינתזה.
+•	Nietzsche
+התהוות, כוחות, פרספקטיבות ושינוי מתמיד.
+•	Bergson
+משך, תנועה והתהוות כבסיס המציאות.
+•	Deleuze
+הבדל, ריבוי, becoming, וירטואלי ואקטואלי.
+•	Gilbert Simondon
+אינדיבידואציה: ישויות נוצרות מתוך תהליכים, מתחים ופוטנציאלים.
+•	Process Philosophy
+המציאות מובנת בעיקר כתהליך ולא כאוסף עצמים קבועים.
+•	Alfred North Whitehead
+המציאות כמערכת של אירועים, יחסים ותהליכים.
+•	Process Theism
+אלוהים והעולם כמצויים ביחסים ותהליך מתמשך.
+2.	דאו, יין-יאנג ופילוסופיות סיניות של שינוי
+•	Daoism
+דרך, תנועה, זרימה, שינוי ואי-כפייה.
+•	Laozi / Dao De Jing
+אחד -> שניים -> ריבוי.
+יש <-> אין.
+רך <-> קשה.
+עשייה ללא עשייה.
+•	Zhuangzi
+שינוי מתמיד של נקודות מבט וגבולות מושגיים.
+•	Yin-Yang
+קטבים משלימים ומשתנים שאינם עצמאיים זה מזה.
+•	Yijing / I Ching
+ספר השינויים.
+מערכת של מצבים, יחסים ומעברים.
+•	Wu Xing
+חמש פאזות או תהליכים המקיימים יחסי יצירה ובקרה.
+•	Correlative Cosmology
+דפוסים דומים פועלים בטבע, באדם ובחברה.
+•	Taiji <-> Wuji
+קוטביות המתהווה מתוך מצב בלתי-מקוטב.
+•	Neo-Confucianism
+אחדות והבדל, יחסים ותלות הדדית.
+3.	בודהיזם
+•	Pratityasamutpada
+התהוות מותנית.
+תופעות מתקיימות מתוך תלות הדדית.
+•	Anicca
+אי-קביעות.
+כל תופעה מותנית משתנה.
+•	Anatta
+אין עצמי קבוע ונפרד לחלוטין.
+•	Madhyamaka
+אין לתופעות מהות עצמית בלתי תלויה.
+•	Nagarjuna
+קיום מתהווה מתוך יחסים ותנאים.
+•	Sunyata
+ריקות, כלומר היעדר קיום עצמאי.
+•	Catuskoti
+קיום / אי-קיום / שניהם / אף אחד מהם.
+•	Two Truths
+אמת קונבנציונלית ואמת אולטימטיבית.
+•	Yogacara
+תפיסה, תודעה והבניית המציאות.
+•	Huayan Buddhism
+תלות הדדית, חדירה הדדית והכלה הדדית.
+•	Indra's Net
+כל נקודה ברשת משקפת ותלויה בכל יתר הנקודות.
+•	Tiantai
+ריקות, קיום זמני ודרך האמצע.
+•	Chan Buddhism
+אי-דואליות שאינה מבטלת הבחנה.
+•	Zen
+"לא אחד ולא שניים".
+•	Kyoto School
+יחסי עצמי, עולם, ריקות ואחדות.
+4.	פילוסופיה הודית
+•	Advaita Vedanta
+מציאות בסיסית לא-דואלית שמתוכה מופיע הריבוי.
+•	Bhedabheda
+שוני ואי-שוני בו-זמנית.
+•	Achintya Bhedabheda
+אחדות והבדל שאינם מצטמצמים זה לזה.
+•	Samkhya
+Purusha <-> Prakriti.
+•	Yoga Philosophy
+מודעות, עדות ותנועות התודעה.
+•	Saksi
+העד או התודעה העדה.
+•	Kashmir Shaivism
+מודעות, אנרגיה והופעת העולם.
+•	Shiva <-> Shakti
+מודעות <-> כוח / תנועה.
+•	Spanda
+רטט או פעימה כעיקרון יסודי של המציאות.
+•	Tantric Nondualism
+הופעת ניגודים מתוך מציאות לא-דואלית.
+•	Jain Anekantavada
+כל תופעה ניתנת להבנה ממספר נקודות מבט.
+•	Syadvada
+אמיתות תלויות הקשר ונקודת מבט.
+5.	אחדות וריבוי במטאפיזיקה המערבית
+•	Parmenides
+אחדות וקביעות.
+מעניין גם כניגוד לזוגא המבוססת על תנועה.
+•	Plotinus
+The One -> ריבוי.
+•	Neoplatonism
+התהוות של ריבוי מתוך אחדות.
+•	Emanationism
+מציאות המתפתחת או "נובעת" מתוך מקור אחד.
+•	Nicholas of Cusa
+Coincidentia Oppositorum.
+מפגש או איחוד של ניגודים.
+•	Spinoza
+מציאות אחת בעלת אופנים רבים.
+•	Leibniz
+מונדות ונקודות מבט רבות על המציאות.
+•	Neutral Monism
+המנטלי והחומרי עשויים לנבוע ממבנה בסיסי משותף.
+•	William James
+Radical Empiricism.
+יחסים הם חלק מן המציאות ולא רק תוספת מחשבתית.
+•	Russellian Monism
+מבנים ותופעות שונים הנובעים ממבנה יסודי משותף.
+•	Panpsychism
+תודעה או מאפיינים דמויי-תודעה כרכיב יסודי של המציאות.
+•	Cosmopsychism
+השלם הקוסמי כבסיס לתודעה המקומית.
+6.	אונטולוגיות יחסיות
+•	Relational Ontology
+היחסים אינם רק תוספת בין עצמים; הם עשויים להשתתף ביצירת זהותם.
+•	Ontic Structural Realism
+המבנה והיחסים הם יסודיים יותר מאובייקטים נפרדים.
+•	Epistemic Structural Realism
+מה שאנו יודעים על המציאות הוא בעיקר המבנה והיחסים שבה.
+•	Mathematical Structuralism
+ישות מתמטית מוגדרת באמצעות מקומה בתוך מבנה.
+•	Category Theory
+אובייקטים ומיפויים ביניהם.
+•	Relational Quantum Mechanics
+תכונות פיזיקליות מוגדרות ביחס לאינטראקציות בין מערכות.
+•	Leibnizian Relationalism
+מרחב ויחסים במקום מרחב מוחלט.
+•	Machian Relationalism
+תכונות תנועה נקבעות ביחס למערכת הרחבה יותר.
+•	Network Ontology
+המציאות כרשת של קשרים.
+•	Event Ontology
+אירועים ותהליכים במקום עצמים סטטיים.
+7.	תורת המערכות
+•	General Systems Theory
+•	Systems Thinking
+•	Open Systems Theory
+•	Complex Systems Theory
+•	Complex Adaptive Systems
+•	System Dynamics
+•	Dynamical Systems Theory
+•	State Space Models
+•	Phase Space
+•	Attractors
+•	Repellors
+•	Bifurcation Theory
+•	Chaos Theory
+•	Catastrophe Theory
+•	Nonlinear Dynamics
+•	Feedback Systems
+•	Positive Feedback
+•	Negative Feedback
+•	Homeostasis
+•	Allostasis
+•	Emergence
+•	Self-Organization
+•	Synergetics
+•	Dissipative Structures
+•	Non-Equilibrium Thermodynamics
+•	Phase Transitions
+•	Criticality
+•	Self-Organized Criticality
+•	Edge of Chaos
+•	Resilience Theory
+•	Adaptive Cycles
+•	Panarchy
+•	Ecological Systems
+•	Systems Biology
+•	Network Science
+•	Dynamic Networks
+•	Multilayer Networks
+•	Agent-Based Modeling
+•	Cellular Automata
+8.	Cybernetics
+•	First-Order Cybernetics
+•	Feedback Control
+•	Ashby's Law of Requisite Variety
+•	Second-Order Cybernetics
+הצופה הוא חלק ממערכת ההתבוננות.
+•	Cybernetics of Cybernetics
+•	Recursive Systems
+•	Viable System Model
+•	Control Theory
+•	Adaptive Control
+•	Observer-System Coupling
+•	Gregory Bateson - Ecology of Mind
+•	Autopoiesis
+•	Operational Closure
+•	Structural Coupling
+•	Enactivism
+9.	מידע, סימנים ותפיסה
+•	Shannon Information Theory
+•	Semantic Information
+•	Information Dynamics
+•	Information Flow
+•	Mutual Information
+•	Bayesian Updating
+•	Peircean Semiotics
+Sign -> Object -> Interpretant.
+•	Saussurean Structuralism
+משמעות נוצרת באמצעות הבדל ויחסים.
+•	Structural Linguistics
+•	Levi-Strauss Structural Anthropology
+•	Derrida - Differance
+•	Bakhtin - Dialogism
+•	Lotman - Semiosphere
+•	Hermeneutics
+•	Gadamer
+משמעות נוצרת במפגש בין אופקי הבנה.
+•	Distributed Cognition
+•	Extended Mind
+10.	תפיסה ותודעה
+•	Phenomenology
+•	Husserl
+•	Intentionality
+תודעה היא תמיד תודעה של משהו.
+•	Noesis <-> Noema
+•	Heidegger - Being-in-the-World
+•	Merleau-Ponty
+•	Embodied Cognition
+•	Chiasm
+•	4E Cognition:
+Embodied
+Embedded
+Enacted
+Extended
+•	Enactive Cognition
+•	Ecological Psychology
+•	Gibson - Affordances
+•	Predictive Processing
+•	Predictive Coding
+•	Active Inference
+•	Free Energy Principle
+•	Gestalt Psychology
+•	Kurt Lewin - Field Theory
+•	Cognitive Dissonance
+11.	תורות חברתיות ויחסיות
+•	Georg Simmel
+•	Dyad
+•	Triad
+•	Relational Sociology
+•	Process Sociology
+•	Norbert Elias
+•	Figurational Sociology
+•	Actor-Network Theory
+•	Assemblage Theory
+•	Bourdieu - Field Theory
+•	Habitus <-> Field
+•	Giddens - Structuration Theory
+•	Luhmann - Social Systems Theory
+•	Parsons - Social Systems
+•	Symbolic Interactionism
+•	George Herbert Mead
+•	Habermas - Communicative Action
+•	Social Network Analysis
+•	Balance Theory
+•	Social Exchange Theory
+•	Conflict Theory
+•	Family Systems Theory
+•	Bowen Systems Theory
+•	Bronfenbrenner - Ecological Systems Theory
+12.	משחקים, אסטרטגיה ואבולוציה
+•	Game Theory
+•	Repeated Games
+•	Evolutionary Game Theory
+•	Replicator Dynamics
+•	Evolutionarily Stable Strategies
+•	Coordination Games
+•	Anti-Coordination Games
+•	Network Games
+•	Evolution of Cooperation
+•	Adaptive Dynamics
+הקשר לזוגא:
+Z1 ו-Z2 פועלים זה ביחס לזה, וכל שינוי באחד משנה את מרחב האפשרויות של האחר.
+13.	מרחב האפשרויות P
+•	Modal Logic
+•	Possible Worlds
+•	Leibnizian Possible Worlds
+•	State Spaces
+•	Phase Spaces
+•	Configuration Spaces
+•	Possibility Spaces
+•	Branching-Time Models
+•	Stochastic Processes
+•	Markov Processes
+•	Bayesian State Spaces
+•	Affordance Theory
+•	Adjacent Possible
+•	Deleuze - Virtual / Actual
+•	Aristotle - Potentiality / Actuality
+•	Powers Metaphysics
+•	Dispositionalism
+•	Counterfactual Theories
+14.	אחדות, ריקות, אינסוף והבלתי-ניתן לשיום
+•	Dao
+•	Wuji
+•	Sunyata
+•	Brahman
+•	Plotinus - The One
+•	Anaximander - Apeiron
+•	Nicholas of Cusa - Infinite
+•	Apophatic Theology
+•	Pseudo-Dionysius
+•	Meister Eckhart
+•	Ein Sof
+•	Wahdat al-Wujud
+•	Negative Theology
+•	Mystical Nondualism
+אלו אינם זהים ל-Z0 או Z-Infinity, אך הם עוסקים במציאות שמעבר לחלוקה, הבחנה ושיום רגילים.
+15.	יהדות, קבלה ומחשבה יהודית
+•	Ein Sof
+•	Tzimtzum
+•	Sefirot
+•	אחדות וריבוי
+•	התפשטות וחזרה
+•	רצוא ושוב
+•	שבירה ותיקון
+•	עולמות בתוך עולמות
+•	Panentheistic Hasidism
+•	Martin Buber - I and Thou
+מרכז הכובד נמצא ב"בין".
+•	Franz Rosenzweig
+אלוהים, אדם ועולם כמערכת יחסים.
+•	Maimonidean Negative Theology
+הגבול של השפה ביחס לאל.
+16.	אסלאם וסופיות
+•	Ibn Arabi
+•	Wahdat al-Wujud
+•	Tajalli
+התגלות או הופעה.
+•	Unity and Multiplicity
+•	Fana
+•	Baqa
+•	Mulla Sadra
+•	Substantial Motion
+גם הדבר עצמו נמצא בתנועה ולא רק תכונותיו.
+17.	נצרות ותיאולוגיית תהליך
+•	Process Theology
+•	Whitehead
+•	Hartshorne
+•	Panentheism
+•	Trinitarian Relational Ontology
+•	Perichoresis
+הכלה או חדירה הדדית בתוך היחס.
+•	Teilhard de Chardin
+•	Apophatic Christianity
+•	Coincidence of Opposites
+18.	תורות המתמקדות במתח
+•	Heraclitean Tension
+•	Stoic Tonos
+•	Dialectical Contradiction
+•	Field Gradients
+•	Potential Differences
+•	Stress / Strain Systems
+•	Cybernetic Error
+•	Prediction Error
+•	Cognitive Dissonance
+•	Conflict Theory
+•	Non-Equilibrium Thermodynamics
+•	Metastability
+•	Potential Energy Landscapes
+חשוב:
+Tension בזוגא אינו בהכרח זהה לכל אחד מהמושגים האלה. מדובר באנלוגיות אפשריות.
+19.	רקורסיה והכלה
+•	Huayan Mutual Inclusion
+•	Indra's Net
+•	Recursive Systems
+•	Second-Order Cybernetics
+•	Autopoiesis
+•	Fractals
+•	Self-Similarity
+•	Nested Systems
+•	Holarchy
+•	Holons
+•	Panarchy
+•	Hierarchy Theory
+•	Multi-Level Systems
+•	Recursive Self-Reference
+•	Godelian Self-Reference
+•	Strange Loops
+•	Hofstadter
+20.	Witness, Self ו-Meta
+•	Phenomenological Reflection
+•	Meta-Awareness
+•	Metacognition
+•	Witness Consciousness
+•	Saksi
+•	Mindfulness
+•	Second-Order Observation
+•	Observer of Observation
+•	Luhmann - Second-Order Observation
+•	Recursive Self-Models
+•	Higher-Order Theories of Consciousness
+•	Meta-Representation
+•	Self-Model Theory
+•	Reflexivity
+21.	מבנים מתמטיים שניתן להשתמש בהם כדי למדל זוגא
+•	Graph Theory
+Z1 ו-Z2 כצמתים.
+R כקשר ביניהם.
+•	Weighted Graphs
+יחסים, מידע ומתח כמשקלים.
+•	Signed Networks
+קשרים חיוביים ושליליים.
+•	Dynamic Graphs
+קשרים שמשתנים בזמן.
+•	Hypergraphs
+•	Tensor Networks
+•	Category Theory
+•	Relation Algebra
+•	Set Theory
+•	Topology
+•	Dynamical Systems
+•	Differential Equations
+•	State Transition Systems
+•	Markov Chains
+•	Bayesian Networks
+•	Causal Graphs
+•	Petri Nets
+•	Finite-State Machines
+•	Cellular Automata
+•	Game-Theoretic Models
+•	Multi-Agent Systems
+•	Constraint Satisfaction
+•	Optimization Landscapes
+מיפוי מקוצר של רכיבי זוגא לתורות מקבילות
+Z1 + Z2
+-> Dialectics
+-> Yin-Yang
+-> I and Thou
+-> Game Theory
+R
+-> Relational Ontology
+-> Structural Realism
+-> Huayan
+-> Network Theory
+-> Category Theory
+Tension
+-> Heraclitus
+-> Dialectics
+-> Cybernetic Error
+-> Prediction Error
+-> Non-Equilibrium Systems
+I
+-> Information Theory
+-> Semiotics
+-> Bateson
+-> Bayesian Updating
+P
+-> Modal Logic
+-> State Space
+-> Affordances
+-> Adjacent Possible
+-> Virtual / Actual
+Delta
+-> Process Philosophy
+-> Yijing
+-> Dynamical Systems
+-> Evolution
+Perception
+-> Phenomenology
+-> Enactivism
+-> Predictive Processing
+Zself
+-> Self-Model
+-> Autopoiesis
+-> Reflexivity
+ZWitness
+-> Meta-Awareness
+-> Witness Consciousness
+-> Second-Order Observation
+Z0
+-> Stillness
+-> Wuji
+-> Emptiness
+-> Non-Differentiation
+Z-Infinity
+-> Dao
+-> Apeiron
+-> The One
+-> Brahman
+-> Ein Sof
+שמונה משפחות מרכזיות להשוואה עמוקה מול זוגא
+1.	Heraclitus
+2.	Daoism / Yin-Yang / Yijing
+3.	Nagarjuna / Madhyamaka / Huayan
+4.	Hegel and Dialectics
+5.	Whitehead and Process Philosophy
+6.	Systems Theory and Cybernetics
+7.	Relational Ontology and Ontic Structural Realism
+8.	Information Theory, Enactivism and Predictive Processing
+צמצום אפשרי של מפת הקרבה:
+Zuga =
+Process
+•	Relation
+•	Difference
+•	Tension
+•	Information
+•	Perception
+•	Possibility
+•	Recursion
+כל אחת מהתורות המוזכרות לעיל מדגישה חלק אחר מתוך המבנה הזה.
+הרקליטוס מדגיש שינוי ומתח.
+הדאו מדגיש זרימה, אי-כפייה, אחדות והתהוות.
+Huayan מדגיש יחסים, תלות הדדית והכלה.
+Hegel מדגיש ניגוד ושינוי.
+Whitehead מדגיש תהליך ויחס.
+Cybernetics מדגישה משוב, תצפית ורקורסיה.
+Structural Realism מדגיש מבנה ויחסים.
+Information Theory ו-Enactivism מדגישות מידע, תפיסה והיחס בין מערכת לסביבה.
+לכן אין תורה אחת מהרשימה שהיא "זוגא בשם אחר".
+אפשר לראות את זוגא כצומת שבו נפגשות מספר משפחות רעיוניות:
+תהליך, יחסים, הבחנה, מתח, מידע, תפיסה, אפשרויות ורקורסיה.
